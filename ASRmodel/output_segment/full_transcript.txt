@@ -1,0 +1,118 @@
+[SEG-001] [0.32-0.62]: [vi]Chào mọi người
+[SEG-002] [0.64-1.06]: [vi]Mình hỏi này
+[SEG-003] [1.08-1.58]: [vi]Các bạn thích ăn không
+[SEG-004] [1.64-2.28]: [vi]Có ăn sữa chảy à
+[SEG-005] [2.30-3.22]: [vi]Mình cũng thế
+[SEG-006] [3.24-5.14]: [vi]Mặc dù nhìn đen hơi gầy nhưng đen lại rất thích ăn thường ăn rất nhiều
+[SEG-007] [5.21-9.05]: [vi]Và trừ một số món khó ăn đen rất thích ẩm thực Việt Nam
+[SEG-008] [9.07-13.98]: [vi]Vì thế trong [en]video [vi]này mình muốn hướng dẫn các bạn nói về ẩm thực Việt Nam bằng tiếng Anh
+[SEG-009] [14.00-19.32]: [vi]Mình không có ý định cấu phiên về các món đặc trưng của Việt Nam dành tiếng Anh
+[SEG-010] [19.39-20.61]: [vi]Ví dụ như bánh xèo là
+[SEG-011] [27.76-30.64]: [vi]Như mình đã nói trong một [en]video [vi]trước các bạn nên gọi các món Việt bằng tên Việt luôn
+[SEG-012] [30.70-33.37]: [vi]Và mình cũng không có ý định nói về những cái mà các tờ điển có rồi
+[SEG-013] [33.38-35.89]: [vi]Ví dụ nếu bạn chưa biết xả là gì thì tra tờ điển đi
+[SEG-014] [35.99-39.05]: [vi]Đấy
+[SEG-015] [39.09-41.54]: [vi]Thế là đúng luôn
+[SEG-016] [41.70-51.79]: [vi]Thay vào đó mình sẽ tập trung về những điều mơ hồ tức là những điều mà mình nghĩ các bạn sẽ không biết nếu không có người bản ngữ như mình hướng dẫn
+[SEG-017] [51.81-52.97]: [en]Video [vi]có bốn đoạn
+[SEG-018] [53.27-60.21]: [vi]Nguyên liệu cách chế biến những điều dễ nhầm lẫn và cuối cùng là những ngoại giao và hoá quả mà phương Tây không có
+[SEG-019] [60.27-61.94]: [vi]Bắt đầu với nguyên liệu nhé
+[SEG-020] [61.98-67.86]: [vi]Mình nghĩ đầu tiên mình nên nói về thức ăn quan trọng nhất ở Việt Nam
+[SEG-021] [69.64-70.56]: [vi]Tờ nhiên các bạn biết cơm là [en]rice
+[SEG-022] [70.58-74.19]: [vi]Nhưng tiếng Anh cũng sử dụng từ [en]rice [vi]trong nhiều trường hợp mà tiếng Việt lại sử dụng một từ trí tiết hơn
+[SEG-023] [74.21-74.75]: [vi]Hạt gạo cũng là [en]rice
+[SEG-024] [74.77-75.35]: [vi]Hạt thóp là [en]rice
+[SEG-025] [75.39-75.89]: [vi]Cây lúa là [en]rice
+[SEG-026] [75.91-77.69]: [vi]Và nghĩa của [en]rice [vi]không kết thúc ở đấy
+[SEG-027] [77.71-88.99]: [vi]Xôi là [en]sticky rice
+[SEG-028] [89.01-90.41]: [vi]Còn cơm là [en]green rice
+[SEG-029] [90.43-93.57]: [vi]Thế khi người ta xay hạt gạo thành bột thì nó là cái gì
+[SEG-030] [93.67-96.90]: [vi]Khi nói về bột của các ngoài ngữ cốc thì tiếng Anh là [en]flour
+[SEG-031] [96.88-100.28]: [vi]Nhưng vì ở các nước nói tiếng Anh lúa mì được sử dụng nhiều nhất nên từ [en]flour [vi]không được hiểu là bột mì
+[SEG-032] [100.30-101.02]: [vi]Còn bột gạo là [en]rice flour
+[SEG-033] [101.04-102.98]: [vi]Bột nếp cũng là [en]rice flour [vi]hoặc là [en]sticky rice flour
+[SEG-034] [103.02-108.29]: [vi]Nhưng các bạn hãy chú ý [en]Flour [vi]không được sử dụng với các loại bột
+[SEG-035] [108.31-115.47]: [vi]Ví dụ bột ớt không phải chili [en]flour [vi]mà là chili [en]powder
+[SEG-036] [115.51-118.84]: [vi]Bột gia vị cũng thế
+[SEG-037] [118.86-120.00]: [en]Spice powder
+[SEG-038] [120.04-121.98]: [vi]Bây giờ trở về bột gạo nhé
+[SEG-039] [122.00-126.02]: [vi]Khi người ta tạo sợi từ bột gạo thì nó là cái gì
+[SEG-040] [126.78-127.22]: [vi]Bún đúng không
+[SEG-041] [127.48-132.35]: [vi]Mình thấy nhiều bạn nghĩ rằng chỉ có bún mới là [en]noodle [vi]nhưng thế là nhầm
+[SEG-042] [132.50-133.98]: [vi]Trong tiếng Anh [en]noodle [vi]em chỉ các loại mì sợi
+[SEG-043] [134.02-134.66]: [vi]Bún là [en]rice noodles
+[SEG-044] [134.68-135.46]: [vi]Bánh phở cũng là [en]rice noodles
+[SEG-045] [135.48-140.99]: [vi]Và nếu thích nêu tả chi tiết hơn thì các bạn có thể nói [en]flat rice noodles
+[SEG-046] [141.01-143.97]: [vi]Mì sợi được làm từ bột mì là [en]wheat noodles
+[SEG-047] [143.99-144.91]: [vi]Còn miến có vài tên khác nhau
+[SEG-048] [145.01-148.24]: [en]Clear noodles glass noodles [vi]hoặc là [en]bean thread noodles
+[SEG-049] [148.26-154.98]: [en]Ok [vi]mình đã biết một số nguyên liệu rồi
+[SEG-050] [155.34-158.29]: [vi]Tiếp đến các chế biến nhé
+[SEG-051] [160.68-162.62]: [vi]Đầu tiên mình muốn nói về từ [en]fry [vi]vì từ đấy được sử dụng trong nhiều trường hợp
+[SEG-052] [162.64-163.97]: [vi]Gián là [en]fry
+[SEG-053] [163.99-164.83]: [vi]Xào là [en]stirfry
+[SEG-054] [164.85-165.45]: [vi]Gián hoặc chiên thì tùy
+[SEG-055] [165.47-167.17]: [vi]Nếu chiên theo cách này thì chỉ là [en]fry
+[SEG-056] [167.19-173.50]: [vi]Nhưng nếu chiên trong một nồi đầy dầu thì đó là [en]deep fry
+[SEG-057] [173.54-176.22]: [vi]Từ [en]boil [vi]cũng được sử dụng nhiều
+[SEG-058] [176.38-181.99]: [vi]Nó có nghĩa là cả luộc đun và xôi
+[SEG-059] [182.23-187.60]: [vi]Các bạn nhớ thêm [en]ed [vi]hoặc [en]ing [vi]khi cần thiết nhé
+[SEG-060] [187.58-188.30]: [vi]Ví dụ chưng luộc là [en]boiled eggs
+[SEG-061] [188.32-199.64]: [vi]Còn nếu bạn muốn nói Nước sôi kia thì này nói The [en]waters boiling [vi]Việt Nam cũng có một số cách chế biến mà thực phẩm được đun bằng lửa nhỏ trong thời gian lâu
+[SEG-062] [199.66-203.41]: [vi]Ví dụ như ôm kho và hầm
+[SEG-063] [203.39-205.92]: [vi]Những cách đó thì có lẽ không thể dịch sang tiếng Anh một cách thật sự chính xác
+[SEG-064] [206.02-208.92]: [vi]Nhưng nếu các bạn nói thì người bàn ngỡ sẽ hiểu đủ rõ
+[SEG-065] [208.94-210.84]: [vi]Còn một cách chế biến nữa mà mình rất thích là muối
+[SEG-066] [210.98-211.60]: [vi]Ví dụ như muối dưa
+[SEG-067] [211.62-226.38]: [vi]Cách đó gọi là Hành muối là Dưa cải muối là Còn cà muối là Mình không biết cà pháo là gì
+[SEG-068] [226.41-230.63]: [vi]Mình chỉ biết ở nó
+[SEG-069] [234.05-235.98]: [en]OK [vi]Khi thực phẩm đã được nấu xong thì nó chín đúng không
+[SEG-070] [236.00-236.70]: [vi]Đồ ăn chín là [en]cooked
+[SEG-071] [236.72-239.02]: [vi]Còn đồ sống là [en]raw
+[SEG-072] [239.04-241.88]: [vi]Nhưng từ chín này cũng được sử dụng khi nói về hoá quả đó
+[SEG-073] [241.98-247.39]: [vi]Tất nhiên là quả chín không phải [en]cooked
+[SEG-074] [247.43-248.91]: [vi]Nó gọi là [en]ripe
+[SEG-075] [248.93-253.80]: [vi]Còn quả sang là [en]green [vi]hoặc là [en]unripe
+[SEG-076] [253.78-257.09]: [vi]À nói đến hoá quả xanh thì mình nhớ là nhiều bạn cũng nhầm lẫn về hai tờ [en]lime [vi]và [en]lemon
+[SEG-077] [257.11-257.87]: [vi]Sự khác biệt như thế này
+[SEG-078] [257.89-258.43]: [en]Lime [vi]là chanh này
+[SEG-079] [258.45-259.55]: [vi]Còn [en]lemon [vi]là chanh vàng này
+[SEG-080] [259.57-268.85]: [vi]À một cái nữa cũng liên quan đến màu xanh
+[SEG-081] [268.83-269.05]: [vi]Súp lơ này
+[SEG-082] [269.07-271.92]: [vi]Nếu trai tờ điển thì các bạn sẽ thấy nó là [en]cauliflower
+[SEG-083] [271.94-274.08]: [vi]Thế là đúng nếu nói về súp lơ trắng
+[SEG-084] [274.10-275.24]: [vi]Còn súp lơ xanh là [en]broccoli
+[SEG-085] [275.26-279.65]: [vi]Và điều dễ nhầm lẫn cuối cùng là nhiều bạn đã hỏi mình làm sao để phân biệt canh súp và món nước
+[SEG-086] [279.67-282.67]: [vi]Thực tế là tiếng Anh không phân biệt
+[SEG-087] [282.69-285.24]: [vi]Cả ba đều là súp
+[SEG-088] [285.38-294.37]: [vi]Còn khi bạn muốn nói về nước dùng của một món nào đó thì nó không phải [en]water [vi]mà là [en]broth [vi]hoặc [en]stock
+[SEG-089] [297.27-300.71]: [vi]Âm thực của Việt Nam và ẩm thực ở các nước nói tiếng Anh có rất nhiều thứ chung ví dụ như bắp cải cà chua và hành lá
+[SEG-090] [300.73-304.63]: [vi]Còn nhiều thứ khác như sầu riêng tràn hạt thì không có ở nước mình
+[SEG-091] [304.71-307.68]: [vi]Nhưng nó đã nổi tiếng nên đa số người biết nó là [en]durian
+[SEG-092] [307.72-315.11]: [vi]Nhưng Việt Nam còn có rất nhiều loại rau và hoa quả mà phản ứng người Tây chưa gặp bao giờ nên tiếng Anh thực sự không có một từ nào về nó
+[SEG-093] [315.12-322.51]: [vi]Hoặc ít nhất là từ đấy không thông dụng chút nào
+[SEG-094] [322.57-324.57]: [vi]Bây giờ mình sẽ giới thiệu chúng
+[SEG-095] [325.30-335.51]: [en]Kinh [vi]giới tia tô mồm tây dầu ngọt hoài thiên mít dọc mồm cần ta sư sư ngài cứu mùi tàu dầu muống dâu ngộ diếp cá quả trông trông quả xấu quả cóp quả bòng [en]bong [vi]quả vú sữa quả roi quả na và quả mãn cẩu
+[SEG-096] [335.55-336.15]: [en]Wow
+[SEG-097] [336.17-339.06]: [vi]Ẩm thực Việt Nam phong phú lắm
+[SEG-098] [339.08-344.71]: [vi]Tại sao mình vẫn đang làm [en]video
+[SEG-099] [344.85-348.87]: [vi]Mình đi ăn đây
+[SEG-100] [352.75-354.23]: [vi]Mình còn một gợi ý cho các bạn
+[SEG-101] [354.25-358.16]: [vi]Nếu thắc mắc về một loại thực phẩm nào đó thì nhiều khi tốt hơn sử dụng các tờ điển là sử dụng [en]Wikipedia
+[SEG-102] [358.18-359.22]: [vi]Làm theo cách này nhé
+[SEG-103] [359.30-360.24]: [vi]Vào [en]Wikipedia [vi]tiếng Việt
+[SEG-104] [360.26-363.87]: [vi]Tìm kiếm nấm hương tràng hạn
+[SEG-105] [364.13-369.40]: [vi]Rồi tại tràng đấy thì xuống dưới và chọn tiếng Anh
+[SEG-106] [369.42-373.26]: [vi]Các bạn sẽ thấy là kết quả của [en]Wikipedia [vi]chính xác hơn nhiều so với kết quả của các tờ điển
+[SEG-107] [373.30-375.27]: [vi]Chúc các bạn tự tìm hiểu thành công nhé
+[SEG-108] [375.29-378.05]: [vi]Và chúc các bạn ăn ngon miệng nữa
+[SEG-109] [380.38-380.84]: [en]OK [vi]còn một điều nữa
+[SEG-110] [380.86-382.70]: [vi]Mình muốn cảm ơn tất cả mọi người đang ủng hộ mình trên kênh này
+[SEG-111] [382.72-387.55]: [vi]Nhưng các bạn biết rằng Dan không tự làm hết các [en]video [vi]này đúng không
+[SEG-112] [387.63-389.63]: [vi]Người yêu của Dan giúp rất nhiều
+[SEG-113] [389.65-392.13]: [vi]Ví dụ trong cái ảnh này các bạn nghĩ ai đang xào thịt gà đấy
+[SEG-114] [392.19-394.72]: [vi]Hoặc ở cái ảnh này cái chân của Dan không cao như thế
+[SEG-115] [394.74-396.48]: [vi]Vậy các bạn nghĩ ai đang cầm máy quay
+[SEG-116] [396.52-397.66]: [vi]Chính là người yêu của Dan
+[SEG-117] [397.68-407.41]: [vi]Hai tuần trước đây em ấy cùng với em gái em ấy mới khai trương cửa hàng thời trang cực đáng yêu này
+[SEG-118] [407.39-417.76]: [vi]Nếu bạn thích ủng hộ cả em ấy nữa thì ghé qua trang của em ấy [en]facebookcomgacceoblueberrieshop21 [vi]và [en]xem [vi]liệu có gì bạn thích không

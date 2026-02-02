@@ -1,0 +1,9074 @@
+[
+  {
+    "start": 0.031,
+    "end": 0.332,
+    "text": " Chào mọi người.",
+    "words": [
+      {
+        "word": "Chào",
+        "start": 0.031,
+        "end": 0.111,
+        "score": 0.012
+      },
+      {
+        "word": "mọi",
+        "start": 0.131,
+        "end": 0.192,
+        "score": 0.01
+      },
+      {
+        "word": "người.",
+        "start": 0.212,
+        "end": 0.332,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 1,
+    "segment_start_offset": 0.29
+  },
+  {
+    "start": 0.352,
+    "end": 1.136,
+    "text": "Mình hỏi này, các bạn thích ăn không?",
+    "words": [
+      {
+        "word": "Mình",
+        "start": 0.352,
+        "end": 0.433,
+        "score": 0.012
+      },
+      {
+        "word": "hỏi",
+        "start": 0.453,
+        "end": 0.553,
+        "score": 0.011
+      },
+      {
+        "word": "này,",
+        "start": 0.573,
+        "end": 0.654,
+        "score": 0.018
+      },
+      {
+        "word": "các",
+        "start": 0.674,
+        "end": 0.734,
+        "score": 0.01
+      },
+      {
+        "word": "bạn",
+        "start": 0.754,
+        "end": 0.814,
+        "score": 0.01
+      },
+      {
+        "word": "thích",
+        "start": 0.834,
+        "end": 0.935,
+        "score": 0.012
+      },
+      {
+        "word": "ăn",
+        "start": 0.955,
+        "end": 0.995,
+        "score": 0.011
+      },
+      {
+        "word": "không?",
+        "start": 1.015,
+        "end": 1.136,
+        "score": 0.017
+      }
+    ],
+    "segment_id": 1,
+    "segment_start_offset": 0.29
+  },
+  {
+    "start": 1.156,
+    "end": 1.477,
+    "text": "Có ăn sữa gì ạ?",
+    "words": [
+      {
+        "word": "Có",
+        "start": 1.156,
+        "end": 1.196,
+        "score": 0.014
+      },
+      {
+        "word": "ăn",
+        "start": 1.216,
+        "end": 1.256,
+        "score": 0.014
+      },
+      {
+        "word": "sữa",
+        "start": 1.276,
+        "end": 1.337,
+        "score": 0.009
+      },
+      {
+        "word": "gì",
+        "start": 1.357,
+        "end": 1.397,
+        "score": 0.015
+      },
+      {
+        "word": "ạ?",
+        "start": 1.417,
+        "end": 1.477,
+        "score": 0.021
+      }
+    ],
+    "segment_id": 1,
+    "segment_start_offset": 0.29
+  },
+  {
+    "start": 1.497,
+    "end": 2.26,
+    "text": "Mình cũng thế.",
+    "words": [
+      {
+        "word": "Mình",
+        "start": 1.497,
+        "end": 1.578,
+        "score": 0.012
+      },
+      {
+        "word": "cũng",
+        "start": 1.598,
+        "end": 1.678,
+        "score": 0.011
+      },
+      {
+        "word": "thế.",
+        "start": 1.698,
+        "end": 2.26,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 1,
+    "segment_start_offset": 0.29
+  },
+  {
+    "start": 2.281,
+    "end": 9.973,
+    "text": "Mặc dù nhìn Đen hơi ghẻ, nhưng Đen lại rất thích ăn, thường ăn rất nhiều.",
+    "words": [
+      {
+        "word": "Mặc",
+        "start": 2.281,
+        "end": 2.361,
+        "score": 0.014
+      },
+      {
+        "word": "dù",
+        "start": 2.381,
+        "end": 2.461,
+        "score": 0.013
+      },
+      {
+        "word": "nhìn",
+        "start": 2.542,
+        "end": 2.742,
+        "score": 0.013
+      },
+      {
+        "word": "Đen",
+        "start": 2.763,
+        "end": 2.843,
+        "score": 0.01
+      },
+      {
+        "word": "hơi",
+        "start": 2.863,
+        "end": 2.923,
+        "score": 0.009
+      },
+      {
+        "word": "ghẻ,",
+        "start": 2.943,
+        "end": 4.651,
+        "score": 0.013
+      },
+      {
+        "word": "nhưng",
+        "start": 4.691,
+        "end": 4.791,
+        "score": 0.01
+      },
+      {
+        "word": "Đen",
+        "start": 4.811,
+        "end": 4.871,
+        "score": 0.013
+      },
+      {
+        "word": "lại",
+        "start": 5.072,
+        "end": 5.333,
+        "score": 0.011
+      },
+      {
+        "word": "rất",
+        "start": 5.394,
+        "end": 5.554,
+        "score": 0.016
+      },
+      {
+        "word": "thích",
+        "start": 5.574,
+        "end": 5.675,
+        "score": 0.012
+      },
+      {
+        "word": "ăn,",
+        "start": 5.695,
+        "end": 5.775,
+        "score": 0.013
+      },
+      {
+        "word": "thường",
+        "start": 5.795,
+        "end": 5.916,
+        "score": 0.009
+      },
+      {
+        "word": "ăn",
+        "start": 5.936,
+        "end": 5.976,
+        "score": 0.01
+      },
+      {
+        "word": "rất",
+        "start": 5.996,
+        "end": 6.057,
+        "score": 0.01
+      },
+      {
+        "word": "nhiều.",
+        "start": 6.077,
+        "end": 9.973,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 1,
+    "segment_start_offset": 0.29
+  },
+  {
+    "start": 10.033,
+    "end": 13.99,
+    "text": "Và trừ một số món khó ăn, Đen rất thích ẩm thực Việt Nam.",
+    "words": [
+      {
+        "word": "Và",
+        "start": 10.033,
+        "end": 10.315,
+        "score": 0.01
+      },
+      {
+        "word": "trừ",
+        "start": 10.335,
+        "end": 10.495,
+        "score": 0.012
+      },
+      {
+        "word": "một",
+        "start": 10.676,
+        "end": 10.756,
+        "score": 0.012
+      },
+      {
+        "word": "số",
+        "start": 10.837,
+        "end": 10.877,
+        "score": 0.014
+      },
+      {
+        "word": "món",
+        "start": 10.917,
+        "end": 11.038,
+        "score": 0.011
+      },
+      {
+        "word": "khó",
+        "start": 11.078,
+        "end": 11.279,
+        "score": 0.017
+      },
+      {
+        "word": "ăn,",
+        "start": 11.299,
+        "end": 11.52,
+        "score": 0.013
+      },
+      {
+        "word": "Đen",
+        "start": 11.54,
+        "end": 11.6,
+        "score": 0.012
+      },
+      {
+        "word": "rất",
+        "start": 11.64,
+        "end": 11.7,
+        "score": 0.012
+      },
+      {
+        "word": "thích",
+        "start": 11.72,
+        "end": 12.122,
+        "score": 0.012
+      },
+      {
+        "word": "ẩm",
+        "start": 12.504,
+        "end": 12.644,
+        "score": 0.014
+      },
+      {
+        "word": "thực",
+        "start": 12.845,
+        "end": 13.147,
+        "score": 0.013
+      },
+      {
+        "word": "Việt",
+        "start": 13.187,
+        "end": 13.488,
+        "score": 0.012
+      },
+      {
+        "word": "Nam.",
+        "start": 13.548,
+        "end": 13.99,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 1,
+    "segment_start_offset": 0.29
+  },
+  {
+    "start": 0.031,
+    "end": 5.003,
+    "text": " Vì thế, trong video này, mình muốn hướng dẫn các bạn nói về ẩm thực Việt Nam bằng tiếng Anh.",
+    "words": [
+      {
+        "word": "Vì",
+        "start": 0.031,
+        "end": 0.071,
+        "score": 0.016
+      },
+      {
+        "word": "thế,",
+        "start": 0.151,
+        "end": 0.252,
+        "score": 0.014
+      },
+      {
+        "word": "trong",
+        "start": 0.312,
+        "end": 0.612,
+        "score": 0.012
+      },
+      {
+        "word": "video",
+        "start": 0.673,
+        "end": 0.913,
+        "score": 0.015
+      },
+      {
+        "word": "này,",
+        "start": 0.973,
+        "end": 1.434,
+        "score": 0.014
+      },
+      {
+        "word": "mình",
+        "start": 1.635,
+        "end": 1.715,
+        "score": 0.013
+      },
+      {
+        "word": "muốn",
+        "start": 1.735,
+        "end": 1.815,
+        "score": 0.013
+      },
+      {
+        "word": "hướng",
+        "start": 1.835,
+        "end": 1.976,
+        "score": 0.011
+      },
+      {
+        "word": "dẫn",
+        "start": 1.996,
+        "end": 2.196,
+        "score": 0.015
+      },
+      {
+        "word": "các",
+        "start": 2.216,
+        "end": 2.457,
+        "score": 0.015
+      },
+      {
+        "word": "bạn",
+        "start": 2.477,
+        "end": 2.537,
+        "score": 0.012
+      },
+      {
+        "word": "nói",
+        "start": 2.557,
+        "end": 2.617,
+        "score": 0.01
+      },
+      {
+        "word": "về",
+        "start": 2.637,
+        "end": 2.677,
+        "score": 0.014
+      },
+      {
+        "word": "ẩm",
+        "start": 2.697,
+        "end": 2.738,
+        "score": 0.018
+      },
+      {
+        "word": "thực",
+        "start": 2.758,
+        "end": 2.918,
+        "score": 0.014
+      },
+      {
+        "word": "Việt",
+        "start": 2.938,
+        "end": 3.199,
+        "score": 0.013
+      },
+      {
+        "word": "Nam",
+        "start": 3.239,
+        "end": 3.299,
+        "score": 0.015
+      },
+      {
+        "word": "bằng",
+        "start": 3.319,
+        "end": 3.459,
+        "score": 0.015
+      },
+      {
+        "word": "tiếng",
+        "start": 3.519,
+        "end": 3.9,
+        "score": 0.013
+      },
+      {
+        "word": "Anh.",
+        "start": 3.941,
+        "end": 5.003,
+        "score": 0.018
+      }
+    ],
+    "segment_id": 2,
+    "segment_start_offset": 14.754
+  },
+  {
+    "start": 5.023,
+    "end": 8.431,
+    "text": "Mình không có ý định cấu phiên giữ các món đặc trưng của Việt Nam dành tiếng Anh.",
+    "words": [
+      {
+        "word": "Mình",
+        "start": 5.023,
+        "end": 5.424,
+        "score": 0.011
+      },
+      {
+        "word": "không",
+        "start": 5.444,
+        "end": 5.625,
+        "score": 0.011
+      },
+      {
+        "word": "có",
+        "start": 5.725,
+        "end": 5.805,
+        "score": 0.016
+      },
+      {
+        "word": "ý",
+        "start": 5.825,
+        "end": 5.845,
+        "score": 0.023
+      },
+      {
+        "word": "định",
+        "start": 5.885,
+        "end": 5.965,
+        "score": 0.012
+      },
+      {
+        "word": "cấu",
+        "start": 5.985,
+        "end": 6.066,
+        "score": 0.013
+      },
+      {
+        "word": "phiên",
+        "start": 6.086,
+        "end": 6.186,
+        "score": 0.013
+      },
+      {
+        "word": "giữ",
+        "start": 6.206,
+        "end": 6.266,
+        "score": 0.011
+      },
+      {
+        "word": "các",
+        "start": 6.286,
+        "end": 6.366,
+        "score": 0.01
+      },
+      {
+        "word": "món",
+        "start": 6.386,
+        "end": 6.647,
+        "score": 0.013
+      },
+      {
+        "word": "đặc",
+        "start": 6.667,
+        "end": 6.747,
+        "score": 0.013
+      },
+      {
+        "word": "trưng",
+        "start": 6.787,
+        "end": 6.908,
+        "score": 0.012
+      },
+      {
+        "word": "của",
+        "start": 6.988,
+        "end": 7.108,
+        "score": 0.015
+      },
+      {
+        "word": "Việt",
+        "start": 7.128,
+        "end": 7.208,
+        "score": 0.011
+      },
+      {
+        "word": "Nam",
+        "start": 7.229,
+        "end": 7.289,
+        "score": 0.014
+      },
+      {
+        "word": "dành",
+        "start": 7.309,
+        "end": 7.69,
+        "score": 0.016
+      },
+      {
+        "word": "tiếng",
+        "start": 7.71,
+        "end": 7.87,
+        "score": 0.012
+      },
+      {
+        "word": "Anh.",
+        "start": 7.93,
+        "end": 8.431,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 2,
+    "segment_start_offset": 14.754
+  },
+  {
+    "start": 8.452,
+    "end": 13.223,
+    "text": "Ví dụ như bánh xèo là ... Như mình đã nói trong một video trước, các bạn nên gọi các món Việt bằng tên Việt luôn.",
+    "words": [
+      {
+        "word": "Ví",
+        "start": 8.452,
+        "end": 8.792,
+        "score": 0.014
+      },
+      {
+        "word": "dụ",
+        "start": 8.873,
+        "end": 8.933,
+        "score": 0.013
+      },
+      {
+        "word": "như",
+        "start": 8.953,
+        "end": 9.053,
+        "score": 0.011
+      },
+      {
+        "word": "bánh",
+        "start": 9.073,
+        "end": 9.193,
+        "score": 0.013
+      },
+      {
+        "word": "xèo",
+        "start": 9.213,
+        "end": 9.274,
+        "score": 0.009
+      },
+      {
+        "word": "là",
+        "start": 9.294,
+        "end": 9.334,
+        "score": 0.01
+      },
+      {
+        "word": "...",
+        "start": 9.354,
+        "end": 9.955,
+        "score": 0.023
+      },
+      {
+        "word": "Như",
+        "start": 10.055,
+        "end": 10.116,
+        "score": 0.013
+      },
+      {
+        "word": "mình",
+        "start": 10.136,
+        "end": 10.216,
+        "score": 0.014
+      },
+      {
+        "word": "đã",
+        "start": 10.236,
+        "end": 10.276,
+        "score": 0.015
+      },
+      {
+        "word": "nói",
+        "start": 10.376,
+        "end": 10.436,
+        "score": 0.014
+      },
+      {
+        "word": "trong",
+        "start": 10.456,
+        "end": 10.577,
+        "score": 0.011
+      },
+      {
+        "word": "một",
+        "start": 10.597,
+        "end": 10.717,
+        "score": 0.012
+      },
+      {
+        "word": "video",
+        "start": 10.737,
+        "end": 10.938,
+        "score": 0.012
+      },
+      {
+        "word": "trước,",
+        "start": 11.038,
+        "end": 11.379,
+        "score": 0.012
+      },
+      {
+        "word": "các",
+        "start": 11.399,
+        "end": 11.479,
+        "score": 0.012
+      },
+      {
+        "word": "bạn",
+        "start": 11.499,
+        "end": 11.559,
+        "score": 0.011
+      },
+      {
+        "word": "nên",
+        "start": 11.579,
+        "end": 11.639,
+        "score": 0.011
+      },
+      {
+        "word": "gọi",
+        "start": 11.659,
+        "end": 11.74,
+        "score": 0.012
+      },
+      {
+        "word": "các",
+        "start": 11.76,
+        "end": 11.82,
+        "score": 0.013
+      },
+      {
+        "word": "món",
+        "start": 11.84,
+        "end": 11.9,
+        "score": 0.013
+      },
+      {
+        "word": "Việt",
+        "start": 11.92,
+        "end": 12.06,
+        "score": 0.014
+      },
+      {
+        "word": "bằng",
+        "start": 12.08,
+        "end": 12.161,
+        "score": 0.012
+      },
+      {
+        "word": "tên",
+        "start": 12.181,
+        "end": 12.241,
+        "score": 0.008
+      },
+      {
+        "word": "Việt",
+        "start": 12.261,
+        "end": 12.341,
+        "score": 0.012
+      },
+      {
+        "word": "luôn.",
+        "start": 12.401,
+        "end": 13.223,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 2,
+    "segment_start_offset": 14.754
+  },
+  {
+    "start": 13.243,
+    "end": 15.99,
+    "text": "Và mình cũng không có ý định nói về những cái mà các tờ điển có rồi.",
+    "words": [
+      {
+        "word": "Và",
+        "start": 13.243,
+        "end": 13.283,
+        "score": 0.018
+      },
+      {
+        "word": "mình",
+        "start": 13.363,
+        "end": 13.504,
+        "score": 0.013
+      },
+      {
+        "word": "cũng",
+        "start": 13.524,
+        "end": 13.684,
+        "score": 0.014
+      },
+      {
+        "word": "không",
+        "start": 13.704,
+        "end": 13.805,
+        "score": 0.012
+      },
+      {
+        "word": "có",
+        "start": 13.865,
+        "end": 13.905,
+        "score": 0.017
+      },
+      {
+        "word": "ý",
+        "start": 13.925,
+        "end": 13.945,
+        "score": 0.017
+      },
+      {
+        "word": "định",
+        "start": 13.965,
+        "end": 14.045,
+        "score": 0.013
+      },
+      {
+        "word": "nói",
+        "start": 14.125,
+        "end": 14.286,
+        "score": 0.013
+      },
+      {
+        "word": "về",
+        "start": 14.306,
+        "end": 14.426,
+        "score": 0.012
+      },
+      {
+        "word": "những",
+        "start": 14.446,
+        "end": 15.228,
+        "score": 0.013
+      },
+      {
+        "word": "cái",
+        "start": 15.268,
+        "end": 15.388,
+        "score": 0.015
+      },
+      {
+        "word": "mà",
+        "start": 15.408,
+        "end": 15.549,
+        "score": 0.012
+      },
+      {
+        "word": "các",
+        "start": 15.569,
+        "end": 15.629,
+        "score": 0.01
+      },
+      {
+        "word": "tờ",
+        "start": 15.649,
+        "end": 15.709,
+        "score": 0.011
+      },
+      {
+        "word": "điển",
+        "start": 15.729,
+        "end": 15.829,
+        "score": 0.012
+      },
+      {
+        "word": "có",
+        "start": 15.85,
+        "end": 15.89,
+        "score": 0.012
+      },
+      {
+        "word": "rồi.",
+        "start": 15.91,
+        "end": 15.99,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 2,
+    "segment_start_offset": 14.754
+  },
+  {
+    "start": 16.01,
+    "end": 24.07,
+    "text": "Ví dụ, nếu bạn chưa biết xả là gì, thì tra tờ điển đi.",
+    "words": [
+      {
+        "word": "Ví",
+        "start": 16.01,
+        "end": 16.05,
+        "score": 0.016
+      },
+      {
+        "word": "dụ,",
+        "start": 16.07,
+        "end": 16.13,
+        "score": 0.018
+      },
+      {
+        "word": "nếu",
+        "start": 16.15,
+        "end": 16.21,
+        "score": 0.012
+      },
+      {
+        "word": "bạn",
+        "start": 16.23,
+        "end": 16.331,
+        "score": 0.012
+      },
+      {
+        "word": "chưa",
+        "start": 16.511,
+        "end": 16.732,
+        "score": 0.013
+      },
+      {
+        "word": "biết",
+        "start": 16.772,
+        "end": 16.852,
+        "score": 0.013
+      },
+      {
+        "word": "xả",
+        "start": 16.872,
+        "end": 16.912,
+        "score": 0.01
+      },
+      {
+        "word": "là",
+        "start": 16.932,
+        "end": 16.972,
+        "score": 0.01
+      },
+      {
+        "word": "gì,",
+        "start": 16.992,
+        "end": 17.233,
+        "score": 0.013
+      },
+      {
+        "word": "thì",
+        "start": 17.253,
+        "end": 17.353,
+        "score": 0.013
+      },
+      {
+        "word": "tra",
+        "start": 17.373,
+        "end": 17.494,
+        "score": 0.01
+      },
+      {
+        "word": "tờ",
+        "start": 17.594,
+        "end": 17.634,
+        "score": 0.015
+      },
+      {
+        "word": "điển",
+        "start": 17.714,
+        "end": 17.814,
+        "score": 0.011
+      },
+      {
+        "word": "đi.",
+        "start": 17.834,
+        "end": 24.07,
+        "score": 0.017
+      }
+    ],
+    "segment_id": 2,
+    "segment_start_offset": 14.754
+  },
+  {
+    "start": 24.09,
+    "end": 24.33,
+    "text": "Đấy.",
+    "words": [
+      {
+        "word": "Đấy.",
+        "start": 24.09,
+        "end": 24.33,
+        "score": 0.017
+      }
+    ],
+    "segment_id": 2,
+    "segment_start_offset": 14.754
+  },
+  {
+    "start": 24.45,
+    "end": 27.979,
+    "text": "Thế là đúng luôn.",
+    "words": [
+      {
+        "word": "Thế",
+        "start": 24.45,
+        "end": 24.591,
+        "score": 0.014
+      },
+      {
+        "word": "là",
+        "start": 24.611,
+        "end": 24.711,
+        "score": 0.012
+      },
+      {
+        "word": "đúng",
+        "start": 24.992,
+        "end": 25.633,
+        "score": 0.012
+      },
+      {
+        "word": "luôn.",
+        "start": 26.074,
+        "end": 27.979,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 2,
+    "segment_start_offset": 14.754
+  },
+  {
+    "start": 0.031,
+    "end": 8.863,
+    "text": " Thay vào đó, mình sẽ tập trung về những điều mơ hồ, tức là những điều mà mình nghĩ các bạn sẽ không biết nếu không có người bàn ngữ như mình hướng dẫn.",
+    "words": [
+      {
+        "word": "Thay",
+        "start": 0.031,
+        "end": 0.111,
+        "score": 0.01
+      },
+      {
+        "word": "vào",
+        "start": 0.131,
+        "end": 0.212,
+        "score": 0.012
+      },
+      {
+        "word": "đó,",
+        "start": 0.232,
+        "end": 0.332,
+        "score": 0.014
+      },
+      {
+        "word": "mình",
+        "start": 0.352,
+        "end": 0.432,
+        "score": 0.013
+      },
+      {
+        "word": "sẽ",
+        "start": 0.513,
+        "end": 0.553,
+        "score": 0.012
+      },
+      {
+        "word": "tập",
+        "start": 0.593,
+        "end": 0.653,
+        "score": 0.011
+      },
+      {
+        "word": "trung",
+        "start": 0.673,
+        "end": 0.794,
+        "score": 0.01
+      },
+      {
+        "word": "về",
+        "start": 0.854,
+        "end": 0.894,
+        "score": 0.016
+      },
+      {
+        "word": "những",
+        "start": 0.954,
+        "end": 1.075,
+        "score": 0.013
+      },
+      {
+        "word": "điều",
+        "start": 1.155,
+        "end": 1.255,
+        "score": 0.014
+      },
+      {
+        "word": "mơ",
+        "start": 1.275,
+        "end": 1.316,
+        "score": 0.018
+      },
+      {
+        "word": "hồ,",
+        "start": 1.336,
+        "end": 1.556,
+        "score": 0.014
+      },
+      {
+        "word": "tức",
+        "start": 1.597,
+        "end": 1.978,
+        "score": 0.013
+      },
+      {
+        "word": "là",
+        "start": 1.998,
+        "end": 2.098,
+        "score": 0.008
+      },
+      {
+        "word": "những",
+        "start": 2.139,
+        "end": 2.319,
+        "score": 0.014
+      },
+      {
+        "word": "điều",
+        "start": 2.339,
+        "end": 2.46,
+        "score": 0.012
+      },
+      {
+        "word": "mà",
+        "start": 2.52,
+        "end": 2.62,
+        "score": 0.01
+      },
+      {
+        "word": "mình",
+        "start": 2.64,
+        "end": 2.841,
+        "score": 0.012
+      },
+      {
+        "word": "nghĩ",
+        "start": 2.881,
+        "end": 3.022,
+        "score": 0.011
+      },
+      {
+        "word": "các",
+        "start": 3.042,
+        "end": 3.102,
+        "score": 0.015
+      },
+      {
+        "word": "bạn",
+        "start": 3.383,
+        "end": 3.604,
+        "score": 0.014
+      },
+      {
+        "word": "sẽ",
+        "start": 3.624,
+        "end": 3.704,
+        "score": 0.014
+      },
+      {
+        "word": "không",
+        "start": 3.724,
+        "end": 3.865,
+        "score": 0.012
+      },
+      {
+        "word": "biết",
+        "start": 4.025,
+        "end": 4.206,
+        "score": 0.015
+      },
+      {
+        "word": "nếu",
+        "start": 4.266,
+        "end": 4.467,
+        "score": 0.015
+      },
+      {
+        "word": "không",
+        "start": 4.728,
+        "end": 4.828,
+        "score": 0.013
+      },
+      {
+        "word": "có",
+        "start": 4.909,
+        "end": 4.949,
+        "score": 0.017
+      },
+      {
+        "word": "người",
+        "start": 4.989,
+        "end": 5.17,
+        "score": 0.014
+      },
+      {
+        "word": "bàn",
+        "start": 5.591,
+        "end": 5.792,
+        "score": 0.013
+      },
+      {
+        "word": "ngữ",
+        "start": 5.852,
+        "end": 5.912,
+        "score": 0.011
+      },
+      {
+        "word": "như",
+        "start": 5.932,
+        "end": 5.992,
+        "score": 0.014
+      },
+      {
+        "word": "mình",
+        "start": 6.093,
+        "end": 6.314,
+        "score": 0.014
+      },
+      {
+        "word": "hướng",
+        "start": 6.354,
+        "end": 6.655,
+        "score": 0.013
+      },
+      {
+        "word": "dẫn.",
+        "start": 6.675,
+        "end": 8.863,
+        "score": 0.017
+      }
+    ],
+    "segment_id": 3,
+    "segment_start_offset": 44.066
+  },
+  {
+    "start": 9.184,
+    "end": 9.907,
+    "text": "Video có bốn đoạn.",
+    "words": [
+      {
+        "word": "Video",
+        "start": 9.184,
+        "end": 9.485,
+        "score": 0.014
+      },
+      {
+        "word": "có",
+        "start": 9.505,
+        "end": 9.545,
+        "score": 0.012
+      },
+      {
+        "word": "bốn",
+        "start": 9.646,
+        "end": 9.706,
+        "score": 0.012
+      },
+      {
+        "word": "đoạn.",
+        "start": 9.726,
+        "end": 9.907,
+        "score": 0.016
+      }
+    ],
+    "segment_id": 3,
+    "segment_start_offset": 44.066
+  },
+  {
+    "start": 9.967,
+    "end": 11.753,
+    "text": "Nguyên liệu.",
+    "words": [
+      {
+        "word": "Nguyên",
+        "start": 9.967,
+        "end": 10.348,
+        "score": 0.012
+      },
+      {
+        "word": "liệu.",
+        "start": 10.368,
+        "end": 11.753,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 3,
+    "segment_start_offset": 44.066
+  },
+  {
+    "start": 11.773,
+    "end": 12.295,
+    "text": "Các chế biến.",
+    "words": [
+      {
+        "word": "Các",
+        "start": 11.773,
+        "end": 11.834,
+        "score": 0.011
+      },
+      {
+        "word": "chế",
+        "start": 11.854,
+        "end": 12.014,
+        "score": 0.015
+      },
+      {
+        "word": "biến.",
+        "start": 12.034,
+        "end": 12.295,
+        "score": 0.016
+      }
+    ],
+    "segment_id": 3,
+    "segment_start_offset": 44.066
+  },
+  {
+    "start": 12.315,
+    "end": 13.319,
+    "text": "Những điều dễ nhầm lẫn.",
+    "words": [
+      {
+        "word": "Những",
+        "start": 12.315,
+        "end": 12.416,
+        "score": 0.014
+      },
+      {
+        "word": "điều",
+        "start": 12.436,
+        "end": 12.536,
+        "score": 0.012
+      },
+      {
+        "word": "dễ",
+        "start": 12.556,
+        "end": 12.656,
+        "score": 0.012
+      },
+      {
+        "word": "nhầm",
+        "start": 12.777,
+        "end": 12.857,
+        "score": 0.012
+      },
+      {
+        "word": "lẫn.",
+        "start": 13.178,
+        "end": 13.319,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 3,
+    "segment_start_offset": 44.066
+  },
+  {
+    "start": 13.339,
+    "end": 17.394,
+    "text": "Và cuối cùng là những loại rau và hoa quả mà phương Tây không có.",
+    "words": [
+      {
+        "word": "Và",
+        "start": 13.339,
+        "end": 13.379,
+        "score": 0.01
+      },
+      {
+        "word": "cuối",
+        "start": 13.399,
+        "end": 13.68,
+        "score": 0.011
+      },
+      {
+        "word": "cùng",
+        "start": 13.7,
+        "end": 14.001,
+        "score": 0.015
+      },
+      {
+        "word": "là",
+        "start": 14.021,
+        "end": 14.062,
+        "score": 0.018
+      },
+      {
+        "word": "những",
+        "start": 14.102,
+        "end": 14.423,
+        "score": 0.012
+      },
+      {
+        "word": "loại",
+        "start": 14.443,
+        "end": 14.724,
+        "score": 0.011
+      },
+      {
+        "word": "rau",
+        "start": 14.744,
+        "end": 14.804,
+        "score": 0.011
+      },
+      {
+        "word": "và",
+        "start": 14.824,
+        "end": 14.884,
+        "score": 0.013
+      },
+      {
+        "word": "hoa",
+        "start": 15.025,
+        "end": 15.246,
+        "score": 0.013
+      },
+      {
+        "word": "quả",
+        "start": 15.266,
+        "end": 15.647,
+        "score": 0.013
+      },
+      {
+        "word": "mà",
+        "start": 15.788,
+        "end": 15.828,
+        "score": 0.012
+      },
+      {
+        "word": "phương",
+        "start": 15.868,
+        "end": 16.009,
+        "score": 0.011
+      },
+      {
+        "word": "Tây",
+        "start": 16.029,
+        "end": 16.189,
+        "score": 0.013
+      },
+      {
+        "word": "không",
+        "start": 16.249,
+        "end": 16.37,
+        "score": 0.012
+      },
+      {
+        "word": "có.",
+        "start": 16.45,
+        "end": 17.394,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 3,
+    "segment_start_offset": 44.066
+  },
+  {
+    "start": 17.414,
+    "end": 18.377,
+    "text": "Bắt đầu với nguyên liệu nhé.",
+    "words": [
+      {
+        "word": "Bắt",
+        "start": 17.414,
+        "end": 17.474,
+        "score": 0.01
+      },
+      {
+        "word": "đầu",
+        "start": 17.494,
+        "end": 17.594,
+        "score": 0.011
+      },
+      {
+        "word": "với",
+        "start": 17.634,
+        "end": 17.855,
+        "score": 0.013
+      },
+      {
+        "word": "nguyên",
+        "start": 17.895,
+        "end": 18.036,
+        "score": 0.01
+      },
+      {
+        "word": "liệu",
+        "start": 18.056,
+        "end": 18.196,
+        "score": 0.013
+      },
+      {
+        "word": "nhé.",
+        "start": 18.257,
+        "end": 18.377,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 3,
+    "segment_start_offset": 44.066
+  },
+  {
+    "start": 0.031,
+    "end": 3.24,
+    "text": " Mình nghĩ đầu tiên mình nên nói về thức ăn quan trọng nhất ở Việt Nam.",
+    "words": [
+      {
+        "word": "Mình",
+        "start": 0.031,
+        "end": 0.112,
+        "score": 0.012
+      },
+      {
+        "word": "nghĩ",
+        "start": 0.214,
+        "end": 0.356,
+        "score": 0.014
+      },
+      {
+        "word": "đầu",
+        "start": 0.376,
+        "end": 0.64,
+        "score": 0.01
+      },
+      {
+        "word": "tiên",
+        "start": 0.843,
+        "end": 0.965,
+        "score": 0.013
+      },
+      {
+        "word": "mình",
+        "start": 1.006,
+        "end": 1.108,
+        "score": 0.011
+      },
+      {
+        "word": "nên",
+        "start": 1.128,
+        "end": 1.189,
+        "score": 0.013
+      },
+      {
+        "word": "nói",
+        "start": 1.27,
+        "end": 1.331,
+        "score": 0.01
+      },
+      {
+        "word": "về",
+        "start": 1.372,
+        "end": 1.433,
+        "score": 0.01
+      },
+      {
+        "word": "thức",
+        "start": 1.453,
+        "end": 1.575,
+        "score": 0.012
+      },
+      {
+        "word": "ăn",
+        "start": 1.595,
+        "end": 1.636,
+        "score": 0.012
+      },
+      {
+        "word": "quan",
+        "start": 1.656,
+        "end": 2.001,
+        "score": 0.014
+      },
+      {
+        "word": "trọng",
+        "start": 2.042,
+        "end": 2.286,
+        "score": 0.011
+      },
+      {
+        "word": "nhất",
+        "start": 2.306,
+        "end": 2.468,
+        "score": 0.013
+      },
+      {
+        "word": "ở",
+        "start": 2.59,
+        "end": 2.611,
+        "score": 0.02
+      },
+      {
+        "word": "Việt",
+        "start": 2.631,
+        "end": 2.854,
+        "score": 0.01
+      },
+      {
+        "word": "Nam.",
+        "start": 2.875,
+        "end": 3.24,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 4,
+    "segment_start_offset": 64.578
+  },
+  {
+    "start": 0.031,
+    "end": 1.073,
+    "text": " Tờ nhiên các bạn biết cơm là rice.",
+    "words": [
+      {
+        "word": "Tờ",
+        "start": 0.031,
+        "end": 0.231,
+        "score": 0.012
+      },
+      {
+        "word": "nhiên",
+        "start": 0.291,
+        "end": 0.472,
+        "score": 0.013
+      },
+      {
+        "word": "các",
+        "start": 0.492,
+        "end": 0.592,
+        "score": 0.013
+      },
+      {
+        "word": "bạn",
+        "start": 0.632,
+        "end": 0.692,
+        "score": 0.013
+      },
+      {
+        "word": "biết",
+        "start": 0.732,
+        "end": 0.812,
+        "score": 0.009
+      },
+      {
+        "word": "cơm",
+        "start": 0.832,
+        "end": 0.892,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 0.912,
+        "end": 0.952,
+        "score": 0.012
+      },
+      {
+        "word": "rice.",
+        "start": 0.972,
+        "end": 1.073,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 1.113,
+    "end": 4.558,
+    "text": "Nhưng tiếng Anh cũng sử dụng từ rice trong nhiều trường hợp mà tiếng Việt lại sử dụng một từ trí tiết hơn.",
+    "words": [
+      {
+        "word": "Nhưng",
+        "start": 1.113,
+        "end": 1.213,
+        "score": 0.011
+      },
+      {
+        "word": "tiếng",
+        "start": 1.233,
+        "end": 1.513,
+        "score": 0.012
+      },
+      {
+        "word": "Anh",
+        "start": 1.553,
+        "end": 1.613,
+        "score": 0.01
+      },
+      {
+        "word": "cũng",
+        "start": 1.633,
+        "end": 1.714,
+        "score": 0.01
+      },
+      {
+        "word": "sử",
+        "start": 1.734,
+        "end": 1.774,
+        "score": 0.008
+      },
+      {
+        "word": "dụng",
+        "start": 1.794,
+        "end": 1.874,
+        "score": 0.011
+      },
+      {
+        "word": "từ",
+        "start": 1.894,
+        "end": 1.934,
+        "score": 0.011
+      },
+      {
+        "word": "rice",
+        "start": 2.034,
+        "end": 2.114,
+        "score": 0.012
+      },
+      {
+        "word": "trong",
+        "start": 2.134,
+        "end": 2.234,
+        "score": 0.011
+      },
+      {
+        "word": "nhiều",
+        "start": 2.254,
+        "end": 2.535,
+        "score": 0.013
+      },
+      {
+        "word": "trường",
+        "start": 2.655,
+        "end": 2.875,
+        "score": 0.011
+      },
+      {
+        "word": "hợp",
+        "start": 2.895,
+        "end": 3.016,
+        "score": 0.014
+      },
+      {
+        "word": "mà",
+        "start": 3.036,
+        "end": 3.096,
+        "score": 0.012
+      },
+      {
+        "word": "tiếng",
+        "start": 3.116,
+        "end": 3.276,
+        "score": 0.011
+      },
+      {
+        "word": "Việt",
+        "start": 3.296,
+        "end": 3.496,
+        "score": 0.011
+      },
+      {
+        "word": "lại",
+        "start": 3.516,
+        "end": 3.617,
+        "score": 0.013
+      },
+      {
+        "word": "sử",
+        "start": 3.637,
+        "end": 3.697,
+        "score": 0.01
+      },
+      {
+        "word": "dụng",
+        "start": 3.717,
+        "end": 3.797,
+        "score": 0.011
+      },
+      {
+        "word": "một",
+        "start": 3.817,
+        "end": 3.937,
+        "score": 0.011
+      },
+      {
+        "word": "từ",
+        "start": 3.957,
+        "end": 3.997,
+        "score": 0.01
+      },
+      {
+        "word": "trí",
+        "start": 4.017,
+        "end": 4.097,
+        "score": 0.012
+      },
+      {
+        "word": "tiết",
+        "start": 4.177,
+        "end": 4.278,
+        "score": 0.012
+      },
+      {
+        "word": "hơn.",
+        "start": 4.298,
+        "end": 4.558,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 4.578,
+    "end": 5.119,
+    "text": "Hạt gạo cũng là rice.",
+    "words": [
+      {
+        "word": "Hạt",
+        "start": 4.578,
+        "end": 4.738,
+        "score": 0.014
+      },
+      {
+        "word": "gạo",
+        "start": 4.758,
+        "end": 4.818,
+        "score": 0.011
+      },
+      {
+        "word": "cũng",
+        "start": 4.838,
+        "end": 4.939,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 4.959,
+        "end": 4.999,
+        "score": 0.012
+      },
+      {
+        "word": "rice.",
+        "start": 5.019,
+        "end": 5.119,
+        "score": 0.016
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 5.139,
+    "end": 5.9,
+    "text": "Hạt thóp là rice.",
+    "words": [
+      {
+        "word": "Hạt",
+        "start": 5.139,
+        "end": 5.199,
+        "score": 0.012
+      },
+      {
+        "word": "thóp",
+        "start": 5.279,
+        "end": 5.399,
+        "score": 0.015
+      },
+      {
+        "word": "là",
+        "start": 5.519,
+        "end": 5.56,
+        "score": 0.015
+      },
+      {
+        "word": "rice.",
+        "start": 5.6,
+        "end": 5.9,
+        "score": 0.016
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 5.94,
+    "end": 6.561,
+    "text": "Cây lúa là rice.",
+    "words": [
+      {
+        "word": "Cây",
+        "start": 5.94,
+        "end": 6.0,
+        "score": 0.011
+      },
+      {
+        "word": "lúa",
+        "start": 6.02,
+        "end": 6.16,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 6.18,
+        "end": 6.241,
+        "score": 0.016
+      },
+      {
+        "word": "rice.",
+        "start": 6.261,
+        "end": 6.561,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 6.581,
+    "end": 8.123,
+    "text": "Và nghĩa của rice không kết thúc ở đấy.",
+    "words": [
+      {
+        "word": "Và",
+        "start": 6.581,
+        "end": 6.621,
+        "score": 0.014
+      },
+      {
+        "word": "nghĩa",
+        "start": 6.681,
+        "end": 6.842,
+        "score": 0.013
+      },
+      {
+        "word": "của",
+        "start": 6.862,
+        "end": 6.982,
+        "score": 0.016
+      },
+      {
+        "word": "rice",
+        "start": 7.002,
+        "end": 7.102,
+        "score": 0.012
+      },
+      {
+        "word": "không",
+        "start": 7.122,
+        "end": 7.222,
+        "score": 0.011
+      },
+      {
+        "word": "kết",
+        "start": 7.242,
+        "end": 7.302,
+        "score": 0.01
+      },
+      {
+        "word": "thúc",
+        "start": 7.322,
+        "end": 7.402,
+        "score": 0.012
+      },
+      {
+        "word": "ở",
+        "start": 7.422,
+        "end": 7.442,
+        "score": 0.016
+      },
+      {
+        "word": "đấy.",
+        "start": 7.462,
+        "end": 8.123,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 8.144,
+    "end": 8.885,
+    "text": "Xôi là sticky rice.",
+    "words": [
+      {
+        "word": "Xôi",
+        "start": 8.144,
+        "end": 8.204,
+        "score": 0.011
+      },
+      {
+        "word": "là",
+        "start": 8.244,
+        "end": 8.284,
+        "score": 0.014
+      },
+      {
+        "word": "sticky",
+        "start": 8.324,
+        "end": 8.464,
+        "score": 0.011
+      },
+      {
+        "word": "rice.",
+        "start": 8.564,
+        "end": 8.885,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 8.905,
+    "end": 11.689,
+    "text": "Còn cơm là green rice.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 8.905,
+        "end": 8.965,
+        "score": 0.012
+      },
+      {
+        "word": "cơm",
+        "start": 8.985,
+        "end": 9.085,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 9.105,
+        "end": 9.145,
+        "score": 0.012
+      },
+      {
+        "word": "green",
+        "start": 9.165,
+        "end": 9.265,
+        "score": 0.011
+      },
+      {
+        "word": "rice.",
+        "start": 9.285,
+        "end": 11.689,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 11.929,
+    "end": 22.145,
+    "text": "Thế khi người ta xay hạt gạo thành bột thì nó là cái gì?",
+    "words": [
+      {
+        "word": "Thế",
+        "start": 11.929,
+        "end": 12.21,
+        "score": 0.013
+      },
+      {
+        "word": "khi",
+        "start": 12.25,
+        "end": 12.53,
+        "score": 0.012
+      },
+      {
+        "word": "người",
+        "start": 12.59,
+        "end": 12.691,
+        "score": 0.01
+      },
+      {
+        "word": "ta",
+        "start": 12.711,
+        "end": 12.891,
+        "score": 0.011
+      },
+      {
+        "word": "xay",
+        "start": 13.572,
+        "end": 13.832,
+        "score": 0.014
+      },
+      {
+        "word": "hạt",
+        "start": 13.993,
+        "end": 14.053,
+        "score": 0.012
+      },
+      {
+        "word": "gạo",
+        "start": 14.113,
+        "end": 14.173,
+        "score": 0.009
+      },
+      {
+        "word": "thành",
+        "start": 14.193,
+        "end": 14.714,
+        "score": 0.012
+      },
+      {
+        "word": "bột",
+        "start": 14.894,
+        "end": 15.074,
+        "score": 0.011
+      },
+      {
+        "word": "thì",
+        "start": 15.395,
+        "end": 15.535,
+        "score": 0.014
+      },
+      {
+        "word": "nó",
+        "start": 15.615,
+        "end": 15.715,
+        "score": 0.01
+      },
+      {
+        "word": "là",
+        "start": 15.735,
+        "end": 15.875,
+        "score": 0.012
+      },
+      {
+        "word": "cái",
+        "start": 15.895,
+        "end": 15.956,
+        "score": 0.012
+      },
+      {
+        "word": "gì?",
+        "start": 15.976,
+        "end": 22.145,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 22.265,
+    "end": 27.253,
+    "text": "Khi nói về bột của các ngoài ngữ cốc, thì tiếng Anh là flour.",
+    "words": [
+      {
+        "word": "Khi",
+        "start": 22.265,
+        "end": 22.386,
+        "score": 0.018
+      },
+      {
+        "word": "nói",
+        "start": 22.406,
+        "end": 22.506,
+        "score": 0.011
+      },
+      {
+        "word": "về",
+        "start": 22.526,
+        "end": 22.566,
+        "score": 0.014
+      },
+      {
+        "word": "bột",
+        "start": 22.586,
+        "end": 22.766,
+        "score": 0.012
+      },
+      {
+        "word": "của",
+        "start": 22.966,
+        "end": 23.167,
+        "score": 0.014
+      },
+      {
+        "word": "các",
+        "start": 23.187,
+        "end": 23.287,
+        "score": 0.013
+      },
+      {
+        "word": "ngoài",
+        "start": 23.307,
+        "end": 23.467,
+        "score": 0.016
+      },
+      {
+        "word": "ngữ",
+        "start": 23.487,
+        "end": 23.627,
+        "score": 0.011
+      },
+      {
+        "word": "cốc,",
+        "start": 23.728,
+        "end": 25.891,
+        "score": 0.016
+      },
+      {
+        "word": "thì",
+        "start": 25.911,
+        "end": 26.031,
+        "score": 0.013
+      },
+      {
+        "word": "tiếng",
+        "start": 26.091,
+        "end": 26.231,
+        "score": 0.01
+      },
+      {
+        "word": "Anh",
+        "start": 26.251,
+        "end": 26.312,
+        "score": 0.013
+      },
+      {
+        "word": "là",
+        "start": 26.352,
+        "end": 26.412,
+        "score": 0.013
+      },
+      {
+        "word": "flour.",
+        "start": 26.492,
+        "end": 27.253,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 27.233,
+    "end": 30.742,
+    "text": " Nhưng vì ở các nước nói tiếng Anh, lúa mì được sử dụng nhiều nhất, nên từ flour không được hiểu là bột mì.",
+    "words": [
+      {
+        "word": "Nhưng",
+        "start": 27.233,
+        "end": 27.694,
+        "score": 0.012
+      },
+      {
+        "word": "vì",
+        "start": 27.714,
+        "end": 27.794,
+        "score": 0.014
+      },
+      {
+        "word": "ở",
+        "start": 27.834,
+        "end": 27.855,
+        "score": 0.014
+      },
+      {
+        "word": "các",
+        "start": 27.875,
+        "end": 27.955,
+        "score": 0.014
+      },
+      {
+        "word": "nước",
+        "start": 27.995,
+        "end": 28.155,
+        "score": 0.011
+      },
+      {
+        "word": "nói",
+        "start": 28.175,
+        "end": 28.296,
+        "score": 0.012
+      },
+      {
+        "word": "tiếng",
+        "start": 28.316,
+        "end": 28.416,
+        "score": 0.011
+      },
+      {
+        "word": "Anh,",
+        "start": 28.436,
+        "end": 28.576,
+        "score": 0.013
+      },
+      {
+        "word": "lúa",
+        "start": 28.596,
+        "end": 28.657,
+        "score": 0.011
+      },
+      {
+        "word": "mì",
+        "start": 28.677,
+        "end": 28.857,
+        "score": 0.016
+      },
+      {
+        "word": "được",
+        "start": 28.877,
+        "end": 28.957,
+        "score": 0.012
+      },
+      {
+        "word": "sử",
+        "start": 28.977,
+        "end": 29.037,
+        "score": 0.01
+      },
+      {
+        "word": "dụng",
+        "start": 29.057,
+        "end": 29.138,
+        "score": 0.011
+      },
+      {
+        "word": "nhiều",
+        "start": 29.158,
+        "end": 29.258,
+        "score": 0.01
+      },
+      {
+        "word": "nhất,",
+        "start": 29.278,
+        "end": 29.779,
+        "score": 0.012
+      },
+      {
+        "word": "nên",
+        "start": 29.799,
+        "end": 29.859,
+        "score": 0.015
+      },
+      {
+        "word": "từ",
+        "start": 29.88,
+        "end": 29.92,
+        "score": 0.012
+      },
+      {
+        "word": "flour",
+        "start": 30.0,
+        "end": 30.12,
+        "score": 0.011
+      },
+      {
+        "word": "không",
+        "start": 30.14,
+        "end": 30.281,
+        "score": 0.013
+      },
+      {
+        "word": "được",
+        "start": 30.301,
+        "end": 30.421,
+        "score": 0.01
+      },
+      {
+        "word": "hiểu",
+        "start": 30.441,
+        "end": 30.521,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 30.541,
+        "end": 30.581,
+        "score": 0.008
+      },
+      {
+        "word": "bột",
+        "start": 30.601,
+        "end": 30.661,
+        "score": 0.012
+      },
+      {
+        "word": "mì.",
+        "start": 30.681,
+        "end": 30.742,
+        "score": 0.02
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 30.762,
+    "end": 31.403,
+    "text": "Còn bột gạo là rice flour.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 30.762,
+        "end": 30.822,
+        "score": 0.013
+      },
+      {
+        "word": "bột",
+        "start": 30.842,
+        "end": 30.982,
+        "score": 0.012
+      },
+      {
+        "word": "gạo",
+        "start": 31.002,
+        "end": 31.062,
+        "score": 0.011
+      },
+      {
+        "word": "là",
+        "start": 31.082,
+        "end": 31.143,
+        "score": 0.011
+      },
+      {
+        "word": "rice",
+        "start": 31.163,
+        "end": 31.263,
+        "score": 0.012
+      },
+      {
+        "word": "flour.",
+        "start": 31.283,
+        "end": 31.403,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 31.423,
+    "end": 34.631,
+    "text": "Bột nếp cũng là rice flour, hoặc là sticky rice flour.",
+    "words": [
+      {
+        "word": "Bột",
+        "start": 31.423,
+        "end": 31.483,
+        "score": 0.009
+      },
+      {
+        "word": "nếp",
+        "start": 31.504,
+        "end": 31.564,
+        "score": 0.011
+      },
+      {
+        "word": "cũng",
+        "start": 31.604,
+        "end": 31.684,
+        "score": 0.01
+      },
+      {
+        "word": "là",
+        "start": 31.704,
+        "end": 31.764,
+        "score": 0.014
+      },
+      {
+        "word": "rice",
+        "start": 31.804,
+        "end": 31.905,
+        "score": 0.01
+      },
+      {
+        "word": "flour,",
+        "start": 31.925,
+        "end": 32.225,
+        "score": 0.013
+      },
+      {
+        "word": "hoặc",
+        "start": 32.245,
+        "end": 32.486,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 32.506,
+        "end": 32.606,
+        "score": 0.012
+      },
+      {
+        "word": "sticky",
+        "start": 32.626,
+        "end": 32.787,
+        "score": 0.012
+      },
+      {
+        "word": "rice",
+        "start": 32.827,
+        "end": 32.907,
+        "score": 0.01
+      },
+      {
+        "word": "flour.",
+        "start": 32.927,
+        "end": 34.631,
+        "score": 0.011
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 34.651,
+    "end": 37.959,
+    "text": "Nhưng các bạn hãy chú ý, flour không được sử dụng với các loại bột.",
+    "words": [
+      {
+        "word": "Nhưng",
+        "start": 34.651,
+        "end": 34.752,
+        "score": 0.009
+      },
+      {
+        "word": "các",
+        "start": 34.772,
+        "end": 34.832,
+        "score": 0.012
+      },
+      {
+        "word": "bạn",
+        "start": 34.852,
+        "end": 34.912,
+        "score": 0.011
+      },
+      {
+        "word": "hãy",
+        "start": 34.952,
+        "end": 35.193,
+        "score": 0.012
+      },
+      {
+        "word": "chú",
+        "start": 35.233,
+        "end": 35.293,
+        "score": 0.012
+      },
+      {
+        "word": "ý,",
+        "start": 35.313,
+        "end": 35.614,
+        "score": 0.018
+      },
+      {
+        "word": "flour",
+        "start": 35.634,
+        "end": 36.496,
+        "score": 0.01
+      },
+      {
+        "word": "không",
+        "start": 36.516,
+        "end": 36.636,
+        "score": 0.012
+      },
+      {
+        "word": "được",
+        "start": 36.656,
+        "end": 36.877,
+        "score": 0.011
+      },
+      {
+        "word": "sử",
+        "start": 37.037,
+        "end": 37.077,
+        "score": 0.013
+      },
+      {
+        "word": "dụng",
+        "start": 37.137,
+        "end": 37.258,
+        "score": 0.01
+      },
+      {
+        "word": "với",
+        "start": 37.278,
+        "end": 37.338,
+        "score": 0.012
+      },
+      {
+        "word": "các",
+        "start": 37.358,
+        "end": 37.418,
+        "score": 0.01
+      },
+      {
+        "word": "loại",
+        "start": 37.438,
+        "end": 37.518,
+        "score": 0.011
+      },
+      {
+        "word": "bột.",
+        "start": 37.538,
+        "end": 37.959,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 37.979,
+    "end": 42.992,
+    "text": "Ví dụ bột ớt không phải chili flour, mà là chili powder.",
+    "words": [
+      {
+        "word": "Ví",
+        "start": 37.979,
+        "end": 38.02,
+        "score": 0.014
+      },
+      {
+        "word": "dụ",
+        "start": 38.32,
+        "end": 38.36,
+        "score": 0.01
+      },
+      {
+        "word": "bột",
+        "start": 38.38,
+        "end": 38.501,
+        "score": 0.01
+      },
+      {
+        "word": "ớt",
+        "start": 38.561,
+        "end": 38.601,
+        "score": 0.016
+      },
+      {
+        "word": "không",
+        "start": 38.621,
+        "end": 38.741,
+        "score": 0.012
+      },
+      {
+        "word": "phải",
+        "start": 38.761,
+        "end": 38.882,
+        "score": 0.01
+      },
+      {
+        "word": "chili",
+        "start": 38.902,
+        "end": 39.022,
+        "score": 0.012
+      },
+      {
+        "word": "flour,",
+        "start": 39.042,
+        "end": 41.388,
+        "score": 0.012
+      },
+      {
+        "word": "mà",
+        "start": 41.849,
+        "end": 42.029,
+        "score": 0.01
+      },
+      {
+        "word": "là",
+        "start": 42.049,
+        "end": 42.11,
+        "score": 0.011
+      },
+      {
+        "word": "chili",
+        "start": 42.25,
+        "end": 42.41,
+        "score": 0.012
+      },
+      {
+        "word": "powder.",
+        "start": 42.45,
+        "end": 42.992,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 43.052,
+    "end": 49.227,
+    "text": "Bột gia vị cũng thế.",
+    "words": [
+      {
+        "word": "Bột",
+        "start": 43.052,
+        "end": 43.112,
+        "score": 0.013
+      },
+      {
+        "word": "gia",
+        "start": 43.152,
+        "end": 43.232,
+        "score": 0.013
+      },
+      {
+        "word": "vị",
+        "start": 43.252,
+        "end": 43.333,
+        "score": 0.014
+      },
+      {
+        "word": "cũng",
+        "start": 43.353,
+        "end": 43.473,
+        "score": 0.011
+      },
+      {
+        "word": "thế.",
+        "start": 43.493,
+        "end": 49.227,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 49.267,
+    "end": 50.951,
+    "text": "Spice powder.",
+    "words": [
+      {
+        "word": "Spice",
+        "start": 49.267,
+        "end": 49.428,
+        "score": 0.013
+      },
+      {
+        "word": "powder.",
+        "start": 49.588,
+        "end": 50.951,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 51.192,
+    "end": 52.836,
+    "text": "Bây giờ trở về bột gạo nhé.",
+    "words": [
+      {
+        "word": "Bây",
+        "start": 51.192,
+        "end": 51.252,
+        "score": 0.011
+      },
+      {
+        "word": "giờ",
+        "start": 51.453,
+        "end": 51.633,
+        "score": 0.011
+      },
+      {
+        "word": "trở",
+        "start": 51.653,
+        "end": 51.713,
+        "score": 0.01
+      },
+      {
+        "word": "về",
+        "start": 51.733,
+        "end": 51.814,
+        "score": 0.014
+      },
+      {
+        "word": "bột",
+        "start": 51.874,
+        "end": 51.974,
+        "score": 0.015
+      },
+      {
+        "word": "gạo",
+        "start": 51.994,
+        "end": 52.154,
+        "score": 0.012
+      },
+      {
+        "word": "nhé.",
+        "start": 52.174,
+        "end": 52.836,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 5,
+    "segment_start_offset": 69.634
+  },
+  {
+    "start": 0.031,
+    "end": 2.886,
+    "text": " Khi người ta tạp sợi từa bột gạo, thì nó là cái gì?",
+    "words": [
+      {
+        "word": "Khi",
+        "start": 0.031,
+        "end": 0.092,
+        "score": 0.016
+      },
+      {
+        "word": "người",
+        "start": 0.153,
+        "end": 0.357,
+        "score": 0.012
+      },
+      {
+        "word": "ta",
+        "start": 0.439,
+        "end": 0.561,
+        "score": 0.01
+      },
+      {
+        "word": "tạp",
+        "start": 0.643,
+        "end": 0.704,
+        "score": 0.013
+      },
+      {
+        "word": "sợi",
+        "start": 0.724,
+        "end": 0.786,
+        "score": 0.011
+      },
+      {
+        "word": "từa",
+        "start": 0.806,
+        "end": 0.867,
+        "score": 0.009
+      },
+      {
+        "word": "bột",
+        "start": 0.888,
+        "end": 0.949,
+        "score": 0.01
+      },
+      {
+        "word": "gạo,",
+        "start": 0.969,
+        "end": 1.194,
+        "score": 0.012
+      },
+      {
+        "word": "thì",
+        "start": 1.255,
+        "end": 1.336,
+        "score": 0.01
+      },
+      {
+        "word": "nó",
+        "start": 1.357,
+        "end": 1.398,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 1.418,
+        "end": 1.642,
+        "score": 0.009
+      },
+      {
+        "word": "cái",
+        "start": 1.663,
+        "end": 1.724,
+        "score": 0.01
+      },
+      {
+        "word": "gì?",
+        "start": 1.744,
+        "end": 2.886,
+        "score": 0.016
+      }
+    ],
+    "segment_id": 6,
+    "segment_start_offset": 122.946
+  },
+  {
+    "start": 0.031,
+    "end": 0.878,
+    "text": " Bún, đúng không?",
+    "words": [
+      {
+        "word": "Bún,",
+        "start": 0.031,
+        "end": 0.132,
+        "score": 0.017
+      },
+      {
+        "word": "đúng",
+        "start": 0.152,
+        "end": 0.233,
+        "score": 0.01
+      },
+      {
+        "word": "không?",
+        "start": 0.293,
+        "end": 0.878,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 7,
+    "segment_start_offset": 126.722
+  },
+  {
+    "start": 0.979,
+    "end": 2.612,
+    "text": "Mình thấy nhiều bạn nghĩ rằng chỉ có bún mới là noodle.",
+    "words": [
+      {
+        "word": "Mình",
+        "start": 0.979,
+        "end": 1.06,
+        "score": 0.011
+      },
+      {
+        "word": "thấy",
+        "start": 1.08,
+        "end": 1.241,
+        "score": 0.011
+      },
+      {
+        "word": "nhiều",
+        "start": 1.261,
+        "end": 1.362,
+        "score": 0.012
+      },
+      {
+        "word": "bạn",
+        "start": 1.382,
+        "end": 1.483,
+        "score": 0.013
+      },
+      {
+        "word": "nghĩ",
+        "start": 1.523,
+        "end": 1.644,
+        "score": 0.011
+      },
+      {
+        "word": "rằng",
+        "start": 1.665,
+        "end": 1.786,
+        "score": 0.012
+      },
+      {
+        "word": "chỉ",
+        "start": 1.806,
+        "end": 1.987,
+        "score": 0.014
+      },
+      {
+        "word": "có",
+        "start": 2.028,
+        "end": 2.068,
+        "score": 0.014
+      },
+      {
+        "word": "bún",
+        "start": 2.128,
+        "end": 2.249,
+        "score": 0.01
+      },
+      {
+        "word": "mới",
+        "start": 2.27,
+        "end": 2.33,
+        "score": 0.013
+      },
+      {
+        "word": "là",
+        "start": 2.391,
+        "end": 2.431,
+        "score": 0.008
+      },
+      {
+        "word": "noodle.",
+        "start": 2.451,
+        "end": 2.612,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 7,
+    "segment_start_offset": 126.722
+  },
+  {
+    "start": 2.633,
+    "end": 5.012,
+    "text": "Nhưng thế là nhầm.",
+    "words": [
+      {
+        "word": "Nhưng",
+        "start": 2.633,
+        "end": 2.733,
+        "score": 0.01
+      },
+      {
+        "word": "thế",
+        "start": 2.895,
+        "end": 3.016,
+        "score": 0.011
+      },
+      {
+        "word": "là",
+        "start": 3.036,
+        "end": 3.076,
+        "score": 0.016
+      },
+      {
+        "word": "nhầm.",
+        "start": 3.117,
+        "end": 5.012,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 7,
+    "segment_start_offset": 126.722
+  },
+  {
+    "start": 0.031,
+    "end": 2.155,
+    "text": " Trong tiếng Anh, noodle, em chỉ các loại mì sợi.",
+    "words": [
+      {
+        "word": "Trong",
+        "start": 0.031,
+        "end": 0.131,
+        "score": 0.011
+      },
+      {
+        "word": "tiếng",
+        "start": 0.151,
+        "end": 0.372,
+        "score": 0.009
+      },
+      {
+        "word": "Anh,",
+        "start": 0.392,
+        "end": 0.492,
+        "score": 0.016
+      },
+      {
+        "word": "noodle,",
+        "start": 0.512,
+        "end": 1.293,
+        "score": 0.012
+      },
+      {
+        "word": "em",
+        "start": 1.314,
+        "end": 1.354,
+        "score": 0.018
+      },
+      {
+        "word": "chỉ",
+        "start": 1.374,
+        "end": 1.434,
+        "score": 0.013
+      },
+      {
+        "word": "các",
+        "start": 1.634,
+        "end": 1.694,
+        "score": 0.012
+      },
+      {
+        "word": "loại",
+        "start": 1.714,
+        "end": 1.814,
+        "score": 0.012
+      },
+      {
+        "word": "mì",
+        "start": 1.895,
+        "end": 1.935,
+        "score": 0.014
+      },
+      {
+        "word": "sợi.",
+        "start": 1.955,
+        "end": 2.155,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 8,
+    "segment_start_offset": 132.514
+  },
+  {
+    "start": 2.175,
+    "end": 2.836,
+    "text": "Bún là rice noodles.",
+    "words": [
+      {
+        "word": "Bún",
+        "start": 2.175,
+        "end": 2.235,
+        "score": 0.01
+      },
+      {
+        "word": "là",
+        "start": 2.255,
+        "end": 2.356,
+        "score": 0.012
+      },
+      {
+        "word": "rice",
+        "start": 2.396,
+        "end": 2.556,
+        "score": 0.011
+      },
+      {
+        "word": "noodles.",
+        "start": 2.576,
+        "end": 2.836,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 8,
+    "segment_start_offset": 132.514
+  },
+  {
+    "start": 2.857,
+    "end": 4.059,
+    "text": "Bánh phở cũng là rice noodles.",
+    "words": [
+      {
+        "word": "Bánh",
+        "start": 2.857,
+        "end": 2.937,
+        "score": 0.012
+      },
+      {
+        "word": "phở",
+        "start": 2.957,
+        "end": 3.017,
+        "score": 0.014
+      },
+      {
+        "word": "cũng",
+        "start": 3.037,
+        "end": 3.117,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 3.337,
+        "end": 3.378,
+        "score": 0.013
+      },
+      {
+        "word": "rice",
+        "start": 3.778,
+        "end": 3.879,
+        "score": 0.011
+      },
+      {
+        "word": "noodles.",
+        "start": 3.899,
+        "end": 4.059,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 8,
+    "segment_start_offset": 132.514
+  },
+  {
+    "start": 4.099,
+    "end": 8.227,
+    "text": "Và nếu thích nêu tả chi tiết hơn, thì các bạn có thể nói flat rice noodles.",
+    "words": [
+      {
+        "word": "Và",
+        "start": 4.099,
+        "end": 4.139,
+        "score": 0.009
+      },
+      {
+        "word": "nếu",
+        "start": 4.159,
+        "end": 4.219,
+        "score": 0.011
+      },
+      {
+        "word": "thích",
+        "start": 4.239,
+        "end": 4.339,
+        "score": 0.012
+      },
+      {
+        "word": "nêu",
+        "start": 4.359,
+        "end": 4.44,
+        "score": 0.012
+      },
+      {
+        "word": "tả",
+        "start": 4.46,
+        "end": 4.5,
+        "score": 0.012
+      },
+      {
+        "word": "chi",
+        "start": 4.52,
+        "end": 4.62,
+        "score": 0.01
+      },
+      {
+        "word": "tiết",
+        "start": 4.64,
+        "end": 4.74,
+        "score": 0.014
+      },
+      {
+        "word": "hơn,",
+        "start": 4.76,
+        "end": 6.644,
+        "score": 0.011
+      },
+      {
+        "word": "thì",
+        "start": 6.664,
+        "end": 6.724,
+        "score": 0.014
+      },
+      {
+        "word": "các",
+        "start": 6.744,
+        "end": 6.824,
+        "score": 0.01
+      },
+      {
+        "word": "bạn",
+        "start": 6.944,
+        "end": 7.005,
+        "score": 0.011
+      },
+      {
+        "word": "có",
+        "start": 7.025,
+        "end": 7.085,
+        "score": 0.016
+      },
+      {
+        "word": "thể",
+        "start": 7.105,
+        "end": 7.165,
+        "score": 0.013
+      },
+      {
+        "word": "nói",
+        "start": 7.185,
+        "end": 7.285,
+        "score": 0.014
+      },
+      {
+        "word": "flat",
+        "start": 7.325,
+        "end": 7.626,
+        "score": 0.012
+      },
+      {
+        "word": "rice",
+        "start": 7.646,
+        "end": 7.726,
+        "score": 0.01
+      },
+      {
+        "word": "noodles.",
+        "start": 7.746,
+        "end": 8.227,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 8,
+    "segment_start_offset": 132.514
+  },
+  {
+    "start": 8.267,
+    "end": 11.473,
+    "text": "Mì sợi được làm từ bột mì, là wheat noodles.",
+    "words": [
+      {
+        "word": "Mì",
+        "start": 8.267,
+        "end": 8.487,
+        "score": 0.01
+      },
+      {
+        "word": "sợi",
+        "start": 8.528,
+        "end": 8.608,
+        "score": 0.011
+      },
+      {
+        "word": "được",
+        "start": 8.888,
+        "end": 9.289,
+        "score": 0.013
+      },
+      {
+        "word": "làm",
+        "start": 9.53,
+        "end": 9.79,
+        "score": 0.013
+      },
+      {
+        "word": "từ",
+        "start": 9.81,
+        "end": 9.91,
+        "score": 0.012
+      },
+      {
+        "word": "bột",
+        "start": 9.93,
+        "end": 10.03,
+        "score": 0.013
+      },
+      {
+        "word": "mì,",
+        "start": 10.051,
+        "end": 10.231,
+        "score": 0.014
+      },
+      {
+        "word": "là",
+        "start": 10.251,
+        "end": 10.291,
+        "score": 0.013
+      },
+      {
+        "word": "wheat",
+        "start": 10.451,
+        "end": 10.552,
+        "score": 0.013
+      },
+      {
+        "word": "noodles.",
+        "start": 10.572,
+        "end": 11.473,
+        "score": 0.011
+      }
+    ],
+    "segment_id": 8,
+    "segment_start_offset": 132.514
+  },
+  {
+    "start": 11.493,
+    "end": 12.415,
+    "text": "Còn miến có vài tên khác nhau.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 11.493,
+        "end": 11.594,
+        "score": 0.014
+      },
+      {
+        "word": "miến",
+        "start": 11.614,
+        "end": 11.714,
+        "score": 0.012
+      },
+      {
+        "word": "có",
+        "start": 11.734,
+        "end": 11.794,
+        "score": 0.016
+      },
+      {
+        "word": "vài",
+        "start": 11.874,
+        "end": 11.934,
+        "score": 0.011
+      },
+      {
+        "word": "tên",
+        "start": 11.954,
+        "end": 12.014,
+        "score": 0.013
+      },
+      {
+        "word": "khác",
+        "start": 12.095,
+        "end": 12.215,
+        "score": 0.012
+      },
+      {
+        "word": "nhau.",
+        "start": 12.235,
+        "end": 12.415,
+        "score": 0.011
+      }
+    ],
+    "segment_id": 8,
+    "segment_start_offset": 132.514
+  },
+  {
+    "start": 12.455,
+    "end": 15.742,
+    "text": "Clear noodles, glass noodles, hoặc là bean thread noodles.",
+    "words": [
+      {
+        "word": "Clear",
+        "start": 12.455,
+        "end": 12.595,
+        "score": 0.01
+      },
+      {
+        "word": "noodles,",
+        "start": 12.636,
+        "end": 12.836,
+        "score": 0.01
+      },
+      {
+        "word": "glass",
+        "start": 12.876,
+        "end": 12.996,
+        "score": 0.012
+      },
+      {
+        "word": "noodles,",
+        "start": 13.016,
+        "end": 13.197,
+        "score": 0.014
+      },
+      {
+        "word": "hoặc",
+        "start": 13.257,
+        "end": 13.457,
+        "score": 0.011
+      },
+      {
+        "word": "là",
+        "start": 13.477,
+        "end": 13.557,
+        "score": 0.01
+      },
+      {
+        "word": "bean",
+        "start": 13.597,
+        "end": 13.678,
+        "score": 0.011
+      },
+      {
+        "word": "thread",
+        "start": 13.698,
+        "end": 13.878,
+        "score": 0.012
+      },
+      {
+        "word": "noodles.",
+        "start": 13.998,
+        "end": 15.742,
+        "score": 0.011
+      }
+    ],
+    "segment_id": 8,
+    "segment_start_offset": 132.514
+  },
+  {
+    "start": 15.762,
+    "end": 21.092,
+    "text": "Ok, mình đã biết một số nguyên liệu rồi.",
+    "words": [
+      {
+        "word": "Ok,",
+        "start": 15.762,
+        "end": 17.405,
+        "score": 0.014
+      },
+      {
+        "word": "mình",
+        "start": 17.465,
+        "end": 17.545,
+        "score": 0.014
+      },
+      {
+        "word": "đã",
+        "start": 17.565,
+        "end": 17.605,
+        "score": 0.012
+      },
+      {
+        "word": "biết",
+        "start": 17.766,
+        "end": 17.846,
+        "score": 0.013
+      },
+      {
+        "word": "một",
+        "start": 17.866,
+        "end": 18.287,
+        "score": 0.009
+      },
+      {
+        "word": "số",
+        "start": 18.367,
+        "end": 18.407,
+        "score": 0.015
+      },
+      {
+        "word": "nguyên",
+        "start": 18.547,
+        "end": 18.948,
+        "score": 0.01
+      },
+      {
+        "word": "liệu",
+        "start": 19.128,
+        "end": 19.509,
+        "score": 0.012
+      },
+      {
+        "word": "rồi.",
+        "start": 19.83,
+        "end": 21.092,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 8,
+    "segment_start_offset": 132.514
+  },
+  {
+    "start": 21.112,
+    "end": 25.701,
+    "text": "Tiếp đến các chế biến nhé.",
+    "words": [
+      {
+        "word": "Tiếp",
+        "start": 21.112,
+        "end": 21.212,
+        "score": 0.014
+      },
+      {
+        "word": "đến",
+        "start": 22.054,
+        "end": 22.214,
+        "score": 0.011
+      },
+      {
+        "word": "các",
+        "start": 22.234,
+        "end": 22.294,
+        "score": 0.015
+      },
+      {
+        "word": "chế",
+        "start": 22.314,
+        "end": 22.495,
+        "score": 0.015
+      },
+      {
+        "word": "biến",
+        "start": 22.575,
+        "end": 23.036,
+        "score": 0.011
+      },
+      {
+        "word": "nhé.",
+        "start": 23.056,
+        "end": 25.701,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 8,
+    "segment_start_offset": 132.514
+  },
+  {
+    "start": 0.031,
+    "end": 1.894,
+    "text": " Đầu tiên, mình muốn nói về từ fry, vì từ đấy được sử dụng trong nhiều trường hợp.",
+    "words": [
+      {
+        "word": "Đầu",
+        "start": 0.031,
+        "end": 0.091,
+        "score": 0.01
+      },
+      {
+        "word": "tiên,",
+        "start": 0.111,
+        "end": 0.211,
+        "score": 0.014
+      },
+      {
+        "word": "mình",
+        "start": 0.231,
+        "end": 0.311,
+        "score": 0.015
+      },
+      {
+        "word": "muốn",
+        "start": 0.331,
+        "end": 0.412,
+        "score": 0.015
+      },
+      {
+        "word": "nói",
+        "start": 0.432,
+        "end": 0.492,
+        "score": 0.013
+      },
+      {
+        "word": "về",
+        "start": 0.512,
+        "end": 0.552,
+        "score": 0.01
+      },
+      {
+        "word": "từ",
+        "start": 0.572,
+        "end": 0.612,
+        "score": 0.008
+      },
+      {
+        "word": "fry,",
+        "start": 0.632,
+        "end": 0.832,
+        "score": 0.014
+      },
+      {
+        "word": "vì",
+        "start": 0.852,
+        "end": 0.892,
+        "score": 0.012
+      },
+      {
+        "word": "từ",
+        "start": 0.912,
+        "end": 0.953,
+        "score": 0.012
+      },
+      {
+        "word": "đấy",
+        "start": 0.973,
+        "end": 1.033,
+        "score": 0.009
+      },
+      {
+        "word": "được",
+        "start": 1.053,
+        "end": 1.133,
+        "score": 0.009
+      },
+      {
+        "word": "sử",
+        "start": 1.153,
+        "end": 1.193,
+        "score": 0.008
+      },
+      {
+        "word": "dụng",
+        "start": 1.213,
+        "end": 1.293,
+        "score": 0.016
+      },
+      {
+        "word": "trong",
+        "start": 1.313,
+        "end": 1.453,
+        "score": 0.011
+      },
+      {
+        "word": "nhiều",
+        "start": 1.493,
+        "end": 1.594,
+        "score": 0.011
+      },
+      {
+        "word": "trường",
+        "start": 1.614,
+        "end": 1.734,
+        "score": 0.009
+      },
+      {
+        "word": "hợp.",
+        "start": 1.754,
+        "end": 1.894,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 9,
+    "segment_start_offset": 160.642
+  },
+  {
+    "start": 1.914,
+    "end": 2.235,
+    "text": "Gián là fry.",
+    "words": [
+      {
+        "word": "Gián",
+        "start": 1.914,
+        "end": 1.994,
+        "score": 0.011
+      },
+      {
+        "word": "là",
+        "start": 2.014,
+        "end": 2.094,
+        "score": 0.008
+      },
+      {
+        "word": "fry.",
+        "start": 2.114,
+        "end": 2.235,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 9,
+    "segment_start_offset": 160.642
+  },
+  {
+    "start": 2.255,
+    "end": 2.836,
+    "text": "Xào là stir-fry.",
+    "words": [
+      {
+        "word": "Xào",
+        "start": 2.255,
+        "end": 2.315,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 2.335,
+        "end": 2.375,
+        "score": 0.009
+      },
+      {
+        "word": "stir-fry.",
+        "start": 2.395,
+        "end": 2.836,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 9,
+    "segment_start_offset": 160.642
+  },
+  {
+    "start": 2.896,
+    "end": 5.981,
+    "text": "Gián hoặc chiên thì tùy.",
+    "words": [
+      {
+        "word": "Gián",
+        "start": 2.896,
+        "end": 2.976,
+        "score": 0.012
+      },
+      {
+        "word": "hoặc",
+        "start": 2.996,
+        "end": 3.116,
+        "score": 0.012
+      },
+      {
+        "word": "chiên",
+        "start": 3.136,
+        "end": 3.236,
+        "score": 0.012
+      },
+      {
+        "word": "thì",
+        "start": 3.256,
+        "end": 3.316,
+        "score": 0.012
+      },
+      {
+        "word": "tùy.",
+        "start": 3.336,
+        "end": 5.981,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 9,
+    "segment_start_offset": 160.642
+  },
+  {
+    "start": 6.001,
+    "end": 7.804,
+    "text": "Nếu chiên theo cách này thì chỉ là fry.",
+    "words": [
+      {
+        "word": "Nếu",
+        "start": 6.001,
+        "end": 6.081,
+        "score": 0.014
+      },
+      {
+        "word": "chiên",
+        "start": 6.161,
+        "end": 6.482,
+        "score": 0.012
+      },
+      {
+        "word": "theo",
+        "start": 6.742,
+        "end": 6.822,
+        "score": 0.012
+      },
+      {
+        "word": "cách",
+        "start": 6.983,
+        "end": 7.183,
+        "score": 0.013
+      },
+      {
+        "word": "này",
+        "start": 7.203,
+        "end": 7.263,
+        "score": 0.009
+      },
+      {
+        "word": "thì",
+        "start": 7.283,
+        "end": 7.343,
+        "score": 0.011
+      },
+      {
+        "word": "chỉ",
+        "start": 7.383,
+        "end": 7.503,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 7.523,
+        "end": 7.563,
+        "score": 0.012
+      },
+      {
+        "word": "fry.",
+        "start": 7.724,
+        "end": 7.804,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 9,
+    "segment_start_offset": 160.642
+  },
+  {
+    "start": 7.824,
+    "end": 13.073,
+    "text": "Nhưng nếu chiên trong một nồi đầy dầu thì đó là deep fry.",
+    "words": [
+      {
+        "word": "Nhưng",
+        "start": 7.824,
+        "end": 8.024,
+        "score": 0.012
+      },
+      {
+        "word": "nếu",
+        "start": 8.064,
+        "end": 8.164,
+        "score": 0.013
+      },
+      {
+        "word": "chiên",
+        "start": 8.225,
+        "end": 8.485,
+        "score": 0.013
+      },
+      {
+        "word": "trong",
+        "start": 8.505,
+        "end": 8.625,
+        "score": 0.012
+      },
+      {
+        "word": "một",
+        "start": 8.725,
+        "end": 9.206,
+        "score": 0.014
+      },
+      {
+        "word": "nồi",
+        "start": 9.306,
+        "end": 9.627,
+        "score": 0.011
+      },
+      {
+        "word": "đầy",
+        "start": 9.807,
+        "end": 10.128,
+        "score": 0.013
+      },
+      {
+        "word": "dầu",
+        "start": 10.428,
+        "end": 10.508,
+        "score": 0.011
+      },
+      {
+        "word": "thì",
+        "start": 10.528,
+        "end": 10.589,
+        "score": 0.013
+      },
+      {
+        "word": "đó",
+        "start": 10.609,
+        "end": 10.749,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 10.949,
+        "end": 10.989,
+        "score": 0.009
+      },
+      {
+        "word": "deep",
+        "start": 11.009,
+        "end": 11.169,
+        "score": 0.01
+      },
+      {
+        "word": "fry.",
+        "start": 11.189,
+        "end": 13.073,
+        "score": 0.016
+      }
+    ],
+    "segment_id": 9,
+    "segment_start_offset": 160.642
+  },
+  {
+    "start": 13.093,
+    "end": 15.597,
+    "text": "Từ boil cũng được sử dụng nhiều.",
+    "words": [
+      {
+        "word": "Từ",
+        "start": 13.093,
+        "end": 13.213,
+        "score": 0.012
+      },
+      {
+        "word": "boil",
+        "start": 13.233,
+        "end": 13.313,
+        "score": 0.012
+      },
+      {
+        "word": "cũng",
+        "start": 13.333,
+        "end": 13.413,
+        "score": 0.012
+      },
+      {
+        "word": "được",
+        "start": 13.433,
+        "end": 13.573,
+        "score": 0.012
+      },
+      {
+        "word": "sử",
+        "start": 13.593,
+        "end": 13.634,
+        "score": 0.012
+      },
+      {
+        "word": "dụng",
+        "start": 13.714,
+        "end": 13.994,
+        "score": 0.012
+      },
+      {
+        "word": "nhiều.",
+        "start": 14.014,
+        "end": 15.597,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 9,
+    "segment_start_offset": 160.642
+  },
+  {
+    "start": 15.737,
+    "end": 21.246,
+    "text": "Nó có nghĩa là cả luộc, đun và xôi.",
+    "words": [
+      {
+        "word": "Nó",
+        "start": 15.737,
+        "end": 15.797,
+        "score": 0.012
+      },
+      {
+        "word": "có",
+        "start": 15.817,
+        "end": 15.857,
+        "score": 0.013
+      },
+      {
+        "word": "nghĩa",
+        "start": 16.058,
+        "end": 16.218,
+        "score": 0.013
+      },
+      {
+        "word": "là",
+        "start": 16.238,
+        "end": 16.278,
+        "score": 0.011
+      },
+      {
+        "word": "cả",
+        "start": 16.298,
+        "end": 16.338,
+        "score": 0.012
+      },
+      {
+        "word": "luộc,",
+        "start": 16.358,
+        "end": 16.558,
+        "score": 0.016
+      },
+      {
+        "word": "đun",
+        "start": 16.578,
+        "end": 16.639,
+        "score": 0.011
+      },
+      {
+        "word": "và",
+        "start": 16.739,
+        "end": 16.779,
+        "score": 0.012
+      },
+      {
+        "word": "xôi.",
+        "start": 16.799,
+        "end": 21.246,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 9,
+    "segment_start_offset": 160.642
+  },
+  {
+    "start": 21.266,
+    "end": 26.595,
+    "text": "Các bạn nhớ thêm ed hoặc ing khi cần thiết nhé.",
+    "words": [
+      {
+        "word": "Các",
+        "start": 21.266,
+        "end": 21.426,
+        "score": 0.013
+      },
+      {
+        "word": "bạn",
+        "start": 22.348,
+        "end": 22.408,
+        "score": 0.012
+      },
+      {
+        "word": "nhớ",
+        "start": 22.428,
+        "end": 22.488,
+        "score": 0.013
+      },
+      {
+        "word": "thêm",
+        "start": 22.508,
+        "end": 23.049,
+        "score": 0.014
+      },
+      {
+        "word": "ed",
+        "start": 23.31,
+        "end": 23.51,
+        "score": 0.012
+      },
+      {
+        "word": "hoặc",
+        "start": 23.67,
+        "end": 25.093,
+        "score": 0.013
+      },
+      {
+        "word": "ing",
+        "start": 25.233,
+        "end": 25.433,
+        "score": 0.012
+      },
+      {
+        "word": "khi",
+        "start": 25.573,
+        "end": 25.874,
+        "score": 0.015
+      },
+      {
+        "word": "cần",
+        "start": 25.894,
+        "end": 25.974,
+        "score": 0.011
+      },
+      {
+        "word": "thiết",
+        "start": 26.014,
+        "end": 26.375,
+        "score": 0.014
+      },
+      {
+        "word": "nhé.",
+        "start": 26.495,
+        "end": 26.595,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 9,
+    "segment_start_offset": 160.642
+  },
+  {
+    "start": 0.031,
+    "end": 0.753,
+    "text": " Ví dụ, chưng luộc là boiled eggs.",
+    "words": [
+      {
+        "word": "Ví",
+        "start": 0.031,
+        "end": 0.071,
+        "score": 0.014
+      },
+      {
+        "word": "dụ,",
+        "start": 0.091,
+        "end": 0.151,
+        "score": 0.018
+      },
+      {
+        "word": "chưng",
+        "start": 0.171,
+        "end": 0.272,
+        "score": 0.012
+      },
+      {
+        "word": "luộc",
+        "start": 0.312,
+        "end": 0.412,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 0.432,
+        "end": 0.472,
+        "score": 0.01
+      },
+      {
+        "word": "boiled",
+        "start": 0.492,
+        "end": 0.613,
+        "score": 0.009
+      },
+      {
+        "word": "eggs.",
+        "start": 0.633,
+        "end": 0.753,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 10,
+    "segment_start_offset": 187.714
+  },
+  {
+    "start": 0.773,
+    "end": 5.125,
+    "text": "Còn nếu bạn muốn nói, nước sôi kia, thì này nói, The water's boiling.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 0.773,
+        "end": 0.833,
+        "score": 0.009
+      },
+      {
+        "word": "nếu",
+        "start": 0.853,
+        "end": 0.913,
+        "score": 0.008
+      },
+      {
+        "word": "bạn",
+        "start": 0.933,
+        "end": 0.994,
+        "score": 0.012
+      },
+      {
+        "word": "muốn",
+        "start": 1.014,
+        "end": 1.094,
+        "score": 0.012
+      },
+      {
+        "word": "nói,",
+        "start": 1.114,
+        "end": 1.254,
+        "score": 0.018
+      },
+      {
+        "word": "nước",
+        "start": 1.274,
+        "end": 1.355,
+        "score": 0.01
+      },
+      {
+        "word": "sôi",
+        "start": 1.375,
+        "end": 1.435,
+        "score": 0.011
+      },
+      {
+        "word": "kia,",
+        "start": 1.475,
+        "end": 1.756,
+        "score": 0.012
+      },
+      {
+        "word": "thì",
+        "start": 1.776,
+        "end": 1.856,
+        "score": 0.011
+      },
+      {
+        "word": "này",
+        "start": 1.876,
+        "end": 1.956,
+        "score": 0.012
+      },
+      {
+        "word": "nói,",
+        "start": 1.976,
+        "end": 2.057,
+        "score": 0.014
+      },
+      {
+        "word": "The",
+        "start": 2.077,
+        "end": 2.137,
+        "score": 0.01
+      },
+      {
+        "word": "water's",
+        "start": 2.157,
+        "end": 3.3,
+        "score": 0.012
+      },
+      {
+        "word": "boiling.",
+        "start": 3.36,
+        "end": 5.125,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 10,
+    "segment_start_offset": 187.714
+  },
+  {
+    "start": 5.426,
+    "end": 9.637,
+    "text": "Việt Nam cũng có một số cách chế biến mà thực phẩm được đun bằng lửa nhỏ trong thời gian lâu.",
+    "words": [
+      {
+        "word": "Việt",
+        "start": 5.426,
+        "end": 5.586,
+        "score": 0.013
+      },
+      {
+        "word": "Nam",
+        "start": 5.606,
+        "end": 5.807,
+        "score": 0.011
+      },
+      {
+        "word": "cũng",
+        "start": 5.927,
+        "end": 6.188,
+        "score": 0.012
+      },
+      {
+        "word": "có",
+        "start": 6.208,
+        "end": 6.308,
+        "score": 0.014
+      },
+      {
+        "word": "một",
+        "start": 6.368,
+        "end": 6.549,
+        "score": 0.013
+      },
+      {
+        "word": "số",
+        "start": 6.589,
+        "end": 6.709,
+        "score": 0.015
+      },
+      {
+        "word": "cách",
+        "start": 6.729,
+        "end": 6.85,
+        "score": 0.012
+      },
+      {
+        "word": "chế",
+        "start": 6.87,
+        "end": 7.03,
+        "score": 0.012
+      },
+      {
+        "word": "biến",
+        "start": 7.05,
+        "end": 7.391,
+        "score": 0.012
+      },
+      {
+        "word": "mà",
+        "start": 7.411,
+        "end": 7.451,
+        "score": 0.012
+      },
+      {
+        "word": "thực",
+        "start": 7.471,
+        "end": 7.552,
+        "score": 0.012
+      },
+      {
+        "word": "phẩm",
+        "start": 7.572,
+        "end": 7.652,
+        "score": 0.013
+      },
+      {
+        "word": "được",
+        "start": 7.953,
+        "end": 8.053,
+        "score": 0.01
+      },
+      {
+        "word": "đun",
+        "start": 8.093,
+        "end": 8.213,
+        "score": 0.011
+      },
+      {
+        "word": "bằng",
+        "start": 8.274,
+        "end": 8.454,
+        "score": 0.013
+      },
+      {
+        "word": "lửa",
+        "start": 8.595,
+        "end": 8.695,
+        "score": 0.009
+      },
+      {
+        "word": "nhỏ",
+        "start": 8.715,
+        "end": 8.775,
+        "score": 0.013
+      },
+      {
+        "word": "trong",
+        "start": 8.795,
+        "end": 8.935,
+        "score": 0.01
+      },
+      {
+        "word": "thời",
+        "start": 8.956,
+        "end": 9.116,
+        "score": 0.011
+      },
+      {
+        "word": "gian",
+        "start": 9.196,
+        "end": 9.357,
+        "score": 0.013
+      },
+      {
+        "word": "lâu.",
+        "start": 9.377,
+        "end": 9.637,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 10,
+    "segment_start_offset": 187.714
+  },
+  {
+    "start": 9.657,
+    "end": 15.694,
+    "text": "Ví dụ như ôm, kho và hầm.",
+    "words": [
+      {
+        "word": "Ví",
+        "start": 9.657,
+        "end": 9.698,
+        "score": 0.012
+      },
+      {
+        "word": "dụ",
+        "start": 9.758,
+        "end": 9.798,
+        "score": 0.014
+      },
+      {
+        "word": "như",
+        "start": 9.818,
+        "end": 9.878,
+        "score": 0.012
+      },
+      {
+        "word": "ôm,",
+        "start": 9.898,
+        "end": 10.119,
+        "score": 0.014
+      },
+      {
+        "word": "kho",
+        "start": 10.139,
+        "end": 10.199,
+        "score": 0.014
+      },
+      {
+        "word": "và",
+        "start": 10.239,
+        "end": 10.279,
+        "score": 0.012
+      },
+      {
+        "word": "hầm.",
+        "start": 10.299,
+        "end": 15.694,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 10,
+    "segment_start_offset": 187.714
+  },
+  {
+    "start": 15.674,
+    "end": 18.521,
+    "text": " Những cách đó thì có lẽ không thể dịch sang tiếng Anh một cách thật sự chính xác.",
+    "words": [
+      {
+        "word": "Những",
+        "start": 15.674,
+        "end": 15.774,
+        "score": 0.011
+      },
+      {
+        "word": "cách",
+        "start": 15.794,
+        "end": 15.875,
+        "score": 0.013
+      },
+      {
+        "word": "đó",
+        "start": 15.895,
+        "end": 15.935,
+        "score": 0.014
+      },
+      {
+        "word": "thì",
+        "start": 16.155,
+        "end": 16.356,
+        "score": 0.011
+      },
+      {
+        "word": "có",
+        "start": 16.376,
+        "end": 16.416,
+        "score": 0.01
+      },
+      {
+        "word": "lẽ",
+        "start": 16.436,
+        "end": 16.476,
+        "score": 0.015
+      },
+      {
+        "word": "không",
+        "start": 16.496,
+        "end": 16.596,
+        "score": 0.011
+      },
+      {
+        "word": "thể",
+        "start": 16.616,
+        "end": 16.677,
+        "score": 0.013
+      },
+      {
+        "word": "dịch",
+        "start": 16.717,
+        "end": 16.797,
+        "score": 0.012
+      },
+      {
+        "word": "sang",
+        "start": 16.837,
+        "end": 16.917,
+        "score": 0.012
+      },
+      {
+        "word": "tiếng",
+        "start": 16.977,
+        "end": 17.078,
+        "score": 0.009
+      },
+      {
+        "word": "Anh",
+        "start": 17.098,
+        "end": 17.158,
+        "score": 0.01
+      },
+      {
+        "word": "một",
+        "start": 17.178,
+        "end": 17.238,
+        "score": 0.012
+      },
+      {
+        "word": "cách",
+        "start": 17.258,
+        "end": 17.338,
+        "score": 0.016
+      },
+      {
+        "word": "thật",
+        "start": 17.358,
+        "end": 17.459,
+        "score": 0.012
+      },
+      {
+        "word": "sự",
+        "start": 17.559,
+        "end": 17.659,
+        "score": 0.013
+      },
+      {
+        "word": "chính",
+        "start": 17.739,
+        "end": 17.92,
+        "score": 0.011
+      },
+      {
+        "word": "xác.",
+        "start": 17.94,
+        "end": 18.521,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 10,
+    "segment_start_offset": 187.714
+  },
+  {
+    "start": 18.602,
+    "end": 23.535,
+    "text": "Nhưng nếu các bạn nói ... thì người bàn ngỡ sẽ hiểu đủ rõ.",
+    "words": [
+      {
+        "word": "Nhưng",
+        "start": 18.602,
+        "end": 18.862,
+        "score": 0.011
+      },
+      {
+        "word": "nếu",
+        "start": 18.882,
+        "end": 18.943,
+        "score": 0.015
+      },
+      {
+        "word": "các",
+        "start": 18.963,
+        "end": 19.023,
+        "score": 0.013
+      },
+      {
+        "word": "bạn",
+        "start": 19.043,
+        "end": 19.103,
+        "score": 0.015
+      },
+      {
+        "word": "nói",
+        "start": 19.123,
+        "end": 19.183,
+        "score": 0.014
+      },
+      {
+        "word": "...",
+        "start": 19.203,
+        "end": 19.865,
+        "score": 0.019
+      },
+      {
+        "word": "thì",
+        "start": 19.965,
+        "end": 20.126,
+        "score": 0.011
+      },
+      {
+        "word": "người",
+        "start": 20.166,
+        "end": 20.607,
+        "score": 0.013
+      },
+      {
+        "word": "bàn",
+        "start": 20.627,
+        "end": 20.687,
+        "score": 0.013
+      },
+      {
+        "word": "ngỡ",
+        "start": 20.707,
+        "end": 20.767,
+        "score": 0.012
+      },
+      {
+        "word": "sẽ",
+        "start": 20.787,
+        "end": 20.828,
+        "score": 0.01
+      },
+      {
+        "word": "hiểu",
+        "start": 20.848,
+        "end": 20.968,
+        "score": 0.012
+      },
+      {
+        "word": "đủ",
+        "start": 20.988,
+        "end": 21.028,
+        "score": 0.014
+      },
+      {
+        "word": "rõ.",
+        "start": 21.048,
+        "end": 23.535,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 10,
+    "segment_start_offset": 187.714
+  },
+  {
+    "start": 23.755,
+    "end": 27.726,
+    "text": "Còn một cách chế biến nữa mà mình rất thích là muối.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 23.755,
+        "end": 24.176,
+        "score": 0.012
+      },
+      {
+        "word": "một",
+        "start": 24.196,
+        "end": 24.357,
+        "score": 0.017
+      },
+      {
+        "word": "cách",
+        "start": 24.377,
+        "end": 24.678,
+        "score": 0.011
+      },
+      {
+        "word": "chế",
+        "start": 24.698,
+        "end": 24.758,
+        "score": 0.01
+      },
+      {
+        "word": "biến",
+        "start": 24.818,
+        "end": 24.958,
+        "score": 0.013
+      },
+      {
+        "word": "nữa",
+        "start": 24.978,
+        "end": 25.039,
+        "score": 0.014
+      },
+      {
+        "word": "mà",
+        "start": 25.059,
+        "end": 25.099,
+        "score": 0.012
+      },
+      {
+        "word": "mình",
+        "start": 25.119,
+        "end": 25.379,
+        "score": 0.011
+      },
+      {
+        "word": "rất",
+        "start": 25.399,
+        "end": 25.46,
+        "score": 0.012
+      },
+      {
+        "word": "thích",
+        "start": 25.52,
+        "end": 25.64,
+        "score": 0.011
+      },
+      {
+        "word": "là",
+        "start": 25.76,
+        "end": 25.901,
+        "score": 0.012
+      },
+      {
+        "word": "muối.",
+        "start": 25.921,
+        "end": 27.726,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 10,
+    "segment_start_offset": 187.714
+  },
+  {
+    "start": 27.926,
+    "end": 29.971,
+    "text": "Ví dụ như muối dưa.",
+    "words": [
+      {
+        "word": "Ví",
+        "start": 27.926,
+        "end": 27.966,
+        "score": 0.012
+      },
+      {
+        "word": "dụ",
+        "start": 28.207,
+        "end": 28.347,
+        "score": 0.01
+      },
+      {
+        "word": "như",
+        "start": 28.528,
+        "end": 28.768,
+        "score": 0.013
+      },
+      {
+        "word": "muối",
+        "start": 29.069,
+        "end": 29.23,
+        "score": 0.014
+      },
+      {
+        "word": "dưa.",
+        "start": 29.25,
+        "end": 29.971,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 10,
+    "segment_start_offset": 187.714
+  },
+  {
+    "start": 30.172,
+    "end": 32.097,
+    "text": "Cách đó gọi là ...",
+    "words": [
+      {
+        "word": "Cách",
+        "start": 30.172,
+        "end": 30.553,
+        "score": 0.013
+      },
+      {
+        "word": "đó",
+        "start": 30.573,
+        "end": 30.613,
+        "score": 0.015
+      },
+      {
+        "word": "gọi",
+        "start": 30.633,
+        "end": 30.693,
+        "score": 0.013
+      },
+      {
+        "word": "là",
+        "start": 30.713,
+        "end": 30.794,
+        "score": 0.01
+      },
+      {
+        "word": "...",
+        "start": 30.814,
+        "end": 32.097,
+        "score": 0.022
+      }
+    ],
+    "segment_id": 10,
+    "segment_start_offset": 187.714
+  },
+  {
+    "start": 0.031,
+    "end": 0.774,
+    "text": " Hàng muối là Pickled Onions.",
+    "words": [
+      {
+        "word": "Hàng",
+        "start": 0.031,
+        "end": 0.111,
+        "score": 0.013
+      },
+      {
+        "word": "muối",
+        "start": 0.131,
+        "end": 0.232,
+        "score": 0.011
+      },
+      {
+        "word": "là",
+        "start": 0.252,
+        "end": 0.292,
+        "score": 0.012
+      },
+      {
+        "word": "Pickled",
+        "start": 0.332,
+        "end": 0.493,
+        "score": 0.011
+      },
+      {
+        "word": "Onions.",
+        "start": 0.513,
+        "end": 0.774,
+        "score": 0.011
+      }
+    ],
+    "segment_id": 11,
+    "segment_start_offset": 220.322
+  },
+  {
+    "start": 0.815,
+    "end": 2.281,
+    "text": "Giữa cải muối là Pickled Mustard Greens.",
+    "words": [
+      {
+        "word": "Giữa",
+        "start": 0.815,
+        "end": 0.915,
+        "score": 0.011
+      },
+      {
+        "word": "cải",
+        "start": 0.935,
+        "end": 0.995,
+        "score": 0.012
+      },
+      {
+        "word": "muối",
+        "start": 1.015,
+        "end": 1.136,
+        "score": 0.01
+      },
+      {
+        "word": "là",
+        "start": 1.196,
+        "end": 1.277,
+        "score": 0.01
+      },
+      {
+        "word": "Pickled",
+        "start": 1.297,
+        "end": 1.437,
+        "score": 0.01
+      },
+      {
+        "word": "Mustard",
+        "start": 1.457,
+        "end": 1.638,
+        "score": 0.011
+      },
+      {
+        "word": "Greens.",
+        "start": 1.658,
+        "end": 2.281,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 11,
+    "segment_start_offset": 220.322
+  },
+  {
+    "start": 2.301,
+    "end": 8.288,
+    "text": "Còn cả muối là ... Mình không biết cả pháo là gì.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 2.301,
+        "end": 2.442,
+        "score": 0.014
+      },
+      {
+        "word": "cả",
+        "start": 2.462,
+        "end": 2.542,
+        "score": 0.011
+      },
+      {
+        "word": "muối",
+        "start": 2.582,
+        "end": 2.743,
+        "score": 0.01
+      },
+      {
+        "word": "là",
+        "start": 2.763,
+        "end": 2.803,
+        "score": 0.014
+      },
+      {
+        "word": "...",
+        "start": 2.824,
+        "end": 6.098,
+        "score": 0.02
+      },
+      {
+        "word": "Mình",
+        "start": 6.118,
+        "end": 6.259,
+        "score": 0.012
+      },
+      {
+        "word": "không",
+        "start": 6.279,
+        "end": 6.4,
+        "score": 0.012
+      },
+      {
+        "word": "biết",
+        "start": 6.46,
+        "end": 7.826,
+        "score": 0.014
+      },
+      {
+        "word": "cả",
+        "start": 7.846,
+        "end": 7.886,
+        "score": 0.012
+      },
+      {
+        "word": "pháo",
+        "start": 8.007,
+        "end": 8.107,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 8.127,
+        "end": 8.188,
+        "score": 0.012
+      },
+      {
+        "word": "gì.",
+        "start": 8.208,
+        "end": 8.288,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 11,
+    "segment_start_offset": 220.322
+  },
+  {
+    "start": 8.308,
+    "end": 10.277,
+    "text": "Mình chỉ biết ở nó.",
+    "words": [
+      {
+        "word": "Mình",
+        "start": 8.308,
+        "end": 8.61,
+        "score": 0.012
+      },
+      {
+        "word": "chỉ",
+        "start": 8.63,
+        "end": 8.69,
+        "score": 0.011
+      },
+      {
+        "word": "biết",
+        "start": 8.75,
+        "end": 8.891,
+        "score": 0.012
+      },
+      {
+        "word": "ở",
+        "start": 8.911,
+        "end": 8.931,
+        "score": 0.019
+      },
+      {
+        "word": "nó.",
+        "start": 9.011,
+        "end": 10.277,
+        "score": 0.017
+      }
+    ],
+    "segment_id": 11,
+    "segment_start_offset": 220.322
+  },
+  {
+    "start": 0.031,
+    "end": 1.901,
+    "text": " OK. Khi thực phẩm đã được nấu xong, thì nó chín, đúng không?",
+    "words": [
+      {
+        "word": "OK.",
+        "start": 0.031,
+        "end": 0.111,
+        "score": 0.014
+      },
+      {
+        "word": "Khi",
+        "start": 0.132,
+        "end": 0.232,
+        "score": 0.015
+      },
+      {
+        "word": "thực",
+        "start": 0.252,
+        "end": 0.353,
+        "score": 0.014
+      },
+      {
+        "word": "phẩm",
+        "start": 0.433,
+        "end": 0.554,
+        "score": 0.012
+      },
+      {
+        "word": "đã",
+        "start": 0.574,
+        "end": 0.614,
+        "score": 0.013
+      },
+      {
+        "word": "được",
+        "start": 0.715,
+        "end": 0.795,
+        "score": 0.009
+      },
+      {
+        "word": "nấu",
+        "start": 0.815,
+        "end": 0.876,
+        "score": 0.013
+      },
+      {
+        "word": "xong,",
+        "start": 0.896,
+        "end": 1.037,
+        "score": 0.015
+      },
+      {
+        "word": "thì",
+        "start": 1.057,
+        "end": 1.117,
+        "score": 0.009
+      },
+      {
+        "word": "nó",
+        "start": 1.137,
+        "end": 1.177,
+        "score": 0.012
+      },
+      {
+        "word": "chín,",
+        "start": 1.197,
+        "end": 1.338,
+        "score": 0.015
+      },
+      {
+        "word": "đúng",
+        "start": 1.378,
+        "end": 1.519,
+        "score": 0.01
+      },
+      {
+        "word": "không?",
+        "start": 1.539,
+        "end": 1.901,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 12,
+    "segment_start_offset": 234.082
+  },
+  {
+    "start": 1.921,
+    "end": 4.998,
+    "text": "Đồ ăn chín là cooked.",
+    "words": [
+      {
+        "word": "Đồ",
+        "start": 1.921,
+        "end": 1.962,
+        "score": 0.014
+      },
+      {
+        "word": "ăn",
+        "start": 2.042,
+        "end": 2.183,
+        "score": 0.014
+      },
+      {
+        "word": "chín",
+        "start": 2.203,
+        "end": 2.283,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 2.304,
+        "end": 2.344,
+        "score": 0.014
+      },
+      {
+        "word": "cooked.",
+        "start": 2.464,
+        "end": 4.998,
+        "score": 0.011
+      }
+    ],
+    "segment_id": 12,
+    "segment_start_offset": 234.082
+  },
+  {
+    "start": 5.019,
+    "end": 6.446,
+    "text": "Còn đồ sống là raw.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 5.019,
+        "end": 5.099,
+        "score": 0.013
+      },
+      {
+        "word": "đồ",
+        "start": 5.139,
+        "end": 5.179,
+        "score": 0.015
+      },
+      {
+        "word": "sống",
+        "start": 5.24,
+        "end": 5.421,
+        "score": 0.011
+      },
+      {
+        "word": "là",
+        "start": 5.441,
+        "end": 5.481,
+        "score": 0.012
+      },
+      {
+        "word": "raw.",
+        "start": 5.702,
+        "end": 6.446,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 12,
+    "segment_start_offset": 234.082
+  },
+  {
+    "start": 6.467,
+    "end": 11.273,
+    "text": "Nhưng từ chín này cũng được sử dụng khi nói về hoá quả.",
+    "words": [
+      {
+        "word": "Nhưng",
+        "start": 6.467,
+        "end": 6.949,
+        "score": 0.01
+      },
+      {
+        "word": "từ",
+        "start": 7.09,
+        "end": 7.754,
+        "score": 0.012
+      },
+      {
+        "word": "chín",
+        "start": 7.774,
+        "end": 8.055,
+        "score": 0.012
+      },
+      {
+        "word": "này",
+        "start": 8.075,
+        "end": 8.538,
+        "score": 0.013
+      },
+      {
+        "word": "cũng",
+        "start": 8.679,
+        "end": 9.141,
+        "score": 0.012
+      },
+      {
+        "word": "được",
+        "start": 9.161,
+        "end": 9.262,
+        "score": 0.012
+      },
+      {
+        "word": "sử",
+        "start": 9.282,
+        "end": 9.383,
+        "score": 0.01
+      },
+      {
+        "word": "dụng",
+        "start": 9.443,
+        "end": 9.785,
+        "score": 0.012
+      },
+      {
+        "word": "khi",
+        "start": 9.865,
+        "end": 10.167,
+        "score": 0.012
+      },
+      {
+        "word": "nói",
+        "start": 10.288,
+        "end": 10.368,
+        "score": 0.011
+      },
+      {
+        "word": "về",
+        "start": 10.428,
+        "end": 10.469,
+        "score": 0.014
+      },
+      {
+        "word": "hoá",
+        "start": 10.589,
+        "end": 10.79,
+        "score": 0.011
+      },
+      {
+        "word": "quả.",
+        "start": 10.811,
+        "end": 11.273,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 12,
+    "segment_start_offset": 234.082
+  },
+  {
+    "start": 0.031,
+    "end": 2.123,
+    "text": " Tất nhiên là quài chín, không phải cooked.",
+    "words": [
+      {
+        "word": "Tất",
+        "start": 0.031,
+        "end": 0.092,
+        "score": 0.011
+      },
+      {
+        "word": "nhiên",
+        "start": 0.133,
+        "end": 0.234,
+        "score": 0.01
+      },
+      {
+        "word": "là",
+        "start": 0.275,
+        "end": 0.315,
+        "score": 0.01
+      },
+      {
+        "word": "quài",
+        "start": 0.336,
+        "end": 0.437,
+        "score": 0.013
+      },
+      {
+        "word": "chín,",
+        "start": 0.457,
+        "end": 0.579,
+        "score": 0.014
+      },
+      {
+        "word": "không",
+        "start": 0.62,
+        "end": 0.945,
+        "score": 0.013
+      },
+      {
+        "word": "phải",
+        "start": 0.985,
+        "end": 1.107,
+        "score": 0.012
+      },
+      {
+        "word": "cooked.",
+        "start": 1.128,
+        "end": 2.123,
+        "score": 0.011
+      }
+    ],
+    "segment_id": 13,
+    "segment_start_offset": 245.858
+  },
+  {
+    "start": 2.163,
+    "end": 3.747,
+    "text": "Nó gọi là ripe.",
+    "words": [
+      {
+        "word": "Nó",
+        "start": 2.163,
+        "end": 2.224,
+        "score": 0.012
+      },
+      {
+        "word": "gọi",
+        "start": 2.448,
+        "end": 2.63,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 2.813,
+        "end": 2.854,
+        "score": 0.012
+      },
+      {
+        "word": "ripe.",
+        "start": 2.935,
+        "end": 3.747,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 13,
+    "segment_start_offset": 245.858
+  },
+  {
+    "start": 0.031,
+    "end": 3.048,
+    "text": " Còn quả sang là green, hoặc là unripe.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 0.031,
+        "end": 0.091,
+        "score": 0.012
+      },
+      {
+        "word": "quả",
+        "start": 0.111,
+        "end": 0.192,
+        "score": 0.01
+      },
+      {
+        "word": "sang",
+        "start": 0.212,
+        "end": 0.313,
+        "score": 0.009
+      },
+      {
+        "word": "là",
+        "start": 0.333,
+        "end": 0.373,
+        "score": 0.012
+      },
+      {
+        "word": "green,",
+        "start": 0.393,
+        "end": 0.514,
+        "score": 0.012
+      },
+      {
+        "word": "hoặc",
+        "start": 0.534,
+        "end": 0.775,
+        "score": 0.013
+      },
+      {
+        "word": "là",
+        "start": 0.795,
+        "end": 0.835,
+        "score": 0.009
+      },
+      {
+        "word": "unripe.",
+        "start": 0.856,
+        "end": 3.048,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 14,
+    "segment_start_offset": 250.082
+  },
+  {
+    "start": 3.068,
+    "end": 9.383,
+    "text": "À, nói đến hoạt quả sang, thì mình nhớ là nhiều bạn cũng nhầm lẫn về hai tờ lime và lemon.",
+    "words": [
+      {
+        "word": "À,",
+        "start": 3.068,
+        "end": 3.108,
+        "score": 0.014
+      },
+      {
+        "word": "nói",
+        "start": 3.128,
+        "end": 3.189,
+        "score": 0.013
+      },
+      {
+        "word": "đến",
+        "start": 3.209,
+        "end": 3.269,
+        "score": 0.011
+      },
+      {
+        "word": "hoạt",
+        "start": 3.47,
+        "end": 3.712,
+        "score": 0.01
+      },
+      {
+        "word": "quả",
+        "start": 4.053,
+        "end": 4.114,
+        "score": 0.011
+      },
+      {
+        "word": "sang,",
+        "start": 4.436,
+        "end": 4.637,
+        "score": 0.014
+      },
+      {
+        "word": "thì",
+        "start": 4.677,
+        "end": 4.898,
+        "score": 0.011
+      },
+      {
+        "word": "mình",
+        "start": 4.918,
+        "end": 5.582,
+        "score": 0.012
+      },
+      {
+        "word": "nhớ",
+        "start": 5.602,
+        "end": 5.703,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 5.743,
+        "end": 5.783,
+        "score": 0.016
+      },
+      {
+        "word": "nhiều",
+        "start": 5.863,
+        "end": 6.165,
+        "score": 0.012
+      },
+      {
+        "word": "bạn",
+        "start": 6.185,
+        "end": 6.306,
+        "score": 0.013
+      },
+      {
+        "word": "cũng",
+        "start": 6.326,
+        "end": 6.527,
+        "score": 0.012
+      },
+      {
+        "word": "nhầm",
+        "start": 6.567,
+        "end": 6.708,
+        "score": 0.012
+      },
+      {
+        "word": "lẫn",
+        "start": 6.728,
+        "end": 6.809,
+        "score": 0.012
+      },
+      {
+        "word": "về",
+        "start": 6.849,
+        "end": 7.01,
+        "score": 0.009
+      },
+      {
+        "word": "hai",
+        "start": 7.03,
+        "end": 7.11,
+        "score": 0.011
+      },
+      {
+        "word": "tờ",
+        "start": 7.131,
+        "end": 7.251,
+        "score": 0.015
+      },
+      {
+        "word": "lime",
+        "start": 7.271,
+        "end": 7.995,
+        "score": 0.012
+      },
+      {
+        "word": "và",
+        "start": 8.116,
+        "end": 8.156,
+        "score": 0.013
+      },
+      {
+        "word": "lemon.",
+        "start": 8.176,
+        "end": 9.383,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 14,
+    "segment_start_offset": 250.082
+  },
+  {
+    "start": 0.031,
+    "end": 0.692,
+    "text": " Sự khác biệt như thế này.",
+    "words": [
+      {
+        "word": "Sự",
+        "start": 0.031,
+        "end": 0.071,
+        "score": 0.01
+      },
+      {
+        "word": "khác",
+        "start": 0.091,
+        "end": 0.171,
+        "score": 0.011
+      },
+      {
+        "word": "biệt",
+        "start": 0.191,
+        "end": 0.271,
+        "score": 0.011
+      },
+      {
+        "word": "như",
+        "start": 0.291,
+        "end": 0.351,
+        "score": 0.013
+      },
+      {
+        "word": "thế",
+        "start": 0.372,
+        "end": 0.432,
+        "score": 0.01
+      },
+      {
+        "word": "này.",
+        "start": 0.452,
+        "end": 0.692,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 0.712,
+    "end": 1.093,
+    "text": "Lime là chanh này.",
+    "words": [
+      {
+        "word": "Lime",
+        "start": 0.712,
+        "end": 0.792,
+        "score": 0.013
+      },
+      {
+        "word": "là",
+        "start": 0.812,
+        "end": 0.852,
+        "score": 0.008
+      },
+      {
+        "word": "chanh",
+        "start": 0.872,
+        "end": 0.972,
+        "score": 0.011
+      },
+      {
+        "word": "này.",
+        "start": 0.992,
+        "end": 1.093,
+        "score": 0.016
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 1.113,
+    "end": 1.874,
+    "text": "Còn lemon là chanh vàng này.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 1.113,
+        "end": 1.173,
+        "score": 0.016
+      },
+      {
+        "word": "lemon",
+        "start": 1.193,
+        "end": 1.293,
+        "score": 0.011
+      },
+      {
+        "word": "là",
+        "start": 1.433,
+        "end": 1.513,
+        "score": 0.01
+      },
+      {
+        "word": "chanh",
+        "start": 1.553,
+        "end": 1.674,
+        "score": 0.012
+      },
+      {
+        "word": "vàng",
+        "start": 1.694,
+        "end": 1.774,
+        "score": 0.01
+      },
+      {
+        "word": "này.",
+        "start": 1.794,
+        "end": 1.874,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 1.894,
+    "end": 2.174,
+    "text": "À!",
+    "words": [
+      {
+        "word": "À!",
+        "start": 1.894,
+        "end": 2.174,
+        "score": 0.016
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 2.214,
+    "end": 3.276,
+    "text": "Một cái nữa cũng liên quan đến màu xanh.",
+    "words": [
+      {
+        "word": "Một",
+        "start": 2.214,
+        "end": 2.274,
+        "score": 0.013
+      },
+      {
+        "word": "cái",
+        "start": 2.294,
+        "end": 2.375,
+        "score": 0.01
+      },
+      {
+        "word": "nữa",
+        "start": 2.395,
+        "end": 2.475,
+        "score": 0.015
+      },
+      {
+        "word": "cũng",
+        "start": 2.495,
+        "end": 2.575,
+        "score": 0.011
+      },
+      {
+        "word": "liên",
+        "start": 2.595,
+        "end": 2.715,
+        "score": 0.012
+      },
+      {
+        "word": "quan",
+        "start": 2.735,
+        "end": 2.895,
+        "score": 0.011
+      },
+      {
+        "word": "đến",
+        "start": 2.935,
+        "end": 2.996,
+        "score": 0.012
+      },
+      {
+        "word": "màu",
+        "start": 3.016,
+        "end": 3.076,
+        "score": 0.01
+      },
+      {
+        "word": "xanh.",
+        "start": 3.156,
+        "end": 3.276,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 3.296,
+    "end": 4.618,
+    "text": "Súp lơ này.",
+    "words": [
+      {
+        "word": "Súp",
+        "start": 3.296,
+        "end": 3.376,
+        "score": 0.011
+      },
+      {
+        "word": "lơ",
+        "start": 3.396,
+        "end": 3.436,
+        "score": 0.009
+      },
+      {
+        "word": "này.",
+        "start": 3.456,
+        "end": 4.618,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 4.638,
+    "end": 9.365,
+    "text": "Nếu trai tờ điển thì các bạn sẽ thấy nó là cauliflower.",
+    "words": [
+      {
+        "word": "Nếu",
+        "start": 4.638,
+        "end": 4.698,
+        "score": 0.01
+      },
+      {
+        "word": "trai",
+        "start": 4.798,
+        "end": 5.099,
+        "score": 0.012
+      },
+      {
+        "word": "tờ",
+        "start": 5.139,
+        "end": 5.179,
+        "score": 0.01
+      },
+      {
+        "word": "điển",
+        "start": 5.199,
+        "end": 5.519,
+        "score": 0.012
+      },
+      {
+        "word": "thì",
+        "start": 5.539,
+        "end": 5.62,
+        "score": 0.015
+      },
+      {
+        "word": "các",
+        "start": 5.7,
+        "end": 5.76,
+        "score": 0.013
+      },
+      {
+        "word": "bạn",
+        "start": 5.78,
+        "end": 5.96,
+        "score": 0.013
+      },
+      {
+        "word": "sẽ",
+        "start": 5.98,
+        "end": 6.02,
+        "score": 0.014
+      },
+      {
+        "word": "thấy",
+        "start": 6.04,
+        "end": 6.341,
+        "score": 0.011
+      },
+      {
+        "word": "nó",
+        "start": 6.361,
+        "end": 6.401,
+        "score": 0.014
+      },
+      {
+        "word": "là",
+        "start": 6.541,
+        "end": 6.581,
+        "score": 0.016
+      },
+      {
+        "word": "cauliflower.",
+        "start": 6.601,
+        "end": 9.365,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 9.385,
+    "end": 11.148,
+    "text": "Thế là đúng nếu nói về súp lơ trắng.",
+    "words": [
+      {
+        "word": "Thế",
+        "start": 9.385,
+        "end": 9.586,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 9.746,
+        "end": 9.946,
+        "score": 0.011
+      },
+      {
+        "word": "đúng",
+        "start": 9.966,
+        "end": 10.307,
+        "score": 0.012
+      },
+      {
+        "word": "nếu",
+        "start": 10.327,
+        "end": 10.527,
+        "score": 0.012
+      },
+      {
+        "word": "nói",
+        "start": 10.547,
+        "end": 10.627,
+        "score": 0.014
+      },
+      {
+        "word": "về",
+        "start": 10.647,
+        "end": 10.687,
+        "score": 0.016
+      },
+      {
+        "word": "súp",
+        "start": 10.787,
+        "end": 10.928,
+        "score": 0.011
+      },
+      {
+        "word": "lơ",
+        "start": 10.948,
+        "end": 10.988,
+        "score": 0.01
+      },
+      {
+        "word": "trắng.",
+        "start": 11.008,
+        "end": 11.148,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 11.188,
+    "end": 12.23,
+    "text": "Còn súp lơ xanh là broccoli.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 11.188,
+        "end": 11.288,
+        "score": 0.013
+      },
+      {
+        "word": "súp",
+        "start": 11.308,
+        "end": 11.368,
+        "score": 0.012
+      },
+      {
+        "word": "lơ",
+        "start": 11.388,
+        "end": 11.428,
+        "score": 0.011
+      },
+      {
+        "word": "xanh",
+        "start": 11.509,
+        "end": 11.709,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 11.729,
+        "end": 11.769,
+        "score": 0.013
+      },
+      {
+        "word": "broccoli.",
+        "start": 11.789,
+        "end": 12.23,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 12.25,
+    "end": 19.541,
+    "text": "Và điều dễ nhầm lẫn cuối cùng là nhiều bạn đã hỏi mình làm sao để phân biệt canh, súp và món nước.",
+    "words": [
+      {
+        "word": "Và",
+        "start": 12.25,
+        "end": 12.29,
+        "score": 0.013
+      },
+      {
+        "word": "điều",
+        "start": 12.31,
+        "end": 12.45,
+        "score": 0.011
+      },
+      {
+        "word": "dễ",
+        "start": 12.53,
+        "end": 12.57,
+        "score": 0.012
+      },
+      {
+        "word": "nhầm",
+        "start": 12.63,
+        "end": 12.971,
+        "score": 0.014
+      },
+      {
+        "word": "lẫn",
+        "start": 13.131,
+        "end": 13.251,
+        "score": 0.013
+      },
+      {
+        "word": "cuối",
+        "start": 13.271,
+        "end": 13.351,
+        "score": 0.01
+      },
+      {
+        "word": "cùng",
+        "start": 13.371,
+        "end": 13.492,
+        "score": 0.01
+      },
+      {
+        "word": "là",
+        "start": 13.592,
+        "end": 13.652,
+        "score": 0.012
+      },
+      {
+        "word": "nhiều",
+        "start": 13.672,
+        "end": 13.772,
+        "score": 0.011
+      },
+      {
+        "word": "bạn",
+        "start": 13.852,
+        "end": 13.992,
+        "score": 0.01
+      },
+      {
+        "word": "đã",
+        "start": 14.012,
+        "end": 14.113,
+        "score": 0.01
+      },
+      {
+        "word": "hỏi",
+        "start": 14.133,
+        "end": 14.193,
+        "score": 0.012
+      },
+      {
+        "word": "mình",
+        "start": 14.213,
+        "end": 14.353,
+        "score": 0.012
+      },
+      {
+        "word": "làm",
+        "start": 14.373,
+        "end": 14.553,
+        "score": 0.011
+      },
+      {
+        "word": "sao",
+        "start": 14.573,
+        "end": 14.693,
+        "score": 0.01
+      },
+      {
+        "word": "để",
+        "start": 14.834,
+        "end": 15.254,
+        "score": 0.012
+      },
+      {
+        "word": "phân",
+        "start": 15.274,
+        "end": 15.475,
+        "score": 0.011
+      },
+      {
+        "word": "biệt",
+        "start": 15.495,
+        "end": 15.615,
+        "score": 0.013
+      },
+      {
+        "word": "canh,",
+        "start": 15.635,
+        "end": 17.097,
+        "score": 0.013
+      },
+      {
+        "word": "súp",
+        "start": 17.117,
+        "end": 17.217,
+        "score": 0.012
+      },
+      {
+        "word": "và",
+        "start": 17.257,
+        "end": 17.297,
+        "score": 0.014
+      },
+      {
+        "word": "món",
+        "start": 17.338,
+        "end": 17.398,
+        "score": 0.013
+      },
+      {
+        "word": "nước.",
+        "start": 17.418,
+        "end": 19.541,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 19.561,
+    "end": 22.886,
+    "text": "Thực tế là tiếng Anh không phân biệt.",
+    "words": [
+      {
+        "word": "Thực",
+        "start": 19.561,
+        "end": 19.861,
+        "score": 0.013
+      },
+      {
+        "word": "tế",
+        "start": 19.881,
+        "end": 20.142,
+        "score": 0.014
+      },
+      {
+        "word": "là",
+        "start": 20.162,
+        "end": 20.242,
+        "score": 0.012
+      },
+      {
+        "word": "tiếng",
+        "start": 20.262,
+        "end": 20.402,
+        "score": 0.012
+      },
+      {
+        "word": "Anh",
+        "start": 20.442,
+        "end": 20.502,
+        "score": 0.01
+      },
+      {
+        "word": "không",
+        "start": 20.522,
+        "end": 20.703,
+        "score": 0.012
+      },
+      {
+        "word": "phân",
+        "start": 20.823,
+        "end": 20.923,
+        "score": 0.011
+      },
+      {
+        "word": "biệt.",
+        "start": 20.983,
+        "end": 22.886,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 23.046,
+    "end": 27.473,
+    "text": "Cả ba đều là súp.",
+    "words": [
+      {
+        "word": "Cả",
+        "start": 23.046,
+        "end": 23.166,
+        "score": 0.012
+      },
+      {
+        "word": "ba",
+        "start": 23.206,
+        "end": 23.267,
+        "score": 0.011
+      },
+      {
+        "word": "đều",
+        "start": 23.287,
+        "end": 23.747,
+        "score": 0.013
+      },
+      {
+        "word": "là",
+        "start": 24.048,
+        "end": 24.268,
+        "score": 0.012
+      },
+      {
+        "word": "súp.",
+        "start": 24.288,
+        "end": 27.473,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 27.453,
+    "end": 34.223,
+    "text": " Còn khi bạn muốn nói về nước dùng của một món nào đó, thì nó không phải water, mà là broth, hoặc stock.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 27.453,
+        "end": 27.514,
+        "score": 0.011
+      },
+      {
+        "word": "khi",
+        "start": 27.534,
+        "end": 27.615,
+        "score": 0.013
+      },
+      {
+        "word": "bạn",
+        "start": 27.635,
+        "end": 27.736,
+        "score": 0.013
+      },
+      {
+        "word": "muốn",
+        "start": 27.837,
+        "end": 27.978,
+        "score": 0.012
+      },
+      {
+        "word": "nói",
+        "start": 27.999,
+        "end": 28.059,
+        "score": 0.011
+      },
+      {
+        "word": "về",
+        "start": 28.079,
+        "end": 28.12,
+        "score": 0.008
+      },
+      {
+        "word": "nước",
+        "start": 28.14,
+        "end": 28.221,
+        "score": 0.011
+      },
+      {
+        "word": "dùng",
+        "start": 28.241,
+        "end": 28.342,
+        "score": 0.013
+      },
+      {
+        "word": "của",
+        "start": 28.403,
+        "end": 28.463,
+        "score": 0.008
+      },
+      {
+        "word": "một",
+        "start": 28.484,
+        "end": 28.544,
+        "score": 0.01
+      },
+      {
+        "word": "món",
+        "start": 28.565,
+        "end": 28.625,
+        "score": 0.01
+      },
+      {
+        "word": "nào",
+        "start": 28.645,
+        "end": 28.706,
+        "score": 0.01
+      },
+      {
+        "word": "đó,",
+        "start": 28.726,
+        "end": 28.787,
+        "score": 0.028
+      },
+      {
+        "word": "thì",
+        "start": 28.807,
+        "end": 28.928,
+        "score": 0.013
+      },
+      {
+        "word": "nó",
+        "start": 28.969,
+        "end": 29.009,
+        "score": 0.012
+      },
+      {
+        "word": "không",
+        "start": 29.05,
+        "end": 29.151,
+        "score": 0.01
+      },
+      {
+        "word": "phải",
+        "start": 29.231,
+        "end": 29.312,
+        "score": 0.011
+      },
+      {
+        "word": "water,",
+        "start": 29.353,
+        "end": 29.656,
+        "score": 0.012
+      },
+      {
+        "word": "mà",
+        "start": 29.676,
+        "end": 29.757,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 29.777,
+        "end": 29.818,
+        "score": 0.014
+      },
+      {
+        "word": "broth,",
+        "start": 29.838,
+        "end": 31.515,
+        "score": 0.012
+      },
+      {
+        "word": "hoặc",
+        "start": 31.596,
+        "end": 32.222,
+        "score": 0.014
+      },
+      {
+        "word": "stock.",
+        "start": 32.263,
+        "end": 34.223,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 15,
+    "segment_start_offset": 260.13
+  },
+  {
+    "start": 0.031,
+    "end": 4.822,
+    "text": " Âm thực của Việt Nam và âm thực ở các nước nói tiếng Anh có rất nhiều thứ chung, ví dụ như bắp cải, cà chua và hành lá.",
+    "words": [
+      {
+        "word": "Âm",
+        "start": 0.031,
+        "end": 0.071,
+        "score": 0.012
+      },
+      {
+        "word": "thực",
+        "start": 0.091,
+        "end": 0.171,
+        "score": 0.012
+      },
+      {
+        "word": "của",
+        "start": 0.191,
+        "end": 0.292,
+        "score": 0.012
+      },
+      {
+        "word": "Việt",
+        "start": 0.312,
+        "end": 0.412,
+        "score": 0.015
+      },
+      {
+        "word": "Nam",
+        "start": 0.452,
+        "end": 0.512,
+        "score": 0.011
+      },
+      {
+        "word": "và",
+        "start": 0.552,
+        "end": 0.592,
+        "score": 0.016
+      },
+      {
+        "word": "âm",
+        "start": 0.612,
+        "end": 0.652,
+        "score": 0.015
+      },
+      {
+        "word": "thực",
+        "start": 0.692,
+        "end": 0.793,
+        "score": 0.012
+      },
+      {
+        "word": "ở",
+        "start": 0.813,
+        "end": 0.833,
+        "score": 0.018
+      },
+      {
+        "word": "các",
+        "start": 0.853,
+        "end": 0.953,
+        "score": 0.013
+      },
+      {
+        "word": "nước",
+        "start": 1.053,
+        "end": 1.133,
+        "score": 0.012
+      },
+      {
+        "word": "nói",
+        "start": 1.414,
+        "end": 1.534,
+        "score": 0.014
+      },
+      {
+        "word": "tiếng",
+        "start": 1.554,
+        "end": 1.695,
+        "score": 0.011
+      },
+      {
+        "word": "Anh",
+        "start": 1.715,
+        "end": 1.835,
+        "score": 0.013
+      },
+      {
+        "word": "có",
+        "start": 1.855,
+        "end": 1.895,
+        "score": 0.013
+      },
+      {
+        "word": "rất",
+        "start": 1.915,
+        "end": 2.076,
+        "score": 0.014
+      },
+      {
+        "word": "nhiều",
+        "start": 2.096,
+        "end": 2.196,
+        "score": 0.011
+      },
+      {
+        "word": "thứ",
+        "start": 2.216,
+        "end": 2.396,
+        "score": 0.013
+      },
+      {
+        "word": "chung,",
+        "start": 2.416,
+        "end": 2.857,
+        "score": 0.015
+      },
+      {
+        "word": "ví",
+        "start": 2.877,
+        "end": 2.917,
+        "score": 0.009
+      },
+      {
+        "word": "dụ",
+        "start": 2.937,
+        "end": 2.978,
+        "score": 0.009
+      },
+      {
+        "word": "như",
+        "start": 2.998,
+        "end": 3.238,
+        "score": 0.012
+      },
+      {
+        "word": "bắp",
+        "start": 3.258,
+        "end": 3.358,
+        "score": 0.015
+      },
+      {
+        "word": "cải,",
+        "start": 3.398,
+        "end": 4.18,
+        "score": 0.013
+      },
+      {
+        "word": "cà",
+        "start": 4.2,
+        "end": 4.24,
+        "score": 0.008
+      },
+      {
+        "word": "chua",
+        "start": 4.26,
+        "end": 4.341,
+        "score": 0.01
+      },
+      {
+        "word": "và",
+        "start": 4.361,
+        "end": 4.401,
+        "score": 0.008
+      },
+      {
+        "word": "hành",
+        "start": 4.421,
+        "end": 4.501,
+        "score": 0.012
+      },
+      {
+        "word": "lá.",
+        "start": 4.521,
+        "end": 4.822,
+        "score": 0.017
+      }
+    ],
+    "segment_id": 16,
+    "segment_start_offset": 297.25
+  },
+  {
+    "start": 4.842,
+    "end": 8.45,
+    "text": "Còn nhiều thứ khác, như sầu riêng, chẳng hạn, thì không có ở nước mình.",
+    "words": [
+      {
+        "word": "Còn",
+        "start": 4.842,
+        "end": 4.962,
+        "score": 0.015
+      },
+      {
+        "word": "nhiều",
+        "start": 5.002,
+        "end": 5.263,
+        "score": 0.013
+      },
+      {
+        "word": "thứ",
+        "start": 5.283,
+        "end": 5.443,
+        "score": 0.014
+      },
+      {
+        "word": "khác,",
+        "start": 5.503,
+        "end": 5.704,
+        "score": 0.014
+      },
+      {
+        "word": "như",
+        "start": 5.724,
+        "end": 5.784,
+        "score": 0.01
+      },
+      {
+        "word": "sầu",
+        "start": 5.864,
+        "end": 5.924,
+        "score": 0.014
+      },
+      {
+        "word": "riêng,",
+        "start": 5.984,
+        "end": 6.545,
+        "score": 0.014
+      },
+      {
+        "word": "chẳng",
+        "start": 6.566,
+        "end": 6.706,
+        "score": 0.014
+      },
+      {
+        "word": "hạn,",
+        "start": 6.766,
+        "end": 7.427,
+        "score": 0.014
+      },
+      {
+        "word": "thì",
+        "start": 7.447,
+        "end": 7.508,
+        "score": 0.016
+      },
+      {
+        "word": "không",
+        "start": 7.548,
+        "end": 7.648,
+        "score": 0.012
+      },
+      {
+        "word": "có",
+        "start": 7.668,
+        "end": 7.728,
+        "score": 0.01
+      },
+      {
+        "word": "ở",
+        "start": 7.748,
+        "end": 7.768,
+        "score": 0.011
+      },
+      {
+        "word": "nước",
+        "start": 7.808,
+        "end": 7.888,
+        "score": 0.013
+      },
+      {
+        "word": "mình.",
+        "start": 7.909,
+        "end": 8.45,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 16,
+    "segment_start_offset": 297.25
+  },
+  {
+    "start": 8.67,
+    "end": 11.436,
+    "text": "Nhưng nó đã nổi tiếng, nên đa số người biết nó là durian.",
+    "words": [
+      {
+        "word": "Nhưng",
+        "start": 8.67,
+        "end": 8.911,
+        "score": 0.011
+      },
+      {
+        "word": "nó",
+        "start": 8.931,
+        "end": 8.971,
+        "score": 0.009
+      },
+      {
+        "word": "đã",
+        "start": 8.991,
+        "end": 9.051,
+        "score": 0.016
+      },
+      {
+        "word": "nổi",
+        "start": 9.111,
+        "end": 9.251,
+        "score": 0.011
+      },
+      {
+        "word": "tiếng,",
+        "start": 9.272,
+        "end": 9.793,
+        "score": 0.015
+      },
+      {
+        "word": "nên",
+        "start": 9.953,
+        "end": 10.053,
+        "score": 0.012
+      },
+      {
+        "word": "đa",
+        "start": 10.073,
+        "end": 10.113,
+        "score": 0.014
+      },
+      {
+        "word": "số",
+        "start": 10.133,
+        "end": 10.174,
+        "score": 0.014
+      },
+      {
+        "word": "người",
+        "start": 10.194,
+        "end": 10.414,
+        "score": 0.014
+      },
+      {
+        "word": "biết",
+        "start": 10.454,
+        "end": 10.554,
+        "score": 0.013
+      },
+      {
+        "word": "nó",
+        "start": 10.574,
+        "end": 10.615,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 10.635,
+        "end": 10.675,
+        "score": 0.013
+      },
+      {
+        "word": "durian.",
+        "start": 10.695,
+        "end": 11.436,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 16,
+    "segment_start_offset": 297.25
+  },
+  {
+    "start": 11.496,
+    "end": 17.39,
+    "text": "Nhưng Việt Nam còn có rất nhiều loại rau và hoa quả mà phản ứng người Tây chưa gặp bao giờ, nên tiếng Anh thực sự không có một từ nào về nó.",
+    "words": [
+      {
+        "word": "Nhưng",
+        "start": 11.496,
+        "end": 11.637,
+        "score": 0.011
+      },
+      {
+        "word": "Việt",
+        "start": 11.677,
+        "end": 11.797,
+        "score": 0.013
+      },
+      {
+        "word": "Nam",
+        "start": 11.857,
+        "end": 11.958,
+        "score": 0.014
+      },
+      {
+        "word": "còn",
+        "start": 11.978,
+        "end": 12.078,
+        "score": 0.013
+      },
+      {
+        "word": "có",
+        "start": 12.098,
+        "end": 12.138,
+        "score": 0.01
+      },
+      {
+        "word": "rất",
+        "start": 12.158,
+        "end": 12.238,
+        "score": 0.012
+      },
+      {
+        "word": "nhiều",
+        "start": 12.298,
+        "end": 12.459,
+        "score": 0.013
+      },
+      {
+        "word": "loại",
+        "start": 12.479,
+        "end": 12.679,
+        "score": 0.012
+      },
+      {
+        "word": "rau",
+        "start": 12.699,
+        "end": 12.839,
+        "score": 0.013
+      },
+      {
+        "word": "và",
+        "start": 13.0,
+        "end": 13.04,
+        "score": 0.014
+      },
+      {
+        "word": "hoa",
+        "start": 13.06,
+        "end": 13.26,
+        "score": 0.013
+      },
+      {
+        "word": "quả",
+        "start": 13.28,
+        "end": 13.341,
+        "score": 0.011
+      },
+      {
+        "word": "mà",
+        "start": 13.361,
+        "end": 13.461,
+        "score": 0.012
+      },
+      {
+        "word": "phản",
+        "start": 13.481,
+        "end": 13.681,
+        "score": 0.014
+      },
+      {
+        "word": "ứng",
+        "start": 13.701,
+        "end": 13.822,
+        "score": 0.014
+      },
+      {
+        "word": "người",
+        "start": 14.142,
+        "end": 14.243,
+        "score": 0.014
+      },
+      {
+        "word": "Tây",
+        "start": 14.263,
+        "end": 14.323,
+        "score": 0.014
+      },
+      {
+        "word": "chưa",
+        "start": 14.423,
+        "end": 14.503,
+        "score": 0.012
+      },
+      {
+        "word": "gặp",
+        "start": 14.623,
+        "end": 14.744,
+        "score": 0.014
+      },
+      {
+        "word": "bao",
+        "start": 14.904,
+        "end": 14.964,
+        "score": 0.012
+      },
+      {
+        "word": "giờ,",
+        "start": 14.984,
+        "end": 15.786,
+        "score": 0.015
+      },
+      {
+        "word": "nên",
+        "start": 15.846,
+        "end": 15.986,
+        "score": 0.012
+      },
+      {
+        "word": "tiếng",
+        "start": 16.007,
+        "end": 16.107,
+        "score": 0.011
+      },
+      {
+        "word": "Anh",
+        "start": 16.127,
+        "end": 16.187,
+        "score": 0.013
+      },
+      {
+        "word": "thực",
+        "start": 16.207,
+        "end": 16.367,
+        "score": 0.013
+      },
+      {
+        "word": "sự",
+        "start": 16.387,
+        "end": 16.488,
+        "score": 0.013
+      },
+      {
+        "word": "không",
+        "start": 16.508,
+        "end": 16.628,
+        "score": 0.009
+      },
+      {
+        "word": "có",
+        "start": 16.648,
+        "end": 16.768,
+        "score": 0.012
+      },
+      {
+        "word": "một",
+        "start": 16.788,
+        "end": 16.909,
+        "score": 0.016
+      },
+      {
+        "word": "từ",
+        "start": 16.929,
+        "end": 16.969,
+        "score": 0.008
+      },
+      {
+        "word": "nào",
+        "start": 17.049,
+        "end": 17.109,
+        "score": 0.015
+      },
+      {
+        "word": "về",
+        "start": 17.169,
+        "end": 17.209,
+        "score": 0.013
+      },
+      {
+        "word": "nó.",
+        "start": 17.229,
+        "end": 17.39,
+        "score": 0.018
+      }
+    ],
+    "segment_id": 16,
+    "segment_start_offset": 297.25
+  },
+  {
+    "start": 17.41,
+    "end": 20.076,
+    "text": "Hoặc ít nhất là từ đấy không thông dụng chút nào.",
+    "words": [
+      {
+        "word": "Hoặc",
+        "start": 17.41,
+        "end": 17.49,
+        "score": 0.01
+      },
+      {
+        "word": "ít",
+        "start": 17.51,
+        "end": 17.57,
+        "score": 0.014
+      },
+      {
+        "word": "nhất",
+        "start": 17.71,
+        "end": 18.031,
+        "score": 0.015
+      },
+      {
+        "word": "là",
+        "start": 18.251,
+        "end": 18.292,
+        "score": 0.01
+      },
+      {
+        "word": "từ",
+        "start": 18.312,
+        "end": 18.392,
+        "score": 0.014
+      },
+      {
+        "word": "đấy",
+        "start": 18.412,
+        "end": 18.572,
+        "score": 0.011
+      },
+      {
+        "word": "không",
+        "start": 18.612,
+        "end": 18.773,
+        "score": 0.013
+      },
+      {
+        "word": "thông",
+        "start": 18.793,
+        "end": 19.153,
+        "score": 0.011
+      },
+      {
+        "word": "dụng",
+        "start": 19.174,
+        "end": 19.354,
+        "score": 0.011
+      },
+      {
+        "word": "chút",
+        "start": 19.394,
+        "end": 19.855,
+        "score": 0.013
+      },
+      {
+        "word": "nào.",
+        "start": 19.875,
+        "end": 20.076,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 16,
+    "segment_start_offset": 297.25
+  },
+  {
+    "start": 20.196,
+    "end": 27.051,
+    "text": "Bây giờ, mình sẽ giới thiệu chúng.",
+    "words": [
+      {
+        "word": "Bây",
+        "start": 20.196,
+        "end": 20.396,
+        "score": 0.011
+      },
+      {
+        "word": "giờ,",
+        "start": 20.416,
+        "end": 25.247,
+        "score": 0.014
+      },
+      {
+        "word": "mình",
+        "start": 25.267,
+        "end": 25.407,
+        "score": 0.014
+      },
+      {
+        "word": "sẽ",
+        "start": 25.447,
+        "end": 25.508,
+        "score": 0.014
+      },
+      {
+        "word": "giới",
+        "start": 25.528,
+        "end": 25.668,
+        "score": 0.012
+      },
+      {
+        "word": "thiệu",
+        "start": 25.688,
+        "end": 25.868,
+        "score": 0.012
+      },
+      {
+        "word": "chúng.",
+        "start": 26.029,
+        "end": 27.051,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 16,
+    "segment_start_offset": 297.25
+  },
+  {
+    "start": 0.031,
+    "end": 11.233,
+    "text": " Kinh giới, tia tô, mồm tây, dầu ngọt, hoài thiên lý, dọc mồm, cần ta, sư sư, ngài cứu, mùi tàu, dầu muống, dâu ngỗ, diếp cá, quả trông trông, quả xấu, quả cóp, quả bòng bong, quả gú sữa, quả roi, quả na, và quả mãn cầu.",
+    "words": [
+      {
+        "word": "Kinh",
+        "start": 0.031,
+        "end": 0.111,
+        "score": 0.012
+      },
+      {
+        "word": "giới,",
+        "start": 0.131,
+        "end": 0.231,
+        "score": 0.015
+      },
+      {
+        "word": "tia",
+        "start": 0.251,
+        "end": 0.312,
+        "score": 0.012
+      },
+      {
+        "word": "tô,",
+        "start": 0.332,
+        "end": 0.392,
+        "score": 0.014
+      },
+      {
+        "word": "mồm",
+        "start": 0.412,
+        "end": 0.472,
+        "score": 0.011
+      },
+      {
+        "word": "tây,",
+        "start": 0.492,
+        "end": 0.592,
+        "score": 0.012
+      },
+      {
+        "word": "dầu",
+        "start": 0.612,
+        "end": 0.692,
+        "score": 0.016
+      },
+      {
+        "word": "ngọt,",
+        "start": 0.712,
+        "end": 0.853,
+        "score": 0.013
+      },
+      {
+        "word": "hoài",
+        "start": 0.873,
+        "end": 0.953,
+        "score": 0.01
+      },
+      {
+        "word": "thiên",
+        "start": 0.973,
+        "end": 1.073,
+        "score": 0.01
+      },
+      {
+        "word": "lý,",
+        "start": 1.093,
+        "end": 1.293,
+        "score": 0.014
+      },
+      {
+        "word": "dọc",
+        "start": 1.314,
+        "end": 1.374,
+        "score": 0.011
+      },
+      {
+        "word": "mồm,",
+        "start": 1.394,
+        "end": 1.474,
+        "score": 0.014
+      },
+      {
+        "word": "cần",
+        "start": 1.494,
+        "end": 1.554,
+        "score": 0.013
+      },
+      {
+        "word": "ta,",
+        "start": 1.574,
+        "end": 1.634,
+        "score": 0.015
+      },
+      {
+        "word": "sư",
+        "start": 1.654,
+        "end": 1.694,
+        "score": 0.01
+      },
+      {
+        "word": "sư,",
+        "start": 1.714,
+        "end": 1.774,
+        "score": 0.013
+      },
+      {
+        "word": "ngài",
+        "start": 1.794,
+        "end": 1.875,
+        "score": 0.01
+      },
+      {
+        "word": "cứu,",
+        "start": 1.895,
+        "end": 1.975,
+        "score": 0.017
+      },
+      {
+        "word": "mùi",
+        "start": 1.995,
+        "end": 2.055,
+        "score": 0.01
+      },
+      {
+        "word": "tàu,",
+        "start": 2.075,
+        "end": 2.175,
+        "score": 0.013
+      },
+      {
+        "word": "dầu",
+        "start": 2.195,
+        "end": 2.376,
+        "score": 0.011
+      },
+      {
+        "word": "muống,",
+        "start": 2.396,
+        "end": 2.516,
+        "score": 0.016
+      },
+      {
+        "word": "dâu",
+        "start": 2.536,
+        "end": 2.596,
+        "score": 0.008
+      },
+      {
+        "word": "ngỗ,",
+        "start": 2.616,
+        "end": 2.696,
+        "score": 0.016
+      },
+      {
+        "word": "diếp",
+        "start": 2.716,
+        "end": 2.796,
+        "score": 0.01
+      },
+      {
+        "word": "cá,",
+        "start": 2.816,
+        "end": 3.277,
+        "score": 0.014
+      },
+      {
+        "word": "quả",
+        "start": 3.297,
+        "end": 3.358,
+        "score": 0.012
+      },
+      {
+        "word": "trông",
+        "start": 3.378,
+        "end": 3.478,
+        "score": 0.011
+      },
+      {
+        "word": "trông,",
+        "start": 3.498,
+        "end": 3.618,
+        "score": 0.015
+      },
+      {
+        "word": "quả",
+        "start": 3.638,
+        "end": 3.698,
+        "score": 0.01
+      },
+      {
+        "word": "xấu,",
+        "start": 3.718,
+        "end": 4.079,
+        "score": 0.011
+      },
+      {
+        "word": "quả",
+        "start": 4.099,
+        "end": 4.159,
+        "score": 0.01
+      },
+      {
+        "word": "cóp,",
+        "start": 4.179,
+        "end": 4.279,
+        "score": 0.014
+      },
+      {
+        "word": "quả",
+        "start": 4.299,
+        "end": 4.36,
+        "score": 0.01
+      },
+      {
+        "word": "bòng",
+        "start": 4.38,
+        "end": 4.5,
+        "score": 0.011
+      },
+      {
+        "word": "bong,",
+        "start": 4.52,
+        "end": 4.72,
+        "score": 0.015
+      },
+      {
+        "word": "quả",
+        "start": 4.74,
+        "end": 4.8,
+        "score": 0.013
+      },
+      {
+        "word": "gú",
+        "start": 4.82,
+        "end": 4.86,
+        "score": 0.012
+      },
+      {
+        "word": "sữa,",
+        "start": 4.881,
+        "end": 4.981,
+        "score": 0.015
+      },
+      {
+        "word": "quả",
+        "start": 5.001,
+        "end": 5.061,
+        "score": 0.011
+      },
+      {
+        "word": "roi,",
+        "start": 5.081,
+        "end": 5.161,
+        "score": 0.017
+      },
+      {
+        "word": "quả",
+        "start": 5.181,
+        "end": 5.241,
+        "score": 0.009
+      },
+      {
+        "word": "na,",
+        "start": 5.261,
+        "end": 5.642,
+        "score": 0.012
+      },
+      {
+        "word": "và",
+        "start": 5.682,
+        "end": 5.722,
+        "score": 0.008
+      },
+      {
+        "word": "quả",
+        "start": 5.742,
+        "end": 5.802,
+        "score": 0.01
+      },
+      {
+        "word": "mãn",
+        "start": 5.822,
+        "end": 5.883,
+        "score": 0.012
+      },
+      {
+        "word": "cầu.",
+        "start": 5.903,
+        "end": 11.233,
+        "score": 0.016
+      }
+    ],
+    "segment_id": 17,
+    "segment_start_offset": 325.282
+  },
+  {
+    "start": 11.253,
+    "end": 15.862,
+    "text": "Wow!",
+    "words": [
+      {
+        "word": "Wow!",
+        "start": 11.253,
+        "end": 15.862,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 17,
+    "segment_start_offset": 325.282
+  },
+  {
+    "start": 15.982,
+    "end": 17.004,
+    "text": "Ẩm thực Việt Nam phong phú lắm!",
+    "words": [
+      {
+        "word": "Ẩm",
+        "start": 15.982,
+        "end": 16.022,
+        "score": 0.018
+      },
+      {
+        "word": "thực",
+        "start": 16.042,
+        "end": 16.163,
+        "score": 0.009
+      },
+      {
+        "word": "Việt",
+        "start": 16.183,
+        "end": 16.303,
+        "score": 0.014
+      },
+      {
+        "word": "Nam",
+        "start": 16.343,
+        "end": 16.463,
+        "score": 0.011
+      },
+      {
+        "word": "phong",
+        "start": 16.483,
+        "end": 16.604,
+        "score": 0.01
+      },
+      {
+        "word": "phú",
+        "start": 16.624,
+        "end": 16.684,
+        "score": 0.011
+      },
+      {
+        "word": "lắm!",
+        "start": 16.704,
+        "end": 17.004,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 17,
+    "segment_start_offset": 325.282
+  },
+  {
+    "start": 17.024,
+    "end": 20.191,
+    "text": "Tại sao mình vẫn đang làm video?",
+    "words": [
+      {
+        "word": "Tại",
+        "start": 17.024,
+        "end": 17.105,
+        "score": 0.012
+      },
+      {
+        "word": "sao",
+        "start": 17.485,
+        "end": 17.606,
+        "score": 0.015
+      },
+      {
+        "word": "mình",
+        "start": 17.626,
+        "end": 17.846,
+        "score": 0.014
+      },
+      {
+        "word": "vẫn",
+        "start": 17.946,
+        "end": 18.006,
+        "score": 0.014
+      },
+      {
+        "word": "đang",
+        "start": 18.026,
+        "end": 18.107,
+        "score": 0.01
+      },
+      {
+        "word": "làm",
+        "start": 18.127,
+        "end": 18.187,
+        "score": 0.012
+      },
+      {
+        "word": "video?",
+        "start": 18.347,
+        "end": 20.191,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 17,
+    "segment_start_offset": 325.282
+  },
+  {
+    "start": 20.211,
+    "end": 23.457,
+    "text": "Mình đi ăn đây!",
+    "words": [
+      {
+        "word": "Mình",
+        "start": 20.211,
+        "end": 20.291,
+        "score": 0.01
+      },
+      {
+        "word": "đi",
+        "start": 20.311,
+        "end": 20.371,
+        "score": 0.012
+      },
+      {
+        "word": "ăn",
+        "start": 20.451,
+        "end": 20.872,
+        "score": 0.012
+      },
+      {
+        "word": "đây!",
+        "start": 21.032,
+        "end": 23.457,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 17,
+    "segment_start_offset": 325.282
+  },
+  {
+    "start": 0.031,
+    "end": 1.402,
+    "text": " Mình còn một hứa ý cho các bạn.",
+    "words": [
+      {
+        "word": "Mình",
+        "start": 0.031,
+        "end": 0.114,
+        "score": 0.012
+      },
+      {
+        "word": "còn",
+        "start": 0.135,
+        "end": 0.197,
+        "score": 0.01
+      },
+      {
+        "word": "một",
+        "start": 0.218,
+        "end": 0.28,
+        "score": 0.013
+      },
+      {
+        "word": "hứa",
+        "start": 0.301,
+        "end": 0.363,
+        "score": 0.012
+      },
+      {
+        "word": "ý",
+        "start": 0.384,
+        "end": 0.405,
+        "score": 0.025
+      },
+      {
+        "word": "cho",
+        "start": 0.467,
+        "end": 0.592,
+        "score": 0.01
+      },
+      {
+        "word": "các",
+        "start": 0.613,
+        "end": 0.779,
+        "score": 0.015
+      },
+      {
+        "word": "bạn.",
+        "start": 0.799,
+        "end": 1.402,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 18,
+    "segment_start_offset": 352.77
+  },
+  {
+    "start": 0.031,
+    "end": 5.076,
+    "text": " Nếu thắc mắc về một loại thực phẩm nào đó, thì nhiều khi tốt hơn sử dụng các tờ điển là sử dụng Wikipedia.",
+    "words": [
+      {
+        "word": "Nếu",
+        "start": 0.031,
+        "end": 0.091,
+        "score": 0.008
+      },
+      {
+        "word": "thắc",
+        "start": 0.111,
+        "end": 0.192,
+        "score": 0.012
+      },
+      {
+        "word": "mắc",
+        "start": 0.212,
+        "end": 0.353,
+        "score": 0.011
+      },
+      {
+        "word": "về",
+        "start": 0.373,
+        "end": 0.453,
+        "score": 0.01
+      },
+      {
+        "word": "một",
+        "start": 0.513,
+        "end": 0.574,
+        "score": 0.011
+      },
+      {
+        "word": "loại",
+        "start": 0.594,
+        "end": 0.735,
+        "score": 0.012
+      },
+      {
+        "word": "thực",
+        "start": 0.976,
+        "end": 1.096,
+        "score": 0.012
+      },
+      {
+        "word": "phẩm",
+        "start": 1.116,
+        "end": 1.358,
+        "score": 0.012
+      },
+      {
+        "word": "nào",
+        "start": 1.378,
+        "end": 1.438,
+        "score": 0.013
+      },
+      {
+        "word": "đó,",
+        "start": 1.478,
+        "end": 2.021,
+        "score": 0.014
+      },
+      {
+        "word": "thì",
+        "start": 2.101,
+        "end": 2.282,
+        "score": 0.011
+      },
+      {
+        "word": "nhiều",
+        "start": 2.302,
+        "end": 2.443,
+        "score": 0.016
+      },
+      {
+        "word": "khi",
+        "start": 2.523,
+        "end": 2.584,
+        "score": 0.012
+      },
+      {
+        "word": "tốt",
+        "start": 2.624,
+        "end": 2.745,
+        "score": 0.011
+      },
+      {
+        "word": "hơn",
+        "start": 2.825,
+        "end": 2.986,
+        "score": 0.013
+      },
+      {
+        "word": "sử",
+        "start": 3.006,
+        "end": 3.106,
+        "score": 0.011
+      },
+      {
+        "word": "dụng",
+        "start": 3.126,
+        "end": 3.307,
+        "score": 0.013
+      },
+      {
+        "word": "các",
+        "start": 3.388,
+        "end": 3.669,
+        "score": 0.012
+      },
+      {
+        "word": "tờ",
+        "start": 3.689,
+        "end": 4.011,
+        "score": 0.012
+      },
+      {
+        "word": "điển",
+        "start": 4.031,
+        "end": 4.332,
+        "score": 0.012
+      },
+      {
+        "word": "là",
+        "start": 4.393,
+        "end": 4.433,
+        "score": 0.011
+      },
+      {
+        "word": "sử",
+        "start": 4.513,
+        "end": 4.574,
+        "score": 0.013
+      },
+      {
+        "word": "dụng",
+        "start": 4.674,
+        "end": 4.755,
+        "score": 0.012
+      },
+      {
+        "word": "Wikipedia.",
+        "start": 4.775,
+        "end": 5.076,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 19,
+    "segment_start_offset": 354.658
+  },
+  {
+    "start": 5.116,
+    "end": 8.674,
+    "text": "Làm theo cách này nhé, vào Wikipedia tiếng Việt.",
+    "words": [
+      {
+        "word": "Làm",
+        "start": 5.116,
+        "end": 5.257,
+        "score": 0.012
+      },
+      {
+        "word": "theo",
+        "start": 5.277,
+        "end": 5.358,
+        "score": 0.012
+      },
+      {
+        "word": "cách",
+        "start": 5.639,
+        "end": 5.86,
+        "score": 0.012
+      },
+      {
+        "word": "này",
+        "start": 6.121,
+        "end": 6.242,
+        "score": 0.013
+      },
+      {
+        "word": "nhé,",
+        "start": 6.262,
+        "end": 6.363,
+        "score": 0.016
+      },
+      {
+        "word": "vào",
+        "start": 6.383,
+        "end": 6.986,
+        "score": 0.012
+      },
+      {
+        "word": "Wikipedia",
+        "start": 7.006,
+        "end": 7.709,
+        "score": 0.013
+      },
+      {
+        "word": "tiếng",
+        "start": 7.729,
+        "end": 7.89,
+        "score": 0.014
+      },
+      {
+        "word": "Việt.",
+        "start": 8.272,
+        "end": 8.674,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 19,
+    "segment_start_offset": 354.658
+  },
+  {
+    "start": 0.031,
+    "end": 5.537,
+    "text": " tìm kiếm Nam Hương Tràng Hạn, rồi tại tràng đấy thì xuống dưới và chọn tiếng Anh.",
+    "words": [
+      {
+        "word": "tìm",
+        "start": 0.031,
+        "end": 0.111,
+        "score": 0.014
+      },
+      {
+        "word": "kiếm",
+        "start": 0.131,
+        "end": 0.272,
+        "score": 0.012
+      },
+      {
+        "word": "Nam",
+        "start": 0.292,
+        "end": 0.353,
+        "score": 0.012
+      },
+      {
+        "word": "Hương",
+        "start": 0.373,
+        "end": 0.895,
+        "score": 0.011
+      },
+      {
+        "word": "Tràng",
+        "start": 0.915,
+        "end": 1.237,
+        "score": 0.011
+      },
+      {
+        "word": "Hạn,",
+        "start": 1.257,
+        "end": 1.819,
+        "score": 0.015
+      },
+      {
+        "word": "rồi",
+        "start": 1.84,
+        "end": 1.9,
+        "score": 0.013
+      },
+      {
+        "word": "tại",
+        "start": 1.98,
+        "end": 2.041,
+        "score": 0.01
+      },
+      {
+        "word": "tràng",
+        "start": 2.061,
+        "end": 2.241,
+        "score": 0.011
+      },
+      {
+        "word": "đấy",
+        "start": 2.262,
+        "end": 2.382,
+        "score": 0.013
+      },
+      {
+        "word": "thì",
+        "start": 2.463,
+        "end": 2.543,
+        "score": 0.011
+      },
+      {
+        "word": "xuống",
+        "start": 2.563,
+        "end": 2.885,
+        "score": 0.013
+      },
+      {
+        "word": "dưới",
+        "start": 2.905,
+        "end": 3.106,
+        "score": 0.012
+      },
+      {
+        "word": "và",
+        "start": 3.286,
+        "end": 3.367,
+        "score": 0.011
+      },
+      {
+        "word": "chọn",
+        "start": 3.608,
+        "end": 3.729,
+        "score": 0.011
+      },
+      {
+        "word": "tiếng",
+        "start": 3.749,
+        "end": 3.99,
+        "score": 0.011
+      },
+      {
+        "word": "Anh.",
+        "start": 4.01,
+        "end": 5.537,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 20,
+    "segment_start_offset": 363.842
+  },
+  {
+    "start": 5.839,
+    "end": 9.436,
+    "text": "Các bạn sẽ thấy là kết quả của Wikipedia chính xác hơn nhiều so với kết quả của các tờ điển.",
+    "words": [
+      {
+        "word": "Các",
+        "start": 5.839,
+        "end": 5.939,
+        "score": 0.014
+      },
+      {
+        "word": "bạn",
+        "start": 5.999,
+        "end": 6.06,
+        "score": 0.012
+      },
+      {
+        "word": "sẽ",
+        "start": 6.08,
+        "end": 6.12,
+        "score": 0.014
+      },
+      {
+        "word": "thấy",
+        "start": 6.18,
+        "end": 6.281,
+        "score": 0.01
+      },
+      {
+        "word": "là",
+        "start": 6.301,
+        "end": 6.341,
+        "score": 0.01
+      },
+      {
+        "word": "kết",
+        "start": 6.361,
+        "end": 6.441,
+        "score": 0.012
+      },
+      {
+        "word": "quả",
+        "start": 6.582,
+        "end": 6.642,
+        "score": 0.011
+      },
+      {
+        "word": "của",
+        "start": 6.662,
+        "end": 6.783,
+        "score": 0.011
+      },
+      {
+        "word": "Wikipedia",
+        "start": 6.803,
+        "end": 6.984,
+        "score": 0.013
+      },
+      {
+        "word": "chính",
+        "start": 7.004,
+        "end": 7.105,
+        "score": 0.016
+      },
+      {
+        "word": "xác",
+        "start": 7.125,
+        "end": 7.185,
+        "score": 0.011
+      },
+      {
+        "word": "hơn",
+        "start": 7.205,
+        "end": 7.265,
+        "score": 0.012
+      },
+      {
+        "word": "nhiều",
+        "start": 7.285,
+        "end": 7.446,
+        "score": 0.014
+      },
+      {
+        "word": "so",
+        "start": 7.527,
+        "end": 7.607,
+        "score": 0.012
+      },
+      {
+        "word": "với",
+        "start": 7.647,
+        "end": 7.808,
+        "score": 0.013
+      },
+      {
+        "word": "kết",
+        "start": 7.828,
+        "end": 8.371,
+        "score": 0.014
+      },
+      {
+        "word": "quả",
+        "start": 8.411,
+        "end": 8.491,
+        "score": 0.008
+      },
+      {
+        "word": "của",
+        "start": 8.511,
+        "end": 8.572,
+        "score": 0.011
+      },
+      {
+        "word": "các",
+        "start": 8.592,
+        "end": 8.672,
+        "score": 0.012
+      },
+      {
+        "word": "tờ",
+        "start": 8.732,
+        "end": 8.833,
+        "score": 0.017
+      },
+      {
+        "word": "điển.",
+        "start": 8.853,
+        "end": 9.436,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 20,
+    "segment_start_offset": 363.842
+  },
+  {
+    "start": 9.476,
+    "end": 11.445,
+    "text": "Chúc các bạn tự tìm hiểu thành công nhé.",
+    "words": [
+      {
+        "word": "Chúc",
+        "start": 9.476,
+        "end": 9.596,
+        "score": 0.012
+      },
+      {
+        "word": "các",
+        "start": 9.617,
+        "end": 9.757,
+        "score": 0.012
+      },
+      {
+        "word": "bạn",
+        "start": 9.777,
+        "end": 9.878,
+        "score": 0.014
+      },
+      {
+        "word": "tự",
+        "start": 10.079,
+        "end": 10.34,
+        "score": 0.014
+      },
+      {
+        "word": "tìm",
+        "start": 10.42,
+        "end": 10.481,
+        "score": 0.013
+      },
+      {
+        "word": "hiểu",
+        "start": 10.501,
+        "end": 10.762,
+        "score": 0.011
+      },
+      {
+        "word": "thành",
+        "start": 10.782,
+        "end": 10.903,
+        "score": 0.014
+      },
+      {
+        "word": "công",
+        "start": 10.923,
+        "end": 11.003,
+        "score": 0.012
+      },
+      {
+        "word": "nhé.",
+        "start": 11.023,
+        "end": 11.445,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 20,
+    "segment_start_offset": 363.842
+  },
+  {
+    "start": 11.465,
+    "end": 14.158,
+    "text": "Và chúc các bạn ăn ngon miệng nữa.",
+    "words": [
+      {
+        "word": "Và",
+        "start": 11.465,
+        "end": 11.526,
+        "score": 0.012
+      },
+      {
+        "word": "chúc",
+        "start": 11.566,
+        "end": 12.008,
+        "score": 0.012
+      },
+      {
+        "word": "các",
+        "start": 12.048,
+        "end": 12.189,
+        "score": 0.011
+      },
+      {
+        "word": "bạn",
+        "start": 12.309,
+        "end": 12.37,
+        "score": 0.012
+      },
+      {
+        "word": "ăn",
+        "start": 12.39,
+        "end": 12.43,
+        "score": 0.014
+      },
+      {
+        "word": "ngon",
+        "start": 12.51,
+        "end": 12.591,
+        "score": 0.012
+      },
+      {
+        "word": "miệng",
+        "start": 12.731,
+        "end": 13.153,
+        "score": 0.013
+      },
+      {
+        "word": "nữa.",
+        "start": 13.173,
+        "end": 14.158,
+        "score": 0.015
+      }
+    ],
+    "segment_id": 20,
+    "segment_start_offset": 363.842
+  },
+  {
+    "start": 0.031,
+    "end": 0.86,
+    "text": " OK. Còn một điều nữa.",
+    "words": [
+      {
+        "word": "OK.",
+        "start": 0.031,
+        "end": 0.092,
+        "score": 0.014
+      },
+      {
+        "word": "Còn",
+        "start": 0.112,
+        "end": 0.172,
+        "score": 0.01
+      },
+      {
+        "word": "một",
+        "start": 0.193,
+        "end": 0.253,
+        "score": 0.014
+      },
+      {
+        "word": "điều",
+        "start": 0.274,
+        "end": 0.354,
+        "score": 0.012
+      },
+      {
+        "word": "nữa.",
+        "start": 0.375,
+        "end": 0.86,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 21,
+    "segment_start_offset": 380.386
+  },
+  {
+    "start": 1.001,
+    "end": 4.962,
+    "text": "Mình muốn cảm ơn tất cả mọi người đang ủng hộ mình trên kênh này.",
+    "words": [
+      {
+        "word": "Mình",
+        "start": 1.001,
+        "end": 1.183,
+        "score": 0.011
+      },
+      {
+        "word": "muốn",
+        "start": 1.203,
+        "end": 1.587,
+        "score": 0.012
+      },
+      {
+        "word": "cảm",
+        "start": 1.628,
+        "end": 1.708,
+        "score": 0.011
+      },
+      {
+        "word": "ơn",
+        "start": 1.729,
+        "end": 1.769,
+        "score": 0.011
+      },
+      {
+        "word": "tất",
+        "start": 1.789,
+        "end": 1.85,
+        "score": 0.012
+      },
+      {
+        "word": "cả",
+        "start": 1.87,
+        "end": 1.931,
+        "score": 0.012
+      },
+      {
+        "word": "mọi",
+        "start": 1.951,
+        "end": 2.012,
+        "score": 0.01
+      },
+      {
+        "word": "người",
+        "start": 2.193,
+        "end": 2.375,
+        "score": 0.011
+      },
+      {
+        "word": "đang",
+        "start": 2.396,
+        "end": 2.497,
+        "score": 0.012
+      },
+      {
+        "word": "ủng",
+        "start": 2.517,
+        "end": 2.577,
+        "score": 0.013
+      },
+      {
+        "word": "hộ",
+        "start": 2.598,
+        "end": 2.699,
+        "score": 0.014
+      },
+      {
+        "word": "mình",
+        "start": 2.8,
+        "end": 2.881,
+        "score": 0.016
+      },
+      {
+        "word": "trên",
+        "start": 2.941,
+        "end": 3.042,
+        "score": 0.012
+      },
+      {
+        "word": "kênh",
+        "start": 3.103,
+        "end": 3.265,
+        "score": 0.012
+      },
+      {
+        "word": "này.",
+        "start": 3.305,
+        "end": 4.962,
+        "score": 0.016
+      }
+    ],
+    "segment_id": 21,
+    "segment_start_offset": 380.386
+  },
+  {
+    "start": 0.031,
+    "end": 2.719,
+    "text": " Nhưng các bạn biết rằng Dan không tự làm hết các video này, đúng không?",
+    "words": [
+      {
+        "word": "Nhưng",
+        "start": 0.031,
+        "end": 0.472,
+        "score": 0.013
+      },
+      {
+        "word": "các",
+        "start": 0.492,
+        "end": 0.553,
+        "score": 0.013
+      },
+      {
+        "word": "bạn",
+        "start": 0.573,
+        "end": 0.733,
+        "score": 0.011
+      },
+      {
+        "word": "biết",
+        "start": 0.753,
+        "end": 1.014,
+        "score": 0.014
+      },
+      {
+        "word": "rằng",
+        "start": 1.094,
+        "end": 1.295,
+        "score": 0.016
+      },
+      {
+        "word": "Dan",
+        "start": 1.355,
+        "end": 1.415,
+        "score": 0.017
+      },
+      {
+        "word": "không",
+        "start": 1.495,
+        "end": 1.616,
+        "score": 0.011
+      },
+      {
+        "word": "tự",
+        "start": 1.636,
+        "end": 1.676,
+        "score": 0.01
+      },
+      {
+        "word": "làm",
+        "start": 1.716,
+        "end": 1.776,
+        "score": 0.013
+      },
+      {
+        "word": "hết",
+        "start": 1.796,
+        "end": 1.937,
+        "score": 0.012
+      },
+      {
+        "word": "các",
+        "start": 1.957,
+        "end": 2.077,
+        "score": 0.014
+      },
+      {
+        "word": "video",
+        "start": 2.097,
+        "end": 2.197,
+        "score": 0.015
+      },
+      {
+        "word": "này,",
+        "start": 2.218,
+        "end": 2.318,
+        "score": 0.012
+      },
+      {
+        "word": "đúng",
+        "start": 2.338,
+        "end": 2.418,
+        "score": 0.013
+      },
+      {
+        "word": "không?",
+        "start": 2.438,
+        "end": 2.719,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 22,
+    "segment_start_offset": 385.826
+  },
+  {
+    "start": 2.739,
+    "end": 3.802,
+    "text": "Người yêu của Dan giúp rất nhiều.",
+    "words": [
+      {
+        "word": "Người",
+        "start": 2.739,
+        "end": 2.839,
+        "score": 0.012
+      },
+      {
+        "word": "yêu",
+        "start": 2.88,
+        "end": 3.0,
+        "score": 0.012
+      },
+      {
+        "word": "của",
+        "start": 3.02,
+        "end": 3.1,
+        "score": 0.01
+      },
+      {
+        "word": "Dan",
+        "start": 3.12,
+        "end": 3.18,
+        "score": 0.013
+      },
+      {
+        "word": "giúp",
+        "start": 3.2,
+        "end": 3.281,
+        "score": 0.01
+      },
+      {
+        "word": "rất",
+        "start": 3.301,
+        "end": 3.361,
+        "score": 0.013
+      },
+      {
+        "word": "nhiều.",
+        "start": 3.381,
+        "end": 3.802,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 22,
+    "segment_start_offset": 385.826
+  },
+  {
+    "start": 3.822,
+    "end": 4.805,
+    "text": "Ví dụ trong cảnh này.",
+    "words": [
+      {
+        "word": "Ví",
+        "start": 3.822,
+        "end": 3.883,
+        "score": 0.01
+      },
+      {
+        "word": "dụ",
+        "start": 3.903,
+        "end": 3.943,
+        "score": 0.014
+      },
+      {
+        "word": "trong",
+        "start": 3.963,
+        "end": 4.123,
+        "score": 0.015
+      },
+      {
+        "word": "cảnh",
+        "start": 4.143,
+        "end": 4.224,
+        "score": 0.01
+      },
+      {
+        "word": "này.",
+        "start": 4.244,
+        "end": 4.805,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 22,
+    "segment_start_offset": 385.826
+  },
+  {
+    "start": 4.825,
+    "end": 6.169,
+    "text": "Các bạn nghĩ ai đang xào thịt gà đấy?",
+    "words": [
+      {
+        "word": "Các",
+        "start": 4.825,
+        "end": 4.926,
+        "score": 0.011
+      },
+      {
+        "word": "bạn",
+        "start": 4.946,
+        "end": 5.026,
+        "score": 0.012
+      },
+      {
+        "word": "nghĩ",
+        "start": 5.086,
+        "end": 5.166,
+        "score": 0.012
+      },
+      {
+        "word": "ai",
+        "start": 5.206,
+        "end": 5.267,
+        "score": 0.012
+      },
+      {
+        "word": "đang",
+        "start": 5.327,
+        "end": 5.527,
+        "score": 0.013
+      },
+      {
+        "word": "xào",
+        "start": 5.548,
+        "end": 5.748,
+        "score": 0.013
+      },
+      {
+        "word": "thịt",
+        "start": 5.788,
+        "end": 5.868,
+        "score": 0.015
+      },
+      {
+        "word": "gà",
+        "start": 5.909,
+        "end": 5.949,
+        "score": 0.01
+      },
+      {
+        "word": "đấy?",
+        "start": 5.969,
+        "end": 6.169,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 22,
+    "segment_start_offset": 385.826
+  },
+  {
+    "start": 6.189,
+    "end": 6.711,
+    "text": "Hoặc ở cạnh này.",
+    "words": [
+      {
+        "word": "Hoặc",
+        "start": 6.189,
+        "end": 6.29,
+        "score": 0.013
+      },
+      {
+        "word": "ở",
+        "start": 6.33,
+        "end": 6.35,
+        "score": 0.016
+      },
+      {
+        "word": "cạnh",
+        "start": 6.37,
+        "end": 6.47,
+        "score": 0.013
+      },
+      {
+        "word": "này.",
+        "start": 6.49,
+        "end": 6.711,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 22,
+    "segment_start_offset": 385.826
+  },
+  {
+    "start": 6.731,
+    "end": 9.259,
+    "text": "Cai chân của Dan không cao như thế.",
+    "words": [
+      {
+        "word": "Cai",
+        "start": 6.731,
+        "end": 6.791,
+        "score": 0.013
+      },
+      {
+        "word": "chân",
+        "start": 6.811,
+        "end": 6.952,
+        "score": 0.014
+      },
+      {
+        "word": "của",
+        "start": 7.012,
+        "end": 7.132,
+        "score": 0.014
+      },
+      {
+        "word": "Dan",
+        "start": 7.152,
+        "end": 7.473,
+        "score": 0.014
+      },
+      {
+        "word": "không",
+        "start": 7.493,
+        "end": 7.614,
+        "score": 0.013
+      },
+      {
+        "word": "cao",
+        "start": 7.634,
+        "end": 7.754,
+        "score": 0.009
+      },
+      {
+        "word": "như",
+        "start": 7.774,
+        "end": 7.834,
+        "score": 0.013
+      },
+      {
+        "word": "thế.",
+        "start": 7.874,
+        "end": 9.259,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 22,
+    "segment_start_offset": 385.826
+  },
+  {
+    "start": 9.279,
+    "end": 10.683,
+    "text": "Vậy các bạn nghĩ ai đang cầm máy quay?",
+    "words": [
+      {
+        "word": "Vậy",
+        "start": 9.279,
+        "end": 9.499,
+        "score": 0.014
+      },
+      {
+        "word": "các",
+        "start": 9.519,
+        "end": 9.62,
+        "score": 0.012
+      },
+      {
+        "word": "bạn",
+        "start": 9.64,
+        "end": 9.72,
+        "score": 0.012
+      },
+      {
+        "word": "nghĩ",
+        "start": 9.76,
+        "end": 9.84,
+        "score": 0.013
+      },
+      {
+        "word": "ai",
+        "start": 9.941,
+        "end": 10.001,
+        "score": 0.013
+      },
+      {
+        "word": "đang",
+        "start": 10.021,
+        "end": 10.101,
+        "score": 0.012
+      },
+      {
+        "word": "cầm",
+        "start": 10.141,
+        "end": 10.201,
+        "score": 0.012
+      },
+      {
+        "word": "máy",
+        "start": 10.222,
+        "end": 10.342,
+        "score": 0.013
+      },
+      {
+        "word": "quay?",
+        "start": 10.382,
+        "end": 10.683,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 22,
+    "segment_start_offset": 385.826
+  },
+  {
+    "start": 10.703,
+    "end": 11.846,
+    "text": "Chính là người yêu của Dan.",
+    "words": [
+      {
+        "word": "Chính",
+        "start": 10.703,
+        "end": 11.004,
+        "score": 0.016
+      },
+      {
+        "word": "là",
+        "start": 11.024,
+        "end": 11.084,
+        "score": 0.01
+      },
+      {
+        "word": "người",
+        "start": 11.104,
+        "end": 11.365,
+        "score": 0.013
+      },
+      {
+        "word": "yêu",
+        "start": 11.385,
+        "end": 11.465,
+        "score": 0.013
+      },
+      {
+        "word": "của",
+        "start": 11.545,
+        "end": 11.606,
+        "score": 0.011
+      },
+      {
+        "word": "Dan.",
+        "start": 11.626,
+        "end": 11.846,
+        "score": 0.012
+      }
+    ],
+    "segment_id": 22,
+    "segment_start_offset": 385.826
+  },
+  {
+    "start": 11.967,
+    "end": 21.094,
+    "text": "Hai tuần trước đây, em ấy cùng với em gái em ấy mới khai trương cửa hàng thời trang cực đáng yêu này.",
+    "words": [
+      {
+        "word": "Hai",
+        "start": 11.967,
+        "end": 12.187,
+        "score": 0.011
+      },
+      {
+        "word": "tuần",
+        "start": 12.288,
+        "end": 12.569,
+        "score": 0.012
+      },
+      {
+        "word": "trước",
+        "start": 12.589,
+        "end": 13.551,
+        "score": 0.014
+      },
+      {
+        "word": "đây,",
+        "start": 13.572,
+        "end": 16.661,
+        "score": 0.015
+      },
+      {
+        "word": "em",
+        "start": 16.681,
+        "end": 16.721,
+        "score": 0.016
+      },
+      {
+        "word": "ấy",
+        "start": 16.741,
+        "end": 16.801,
+        "score": 0.012
+      },
+      {
+        "word": "cùng",
+        "start": 16.821,
+        "end": 17.162,
+        "score": 0.014
+      },
+      {
+        "word": "với",
+        "start": 17.182,
+        "end": 17.323,
+        "score": 0.013
+      },
+      {
+        "word": "em",
+        "start": 17.343,
+        "end": 17.383,
+        "score": 0.012
+      },
+      {
+        "word": "gái",
+        "start": 17.403,
+        "end": 17.724,
+        "score": 0.012
+      },
+      {
+        "word": "em",
+        "start": 17.764,
+        "end": 17.884,
+        "score": 0.012
+      },
+      {
+        "word": "ấy",
+        "start": 17.905,
+        "end": 18.085,
+        "score": 0.014
+      },
+      {
+        "word": "mới",
+        "start": 18.185,
+        "end": 18.326,
+        "score": 0.011
+      },
+      {
+        "word": "khai",
+        "start": 18.366,
+        "end": 18.566,
+        "score": 0.012
+      },
+      {
+        "word": "trương",
+        "start": 18.587,
+        "end": 18.787,
+        "score": 0.01
+      },
+      {
+        "word": "cửa",
+        "start": 18.968,
+        "end": 19.088,
+        "score": 0.01
+      },
+      {
+        "word": "hàng",
+        "start": 19.108,
+        "end": 19.309,
+        "score": 0.012
+      },
+      {
+        "word": "thời",
+        "start": 19.369,
+        "end": 19.489,
+        "score": 0.011
+      },
+      {
+        "word": "trang",
+        "start": 19.509,
+        "end": 19.69,
+        "score": 0.013
+      },
+      {
+        "word": "cực",
+        "start": 19.71,
+        "end": 20.051,
+        "score": 0.014
+      },
+      {
+        "word": "đáng",
+        "start": 20.071,
+        "end": 20.773,
+        "score": 0.012
+      },
+      {
+        "word": "yêu",
+        "start": 20.793,
+        "end": 20.954,
+        "score": 0.011
+      },
+      {
+        "word": "này.",
+        "start": 21.014,
+        "end": 21.094,
+        "score": 0.013
+      }
+    ],
+    "segment_id": 22,
+    "segment_start_offset": 385.826
+  },
+  {
+    "start": 0.031,
+    "end": 8.961,
+    "text": " Nếu bạn thích ủng hộ cả mấy nữa, thì ghé qua trang của mấy, facebook.com ghechewblueberrieshop21, và xem liệu có gì bạn thích không.",
+    "words": [
+      {
+        "word": "Nếu",
+        "start": 0.031,
+        "end": 0.091,
+        "score": 0.008
+      },
+      {
+        "word": "bạn",
+        "start": 0.111,
+        "end": 0.212,
+        "score": 0.012
+      },
+      {
+        "word": "thích",
+        "start": 0.292,
+        "end": 0.554,
+        "score": 0.012
+      },
+      {
+        "word": "ủng",
+        "start": 0.574,
+        "end": 0.675,
+        "score": 0.011
+      },
+      {
+        "word": "hộ",
+        "start": 0.695,
+        "end": 0.735,
+        "score": 0.012
+      },
+      {
+        "word": "cả",
+        "start": 0.755,
+        "end": 0.795,
+        "score": 0.013
+      },
+      {
+        "word": "mấy",
+        "start": 0.815,
+        "end": 0.876,
+        "score": 0.011
+      },
+      {
+        "word": "nữa,",
+        "start": 0.896,
+        "end": 1.017,
+        "score": 0.014
+      },
+      {
+        "word": "thì",
+        "start": 1.037,
+        "end": 1.198,
+        "score": 0.013
+      },
+      {
+        "word": "ghé",
+        "start": 1.218,
+        "end": 1.419,
+        "score": 0.011
+      },
+      {
+        "word": "qua",
+        "start": 1.439,
+        "end": 1.499,
+        "score": 0.01
+      },
+      {
+        "word": "trang",
+        "start": 1.58,
+        "end": 1.982,
+        "score": 0.012
+      },
+      {
+        "word": "của",
+        "start": 2.243,
+        "end": 2.384,
+        "score": 0.011
+      },
+      {
+        "word": "mấy,",
+        "start": 2.404,
+        "end": 2.565,
+        "score": 0.016
+      },
+      {
+        "word": "facebook.com",
+        "start": 2.626,
+        "end": 3.993,
+        "score": 0.012
+      },
+      {
+        "word": "ghechewblueberrieshop21,",
+        "start": 4.154,
+        "end": 5.341,
+        "score": 0.012
+      },
+      {
+        "word": "và",
+        "start": 5.381,
+        "end": 5.421,
+        "score": 0.007
+      },
+      {
+        "word": "xem",
+        "start": 5.441,
+        "end": 5.964,
+        "score": 0.012
+      },
+      {
+        "word": "liệu",
+        "start": 6.025,
+        "end": 6.105,
+        "score": 0.012
+      },
+      {
+        "word": "có",
+        "start": 6.125,
+        "end": 6.226,
+        "score": 0.011
+      },
+      {
+        "word": "gì",
+        "start": 6.246,
+        "end": 6.326,
+        "score": 0.011
+      },
+      {
+        "word": "bạn",
+        "start": 6.346,
+        "end": 6.427,
+        "score": 0.011
+      },
+      {
+        "word": "thích",
+        "start": 6.467,
+        "end": 6.588,
+        "score": 0.015
+      },
+      {
+        "word": "không.",
+        "start": 6.749,
+        "end": 8.961,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 23,
+    "segment_start_offset": 407.458
+  },
+  {
+    "start": 0.031,
+    "end": 0.761,
+    "text": " Cảm ơn đã xem.",
+    "words": [
+      {
+        "word": "Cảm",
+        "start": 0.031,
+        "end": 0.198,
+        "score": 0.013
+      },
+      {
+        "word": "ơn",
+        "start": 0.219,
+        "end": 0.26,
+        "score": 0.015
+      },
+      {
+        "word": "đã",
+        "start": 0.302,
+        "end": 0.448,
+        "score": 0.012
+      },
+      {
+        "word": "xem.",
+        "start": 0.49,
+        "end": 0.761,
+        "score": 0.014
+      }
+    ],
+    "segment_id": 24,
+    "segment_start_offset": 416.994
+  }
+]
