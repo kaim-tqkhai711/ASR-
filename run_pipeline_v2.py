@@ -9,6 +9,7 @@ from pathlib import Path
 import numpy as np
 import torch
 import torchaudio
+from datetime import datetime
 
 # --- Numpy 2.0 Hotfix ---
 if not hasattr(np, 'NaN'):
@@ -22,7 +23,7 @@ os.environ["OMP_NUM_THREADS"] = "1"
 # ==========================================
 # CONFIGURATION
 # ==========================================
-INPUT_FILE = Path("input1.wav") 
+INPUT_FILE = Path("2005.wav") 
 OUTPUT_DIR = Path("ASRmodel")
 
 # ==========================================
@@ -123,10 +124,15 @@ def run_pipeline():
     print(f"🔹 File đầu vào: {INPUT_FILE}")
     print(f"🔹 Thư mục output gốc: {OUTPUT_DIR.resolve()}")
     
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    temp_dir = OUTPUT_DIR / "temp"
+    # Create timestamped run directory
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    run_dir = OUTPUT_DIR / INPUT_FILE.stem / f"run_{timestamp}"
+    run_dir.mkdir(parents=True, exist_ok=True)
+    print(f"🔹 Output run dir: {run_dir.resolve()}")
+
+    temp_dir = run_dir / "temp"
     temp_dir.mkdir(parents=True, exist_ok=True)
-    segment_out_dir = OUTPUT_DIR / "output_segment"
+    segment_out_dir = run_dir / "output_segment"
     segment_out_dir.mkdir(parents=True, exist_ok=True)
 
     if not INPUT_FILE.exists():
@@ -136,6 +142,8 @@ def run_pipeline():
     # STEP 1: DEMUCS
     print("\n[Step 1] Tách Vocal bằng Demucs...")
     input_stem = INPUT_FILE.stem
+    # Correct path for Demucs output checking
+    # Demucs by default outputs to {temp_dir}/htdemucs/{input_stem}/vocals.wav
     vocals_path = temp_dir / "htdemucs" / input_stem / "vocals.wav"
     
     if vocals_path.exists():
@@ -151,9 +159,41 @@ def run_pipeline():
             return
     if not vocals_path.exists(): return
 
-    # STEP 2: SKIP DEEPFILTERNET
-    print("\n[Step 2] Bỏ qua Speech Enhancement (DeepFilterNet).")
-    cleaned_audio_path = vocals_path
+    # STEP 2: SPEECH ENHANCEMENT (DEEPFILTERNET)
+    print("\n[Step 2] Khử nhiễu bằng DeepFilterNet...")
+    enhanced_dir = temp_dir / "enhanced"
+    enhanced_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Check if enhanced file already exists (from previous runs or manual check)
+    # Output of deepFilter is usually {filename}_DeepFilterNet3.wav
+    # Since input is vocals.wav, output is vocals_DeepFilterNet3.wav
+    expected_enhanced_vocab_name = "vocals_DeepFilterNet3.wav"
+    cleaned_audio_path = enhanced_dir / expected_enhanced_vocab_name
+    
+    if cleaned_audio_path.exists():
+        print("   -> File enhanced đã tồn tại, sẽ sử dụng lại.")
+    else:
+        deepfilter_cmd_name = "deepFilter" 
+        deepfilter_exe = get_python_script_path(deepfilter_cmd_name)
+        
+        deep_cmd = [deepfilter_exe, str(vocals_path), "-o", str(enhanced_dir)]
+        try:
+             print(f"   -> Running DeepFilterNet: {deep_cmd}")
+             subprocess.run(deep_cmd, check=True)
+        except Exception as e:
+             print(f"❌ Lỗi DeepFilterNet: {e}")
+             print("   -> Sẽ dùng file vocals gốc.")
+             cleaned_audio_path = vocals_path
+             
+    if not cleaned_audio_path.exists():
+        # Fallback just in case output name differs
+        found = list(enhanced_dir.glob("*_DeepFilterNet3.wav"))
+        if found:
+            cleaned_audio_path = found[0]
+        else:
+            cleaned_audio_path = vocals_path
+
+    print(f"   -> Audio input cho Whisper: {cleaned_audio_path}")
 
     # STEP 3: WHISPERX
     print("\n[Step 3] Nhận dạng toàn bộ file (WhisperX)...")
@@ -165,6 +205,14 @@ def run_pipeline():
         model = whisperx.load_model("large-v2", device, compute_type=compute_type)
         audio = whisperx.load_audio(str(cleaned_audio_path))
         result = model.transcribe(audio, batch_size=(4 if device=="cuda" else 1), language="vi")
+        
+        # --- DEBUG: Save Raw Output ---
+        raw_json_path = segment_out_dir / "raw_whisper.json"
+        with open(raw_json_path, "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+        print(f"   -> Đã lưu raw JSON tại: {raw_json_path}")
+        # ------------------------------
+
         model_a, metadata = whisperx.load_align_model(language_code=result["language"], device=device)
         result = whisperx.align(result["segments"], model_a, metadata, audio, device, return_char_alignments=False)
         del model, model_a
@@ -178,7 +226,9 @@ def run_pipeline():
     print("\n[Step 4] Gán nhãn Code-Switching (Context-Aware)...")
     final_results = []
     
-    ambiguous_set = {"do", "to", "on"} 
+    # Ambiguous set: words that can be VI or EN depending on context
+    # Added 'a' (A level), and single digits '0'-'9' (often read as numbers in VI context but look EN)
+    ambiguous_set = {"do", "to", "on", "a", "an"} 
     
     for segment in result["segments"]:
         start = segment["start"]
@@ -204,7 +254,10 @@ def run_pipeline():
             
             # Determine initial status
             is_vn = is_vietnamese_word(raw_w)
-            is_ambiguous = (clean_w.lower() in ambiguous_set)
+            
+            # Check if ambiguous (in set OR single digit)
+            lower_w = clean_w.lower()
+            is_ambiguous = (lower_w in ambiguous_set) or (lower_w.isdigit() and len(lower_w) == 1)
             
             seg_words.append({
                 "text": clean_w,
@@ -219,24 +272,25 @@ def run_pipeline():
             if w_item["is_ambiguous"]:
                 
                 # Context Vectors
-                prev_vi = None
+                prev_is_vn = None
                 if k > 0:
-                    prev_vi = seg_words[k-1]["is_vn"]
+                    prev_is_vn = seg_words[k-1]["is_vn"]
                 
-                next_vi = None
+                next_is_vn = None
                 if k < len(seg_words) - 1:
-                    next_vi = seg_words[k+1]["is_vn"]
+                    next_is_vn = seg_words[k+1]["is_vn"]
                 
-                # Logic Quyết định: 
-                # Ưu tiên 1: Lấy theo từ phía trước (Forward chaining)
-                if prev_vi is not None:
-                     w_item["is_vn"] = prev_vi
-                     
-                # Ưu tiên 2: Nếu không có từ trước (đầu câu), lấy theo từ phía sau (Backward chaining)
-                elif next_vi is not None:
-                     w_item["is_vn"] = next_vi
-                
-                # Ưu tiên 3: Nếu cả 2 đều không có (câu 1 từ), hoặc context xung quanh cũng ambiguous -> Default False (En)
+                # Logic Fix:
+                # Nếu bất kỳ từ hàng xóm nào là Tiếng Anh (False), thì từ Ambiguous này khả năng cao cũng là Tiếng Anh (bridge word/part of phrase)
+                # Ví dụ: "A level" -> "A" (ambig), "level" (EN) => "A" -> EN.
+                if (prev_is_vn is False) or (next_is_vn is False):
+                    w_item["is_vn"] = False
+                    
+                # Else: Fallback logic cũ (ưu tiên từ trước -> sau -> default EN)
+                elif prev_is_vn is not None:
+                     w_item["is_vn"] = prev_is_vn
+                elif next_is_vn is not None:
+                     w_item["is_vn"] = next_is_vn
                 else:
                     w_item["is_vn"] = False
         
