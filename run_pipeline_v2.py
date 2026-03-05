@@ -23,8 +23,23 @@ os.environ["OMP_NUM_THREADS"] = "1"
 # ==========================================
 # CONFIGURATION
 # ==========================================
-INPUT_FILE = Path("2005.wav") 
+INPUT_FILE = Path("input1.wav") 
 OUTPUT_DIR = Path("ASRmodel")
+
+# --- FFmpeg Fix ---
+# Add FFmpeg to PATH if not found
+if not shutil.which("ffmpeg"):
+    # Common Winget install location
+    possible_ffmpeg_paths = [
+        r"C:\Users\khai9\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.0.1-full_build\bin",
+        r"C:\Users\khai9\AppData\Local\Microsoft\WinGet\Links" 
+    ]
+    for p in possible_ffmpeg_paths:
+        if os.path.exists(p) and os.path.exists(os.path.join(p, "ffmpeg.exe")):
+            print(f"🔹 Adding {p} to PATH")
+            os.environ["PATH"] += os.pathsep + p
+            break
+# ------------------
 
 # ==========================================
 # HELPER FUNCTIONS
@@ -159,40 +174,8 @@ def run_pipeline():
             return
     if not vocals_path.exists(): return
 
-    # STEP 2: SPEECH ENHANCEMENT (DEEPFILTERNET)
-    print("\n[Step 2] Khử nhiễu bằng DeepFilterNet...")
-    enhanced_dir = temp_dir / "enhanced"
-    enhanced_dir.mkdir(parents=True, exist_ok=True)
+    cleaned_audio_path = vocals_path
     
-    # Check if enhanced file already exists (from previous runs or manual check)
-    # Output of deepFilter is usually {filename}_DeepFilterNet3.wav
-    # Since input is vocals.wav, output is vocals_DeepFilterNet3.wav
-    expected_enhanced_vocab_name = "vocals_DeepFilterNet3.wav"
-    cleaned_audio_path = enhanced_dir / expected_enhanced_vocab_name
-    
-    if cleaned_audio_path.exists():
-        print("   -> File enhanced đã tồn tại, sẽ sử dụng lại.")
-    else:
-        deepfilter_cmd_name = "deepFilter" 
-        deepfilter_exe = get_python_script_path(deepfilter_cmd_name)
-        
-        deep_cmd = [deepfilter_exe, str(vocals_path), "-o", str(enhanced_dir)]
-        try:
-             print(f"   -> Running DeepFilterNet: {deep_cmd}")
-             subprocess.run(deep_cmd, check=True)
-        except Exception as e:
-             print(f"❌ Lỗi DeepFilterNet: {e}")
-             print("   -> Sẽ dùng file vocals gốc.")
-             cleaned_audio_path = vocals_path
-             
-    if not cleaned_audio_path.exists():
-        # Fallback just in case output name differs
-        found = list(enhanced_dir.glob("*_DeepFilterNet3.wav"))
-        if found:
-            cleaned_audio_path = found[0]
-        else:
-            cleaned_audio_path = vocals_path
-
     print(f"   -> Audio input cho Whisper: {cleaned_audio_path}")
 
     # STEP 3: WHISPERX
