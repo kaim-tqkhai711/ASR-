@@ -10,22 +10,22 @@ Pipeline này thực hiện xử lý âm thanh đầu vào, tách lời (vocals)
 
 ## Cài đặt
 
-Cài đặt các thư viện Python theo đúng thứ tự dưới đây để tránh lỗi xung đột (như lỗi `np.float` hoặc mất phiên bản PyTorch chạy GPU):
+Dự án đã được cập nhật danh sách các thư viện cấu hình ổn định trong file `requirements.txt`. Hệ thống khuyến nghị sử dụng Python 3.8+ và cài đặt trong môi trường ảo (virtual environment).
 
 ```bash
-# 1. Cài đặt Numpy tương thích (tránh lỗi với WhisperX/Demucs)
-pip install "numpy<2.0.0"
+# 1. Khởi tạo và kích hoạt virtual environment
+python -m venv .venv
+# Trên Windows:
+.venv\Scripts\activate
+# Trên Linux/macOS:
+source .venv/bin/activate
 
-# 2. Cài đặt PyTorch (Chọn phiên bản phù hợp với hệ thống tại https://pytorch.org/)
-# Ví dụ cài bản cho CUDA 11.8:
-pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu118
+# 2. Cài đặt toàn bộ thư viện cần thiết
+# Khuyến nghị thêm --extra-index-url để pip hỗ trợ tải đúng phiên bản PyTorch cho GPU (CUDA)
+pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu121
 
-# 3. Cài đặt Demucs
-pip install demucs
-
-# 4. Cài đặt WhisperX
-# Lưu ý: cần thêm --extra-index-url để pip không tự động hạ cấp PyTorch xuống bản CPU
-pip install git+https://github.com/m-bain/whisperx.git --extra-index-url https://download.pytorch.org/whl/cu118
+# Lưu ý: Nếu bước trên không thể cài đặt thành công WhisperX, bạn có thể chạy riêng lệnh sau:
+pip install git+https://github.com/m-bain/whisperx.git
 ```
 
 ## Chuẩn bị dữ liệu
